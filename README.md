@@ -1,12 +1,12 @@
 ### Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking
 
 #### Hardware
-Raspberry Pi (Raspbian-lite) + EdgeTPU
+Raspberry Pi ([Raspbian-lite](https://www.raspberrypi.org/downloads/raspberry-pi-os/)) + [EdgeTPU](https://coral.ai/products/accelerator)
 
 #### Dependency
 - opencv_depdency/ contains the pre-compiled opencv library for Raspberry Pi
 - other_dependency.sh
-- edgetpu python library
+- [edgetpu python library](https://coral.ai/docs/accelerator/get-started/)
 
 #### System components
 - Camera topology server: archive/cameraTop/camera_topology_server.py contains the camera topology code, config/cameras.json contains the camera location configuration.
