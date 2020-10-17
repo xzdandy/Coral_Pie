@@ -1,0 +1,772 @@
+21866 2020-06-02 06:01:01,317.317 root         INFO     Successfully login into Campus Camera Stream --- ferst_atlantic
+21866 2020-06-02 06:01:03,176.176 Detection_Func DEBUG    fetch_frame function took 1857.731 ms
+21866 2020-06-02 06:01:03,301.301 Detection_Func DEBUG    load_frame function took 124.691 ms
+21866 2020-06-02 06:01:03,304.304 Detection_Func DEBUG    resize_frame function took 1.930 ms
+21866 2020-06-02 06:01:03,554.554 Detection_Func DEBUG    inference function took 248.876 ms
+21866 2020-06-02 06:01:03,555.555 Detection_Func DEBUG    post_inference function took 0.753 ms
+21866 2020-06-02 06:01:03,555.555 root         INFO     Detection result: []
+21866 2020-06-02 06:01:03,556.556 Detection_Func DEBUG    send_detection_results function took 0.664 ms
+21866 2020-06-02 06:01:03,557.557 root         DEBUG    FPS: 0.00
+21866 2020-06-02 06:01:03,605.605 Detection_Func DEBUG    fetch_frame function took 47.361 ms
+21866 2020-06-02 06:01:03,695.695 Detection_Func DEBUG    load_frame function took 88.684 ms
+21866 2020-06-02 06:01:03,701.701 Detection_Func DEBUG    resize_frame function took 2.764 ms
+21866 2020-06-02 06:01:03,794.794 Detection_Func DEBUG    inference function took 91.704 ms
+21866 2020-06-02 06:01:03,796.796 Detection_Func DEBUG    post_inference function took 1.323 ms
+21866 2020-06-02 06:01:03,797.797 root         INFO     Detection result: []
+21866 2020-06-02 06:01:03,798.798 Detection_Func DEBUG    send_detection_results function took 0.820 ms
+21866 2020-06-02 06:01:03,799.799 root         DEBUG    FPS: 8.26
+21866 2020-06-02 06:01:03,850.850 Detection_Func DEBUG    fetch_frame function took 50.107 ms
+21866 2020-06-02 06:01:03,941.941 Detection_Func DEBUG    load_frame function took 89.637 ms
+21866 2020-06-02 06:01:03,946.946 Detection_Func DEBUG    resize_frame function took 2.059 ms
+21866 2020-06-02 06:01:04,047.047 Detection_Func DEBUG    inference function took 99.015 ms
+21866 2020-06-02 06:01:04,049.049 Detection_Func DEBUG    post_inference function took 1.216 ms
+21866 2020-06-02 06:01:04,049.049 root         INFO     Detection result: []
+21866 2020-06-02 06:01:04,051.051 Detection_Func DEBUG    send_detection_results function took 0.857 ms
+21866 2020-06-02 06:01:04,052.052 root         DEBUG    FPS: 6.06
+21866 2020-06-02 06:01:04,106.106 Detection_Func DEBUG    fetch_frame function took 53.380 ms
+21866 2020-06-02 06:01:04,197.197 Detection_Func DEBUG    load_frame function took 89.547 ms
+21866 2020-06-02 06:01:04,203.203 Detection_Func DEBUG    resize_frame function took 2.752 ms
+21866 2020-06-02 06:01:04,302.302 Detection_Func DEBUG    inference function took 97.985 ms
+21866 2020-06-02 06:01:04,304.304 Detection_Func DEBUG    post_inference function took 1.305 ms
+21866 2020-06-02 06:01:04,305.305 root         INFO     Detection result: []
+21866 2020-06-02 06:01:04,306.306 Detection_Func DEBUG    send_detection_results function took 0.863 ms
+21866 2020-06-02 06:01:04,308.308 root         DEBUG    FPS: 5.33
+21866 2020-06-02 06:01:04,511.511 Detection_Func DEBUG    fetch_frame function took 202.952 ms
+21866 2020-06-02 06:01:04,602.602 Detection_Func DEBUG    load_frame function took 89.288 ms
+21866 2020-06-02 06:01:04,608.608 Detection_Func DEBUG    resize_frame function took 2.774 ms
+21866 2020-06-02 06:01:04,707.707 Detection_Func DEBUG    inference function took 98.361 ms
+21866 2020-06-02 06:01:04,709.709 Detection_Func DEBUG    post_inference function took 1.266 ms
+21866 2020-06-02 06:01:04,710.710 root         INFO     Detection result: []
+21866 2020-06-02 06:01:04,712.712 Detection_Func DEBUG    send_detection_results function took 1.196 ms
+21866 2020-06-02 06:01:04,713.713 root         DEBUG    FPS: 4.33
+21866 2020-06-02 06:01:04,764.764 Detection_Func DEBUG    fetch_frame function took 49.844 ms
+21866 2020-06-02 06:01:04,853.853 Detection_Func DEBUG    load_frame function took 87.825 ms
+21866 2020-06-02 06:01:04,859.859 Detection_Func DEBUG    resize_frame function took 2.431 ms
+21866 2020-06-02 06:01:04,958.958 Detection_Func DEBUG    inference function took 98.496 ms
+21866 2020-06-02 06:01:04,960.960 Detection_Func DEBUG    post_inference function took 1.303 ms
+21866 2020-06-02 06:01:04,961.961 root         INFO     Detection result: []
+21866 2020-06-02 06:01:04,963.963 Detection_Func DEBUG    send_detection_results function took 0.760 ms
+21866 2020-06-02 06:01:04,964.964 root         DEBUG    FPS: 4.27
+21866 2020-06-02 06:01:05,013.013 Detection_Func DEBUG    fetch_frame function took 48.133 ms
+21866 2020-06-02 06:01:05,102.102 Detection_Func DEBUG    load_frame function took 88.526 ms
+21866 2020-06-02 06:01:05,108.108 Detection_Func DEBUG    resize_frame function took 2.046 ms
+21866 2020-06-02 06:01:05,208.208 Detection_Func DEBUG    inference function took 98.690 ms
+21866 2020-06-02 06:01:05,210.210 Detection_Func DEBUG    post_inference function took 1.301 ms
+21866 2020-06-02 06:01:05,211.211 root         INFO     Detection result: []
+21866 2020-06-02 06:01:05,212.212 Detection_Func DEBUG    send_detection_results function took 0.773 ms
+21866 2020-06-02 06:01:05,213.213 root         DEBUG    FPS: 4.23
+21866 2020-06-02 06:01:05,262.262 Detection_Func DEBUG    fetch_frame function took 47.784 ms
+21866 2020-06-02 06:01:05,350.350 Detection_Func DEBUG    load_frame function took 87.540 ms
+21866 2020-06-02 06:01:05,356.356 Detection_Func DEBUG    resize_frame function took 2.120 ms
+21866 2020-06-02 06:01:05,455.455 Detection_Func DEBUG    inference function took 98.161 ms
+21866 2020-06-02 06:01:05,457.457 Detection_Func DEBUG    post_inference function took 1.364 ms
+21866 2020-06-02 06:01:05,458.458 root         INFO     Detection result: []
+21866 2020-06-02 06:01:05,459.459 Detection_Func DEBUG    send_detection_results function took 0.803 ms
+21866 2020-06-02 06:01:05,460.460 root         DEBUG    FPS: 4.20
+21866 2020-06-02 06:01:06,260.260 Detection_Func DEBUG    fetch_frame function took 798.768 ms
+21866 2020-06-02 06:01:06,349.349 Detection_Func DEBUG    load_frame function took 87.670 ms
+21866 2020-06-02 06:01:06,354.354 Detection_Func DEBUG    resize_frame function took 2.086 ms
+21866 2020-06-02 06:01:06,473.473 Detection_Func DEBUG    inference function took 97.824 ms
+21866 2020-06-02 06:01:06,475.475 Detection_Func DEBUG    post_inference function took 1.940 ms
+21866 2020-06-02 06:01:06,476.476 root         INFO     Detection result: [[426.50428771972656, 218.36812019348145, 476.2074279785156, 257.03261375427246, 0.2109375]]
+21866 2020-06-02 06:01:06,478.478 Detection_Func DEBUG    send_detection_results function took 1.384 ms
+21866 2020-06-02 06:01:06,479.479 root         DEBUG    FPS: 3.08
+21866 2020-06-02 06:01:06,944.944 Detection_Func DEBUG    fetch_frame function took 463.775 ms
+21866 2020-06-02 06:01:07,033.033 Detection_Func DEBUG    load_frame function took 87.790 ms
+21866 2020-06-02 06:01:07,039.039 Detection_Func DEBUG    resize_frame function took 2.059 ms
+21866 2020-06-02 06:01:07,138.138 Detection_Func DEBUG    inference function took 98.694 ms
+21866 2020-06-02 06:01:07,141.141 Detection_Func DEBUG    post_inference function took 1.463 ms
+21866 2020-06-02 06:01:07,141.141 root         INFO     Detection result: []
+21866 2020-06-02 06:01:07,143.143 Detection_Func DEBUG    send_detection_results function took 0.799 ms
+21866 2020-06-02 06:01:07,144.144 root         DEBUG    FPS: 2.79
+21866 2020-06-02 06:01:07,779.779 Detection_Func DEBUG    fetch_frame function took 633.820 ms
+21866 2020-06-02 06:01:07,868.868 Detection_Func DEBUG    load_frame function took 88.180 ms
+21866 2020-06-02 06:01:07,873.873 Detection_Func DEBUG    resize_frame function took 2.057 ms
+21866 2020-06-02 06:01:07,973.973 Detection_Func DEBUG    inference function took 98.337 ms
+21866 2020-06-02 06:01:07,975.975 Detection_Func DEBUG    post_inference function took 1.939 ms
+21866 2020-06-02 06:01:07,976.976 root         INFO     Detection result: [[423.62548828125, 221.76318168640137, 479.0862274169922, 260.4276752471924, 0.26953125]]
+21866 2020-06-02 06:01:07,978.978 Detection_Func DEBUG    send_detection_results function took 1.363 ms
+21866 2020-06-02 06:01:07,979.979 root         DEBUG    FPS: 2.39
+21866 2020-06-02 06:01:08,030.030 Detection_Func DEBUG    fetch_frame function took 49.452 ms
+21866 2020-06-02 06:01:08,119.119 Detection_Func DEBUG    load_frame function took 88.179 ms
+21866 2020-06-02 06:01:08,125.125 Detection_Func DEBUG    resize_frame function took 2.183 ms
+21866 2020-06-02 06:01:08,223.223 Detection_Func DEBUG    inference function took 97.862 ms
+21866 2020-06-02 06:01:08,226.226 Detection_Func DEBUG    post_inference function took 1.508 ms
+21866 2020-06-02 06:01:08,227.227 root         INFO     Detection result: []
+21866 2020-06-02 06:01:08,228.228 Detection_Func DEBUG    send_detection_results function took 0.804 ms
+21866 2020-06-02 06:01:08,229.229 root         DEBUG    FPS: 2.39
+21866 2020-06-02 06:01:08,281.281 Detection_Func DEBUG    fetch_frame function took 50.981 ms
+21866 2020-06-02 06:01:08,370.370 Detection_Func DEBUG    load_frame function took 88.427 ms
+21866 2020-06-02 06:01:08,376.376 Detection_Func DEBUG    resize_frame function took 2.131 ms
+21866 2020-06-02 06:01:08,475.475 Detection_Func DEBUG    inference function took 97.909 ms
+21866 2020-06-02 06:01:08,477.477 Detection_Func DEBUG    post_inference function took 1.468 ms
+21866 2020-06-02 06:01:08,478.478 root         INFO     Detection result: []
+21866 2020-06-02 06:01:08,479.479 Detection_Func DEBUG    send_detection_results function took 0.801 ms
+21866 2020-06-02 06:01:08,481.481 root         DEBUG    FPS: 2.40
+21866 2020-06-02 06:01:08,528.528 Detection_Func DEBUG    fetch_frame function took 46.855 ms
+21866 2020-06-02 06:01:08,618.618 Detection_Func DEBUG    load_frame function took 88.834 ms
+21866 2020-06-02 06:01:08,624.624 Detection_Func DEBUG    resize_frame function took 2.044 ms
+21866 2020-06-02 06:01:08,723.723 Detection_Func DEBUG    inference function took 97.796 ms
+21866 2020-06-02 06:01:08,725.725 Detection_Func DEBUG    post_inference function took 1.495 ms
+21866 2020-06-02 06:01:08,726.726 root         INFO     Detection result: []
+21866 2020-06-02 06:01:08,727.727 Detection_Func DEBUG    send_detection_results function took 0.830 ms
+21866 2020-06-02 06:01:08,728.728 root         DEBUG    FPS: 2.49
+21866 2020-06-02 06:01:08,781.781 Detection_Func DEBUG    fetch_frame function took 51.597 ms
+21866 2020-06-02 06:01:08,871.871 Detection_Func DEBUG    load_frame function took 88.832 ms
+21866 2020-06-02 06:01:08,876.876 Detection_Func DEBUG    resize_frame function took 2.134 ms
+21866 2020-06-02 06:01:08,959.959 Detection_Func DEBUG    inference function took 81.816 ms
+21866 2020-06-02 06:01:08,961.961 Detection_Func DEBUG    post_inference function took 1.416 ms
+21866 2020-06-02 06:01:08,962.962 root         INFO     Detection result: []
+21866 2020-06-02 06:01:08,964.964 Detection_Func DEBUG    send_detection_results function took 0.824 ms
+21866 2020-06-02 06:01:08,965.965 root         DEBUG    FPS: 2.50
+21866 2020-06-02 06:01:09,065.065 Detection_Func DEBUG    fetch_frame function took 99.493 ms
+21866 2020-06-02 06:01:09,155.155 Detection_Func DEBUG    load_frame function took 89.115 ms
+21866 2020-06-02 06:01:09,161.161 Detection_Func DEBUG    resize_frame function took 2.060 ms
+21866 2020-06-02 06:01:09,244.244 Detection_Func DEBUG    inference function took 82.138 ms
+21866 2020-06-02 06:01:09,246.246 Detection_Func DEBUG    post_inference function took 1.545 ms
+21866 2020-06-02 06:01:09,247.247 root         INFO     Detection result: []
+21866 2020-06-02 06:01:09,249.249 Detection_Func DEBUG    send_detection_results function took 0.803 ms
+21866 2020-06-02 06:01:09,250.250 root         DEBUG    FPS: 2.48
+21866 2020-06-02 06:01:09,297.297 Detection_Func DEBUG    fetch_frame function took 46.405 ms
+21866 2020-06-02 06:01:09,387.387 Detection_Func DEBUG    load_frame function took 89.285 ms
+21866 2020-06-02 06:01:09,393.393 Detection_Func DEBUG    resize_frame function took 2.046 ms
+21866 2020-06-02 06:01:09,475.475 Detection_Func DEBUG    inference function took 81.623 ms
+21866 2020-06-02 06:01:09,477.477 Detection_Func DEBUG    post_inference function took 1.331 ms
+21866 2020-06-02 06:01:09,478.478 root         INFO     Detection result: []
+21866 2020-06-02 06:01:09,480.480 Detection_Func DEBUG    send_detection_results function took 0.864 ms
+21866 2020-06-02 06:01:09,481.481 root         DEBUG    FPS: 2.49
+21866 2020-06-02 06:01:09,534.534 Detection_Func DEBUG    fetch_frame function took 52.610 ms
+21866 2020-06-02 06:01:09,625.625 Detection_Func DEBUG    load_frame function took 89.149 ms
+21866 2020-06-02 06:01:09,630.630 Detection_Func DEBUG    resize_frame function took 2.042 ms
+21866 2020-06-02 06:01:09,713.713 Detection_Func DEBUG    inference function took 81.687 ms
+21866 2020-06-02 06:01:09,715.715 Detection_Func DEBUG    post_inference function took 1.527 ms
+21866 2020-06-02 06:01:09,716.716 root         INFO     Detection result: []
+21866 2020-06-02 06:01:09,718.718 Detection_Func DEBUG    send_detection_results function took 0.872 ms
+21866 2020-06-02 06:01:09,719.719 root         DEBUG    FPS: 3.09
+21866 2020-06-02 06:01:09,772.772 Detection_Func DEBUG    fetch_frame function took 52.831 ms
+21866 2020-06-02 06:01:09,863.863 Detection_Func DEBUG    load_frame function took 89.557 ms
+21866 2020-06-02 06:01:09,868.868 Detection_Func DEBUG    resize_frame function took 1.996 ms
+21866 2020-06-02 06:01:09,951.951 Detection_Func DEBUG    inference function took 81.639 ms
+21866 2020-06-02 06:01:09,953.953 Detection_Func DEBUG    post_inference function took 1.457 ms
+21866 2020-06-02 06:01:09,954.954 root         INFO     Detection result: []
+21866 2020-06-02 06:01:09,956.956 Detection_Func DEBUG    send_detection_results function took 0.867 ms
+21866 2020-06-02 06:01:09,957.957 root         DEBUG    FPS: 3.56
+21866 2020-06-02 06:01:10,011.011 Detection_Func DEBUG    fetch_frame function took 52.876 ms
+21866 2020-06-02 06:01:10,099.099 Detection_Func DEBUG    load_frame function took 87.691 ms
+21866 2020-06-02 06:01:10,105.105 Detection_Func DEBUG    resize_frame function took 2.150 ms
+21866 2020-06-02 06:01:10,188.188 Detection_Func DEBUG    inference function took 82.200 ms
+21866 2020-06-02 06:01:10,191.191 Detection_Func DEBUG    post_inference function took 1.902 ms
+21866 2020-06-02 06:01:10,192.192 root         INFO     Detection result: [[423.31615447998047, 223.4507417678833, 474.86881256103516, 258.7401294708252, 0.2109375]]
+21866 2020-06-02 06:01:10,194.194 Detection_Func DEBUG    send_detection_results function took 1.335 ms
+21866 2020-06-02 06:01:10,195.195 root         DEBUG    FPS: 4.51
+21866 2020-06-02 06:01:10,268.268 Detection_Func DEBUG    fetch_frame function took 72.118 ms
+21866 2020-06-02 06:01:10,358.358 Detection_Func DEBUG    load_frame function took 88.706 ms
+21866 2020-06-02 06:01:10,363.363 Detection_Func DEBUG    resize_frame function took 2.051 ms
+21866 2020-06-02 06:01:10,446.446 Detection_Func DEBUG    inference function took 81.648 ms
+21866 2020-06-02 06:01:10,449.449 Detection_Func DEBUG    post_inference function took 2.018 ms
+21866 2020-06-02 06:01:10,450.450 root         INFO     Detection result: [[420.9733200073242, 222.11312770843506, 481.73839569091797, 260.07771492004395, 0.26953125]]
+21866 2020-06-02 06:01:10,452.452 Detection_Func DEBUG    send_detection_results function took 1.364 ms
+21866 2020-06-02 06:01:10,453.453 root         DEBUG    FPS: 4.50
+21866 2020-06-02 06:01:10,504.504 Detection_Func DEBUG    fetch_frame function took 49.908 ms
+21866 2020-06-02 06:01:10,593.593 Detection_Func DEBUG    load_frame function took 88.758 ms
+21866 2020-06-02 06:01:10,599.599 Detection_Func DEBUG    resize_frame function took 2.043 ms
+21866 2020-06-02 06:01:10,682.682 Detection_Func DEBUG    inference function took 81.621 ms
+21866 2020-06-02 06:01:10,684.684 Detection_Func DEBUG    post_inference function took 1.964 ms
+21866 2020-06-02 06:01:10,685.685 root         INFO     Detection result: [[423.4886932373047, 221.26437664031982, 476.9596862792969, 259.2289638519287, 0.2109375]]
+21866 2020-06-02 06:01:10,687.687 Detection_Func DEBUG    send_detection_results function took 1.401 ms
+21866 2020-06-02 06:01:10,689.689 root         DEBUG    FPS: 4.53
+21866 2020-06-02 06:01:10,740.740 Detection_Func DEBUG    fetch_frame function took 50.452 ms
+21866 2020-06-02 06:01:10,830.830 Detection_Func DEBUG    load_frame function took 89.252 ms
+21866 2020-06-02 06:01:10,836.836 Detection_Func DEBUG    resize_frame function took 2.083 ms
+21866 2020-06-02 06:01:10,918.918 Detection_Func DEBUG    inference function took 81.786 ms
+21866 2020-06-02 06:01:10,921.921 Detection_Func DEBUG    post_inference function took 1.842 ms
+21866 2020-06-02 06:01:10,922.922 root         INFO     Detection result: [[422.3569869995117, 216.90258979797363, 475.8279800415039, 258.4981441497803, 0.2109375]]
+21866 2020-06-02 06:01:10,924.924 Detection_Func DEBUG    send_detection_results function took 1.394 ms
+21866 2020-06-02 06:01:10,925.925 root         DEBUG    FPS: 4.55
+21866 2020-06-02 06:01:10,980.980 Detection_Func DEBUG    fetch_frame function took 53.378 ms
+21866 2020-06-02 06:01:11,070.070 Detection_Func DEBUG    load_frame function took 89.376 ms
+21866 2020-06-02 06:01:11,076.076 Detection_Func DEBUG    resize_frame function took 2.166 ms
+21866 2020-06-02 06:01:11,159.159 Detection_Func DEBUG    inference function took 82.026 ms
+21866 2020-06-02 06:01:11,162.162 Detection_Func DEBUG    post_inference function took 1.990 ms
+21866 2020-06-02 06:01:11,162.162 root         INFO     Detection result: [[421.46190643310547, 222.11312770843506, 478.9864730834961, 260.07771492004395, 0.2109375]]
+21866 2020-06-02 06:01:11,165.165 Detection_Func DEBUG    send_detection_results function took 1.485 ms
+21866 2020-06-02 06:01:11,166.166 root         DEBUG    FPS: 4.54
+21866 2020-06-02 06:01:11,217.217 Detection_Func DEBUG    fetch_frame function took 50.074 ms
+21866 2020-06-02 06:01:11,307.307 Detection_Func DEBUG    load_frame function took 89.426 ms
+21866 2020-06-02 06:01:11,313.313 Detection_Func DEBUG    resize_frame function took 2.067 ms
+21866 2020-06-02 06:01:11,396.396 Detection_Func DEBUG    inference function took 81.977 ms
+21866 2020-06-02 06:01:11,398.398 Detection_Func DEBUG    post_inference function took 1.514 ms
+21866 2020-06-02 06:01:11,415.415 root         INFO     Detection result: []
+21866 2020-06-02 06:01:11,416.416 Detection_Func DEBUG    send_detection_results function took 0.854 ms
+21866 2020-06-02 06:01:11,417.417 root         DEBUG    FPS: 4.61
+21866 2020-06-02 06:01:11,490.490 Detection_Func DEBUG    fetch_frame function took 72.197 ms
+21866 2020-06-02 06:01:11,580.580 Detection_Func DEBUG    load_frame function took 89.186 ms
+21866 2020-06-02 06:01:11,586.586 Detection_Func DEBUG    resize_frame function took 2.063 ms
+21866 2020-06-02 06:01:11,669.669 Detection_Func DEBUG    inference function took 81.681 ms
+21866 2020-06-02 06:01:11,671.671 Detection_Func DEBUG    post_inference function took 1.509 ms
+21866 2020-06-02 06:01:11,672.672 root         INFO     Detection result: []
+21866 2020-06-02 06:01:11,673.673 Detection_Func DEBUG    send_detection_results function took 0.875 ms
+21866 2020-06-02 06:01:11,675.675 root         DEBUG    FPS: 4.56
+21866 2020-06-02 06:01:11,725.725 Detection_Func DEBUG    fetch_frame function took 49.993 ms
+21866 2020-06-02 06:01:11,816.816 Detection_Func DEBUG    load_frame function took 89.493 ms
+21866 2020-06-02 06:01:11,821.821 Detection_Func DEBUG    resize_frame function took 2.028 ms
+21866 2020-06-02 06:01:11,904.904 Detection_Func DEBUG    inference function took 81.734 ms
+21866 2020-06-02 06:01:11,907.907 Detection_Func DEBUG    post_inference function took 1.948 ms
+21866 2020-06-02 06:01:11,908.908 root         INFO     Detection result: [[424.1274642944336, 220.5580186843872, 478.5842514038086, 259.9353218078613, 0.2109375]]
+21866 2020-06-02 06:01:11,910.910 Detection_Func DEBUG    send_detection_results function took 1.401 ms
+21866 2020-06-02 06:01:11,911.911 root         DEBUG    FPS: 4.56
+21866 2020-06-02 06:01:11,966.966 Detection_Func DEBUG    fetch_frame function took 53.653 ms
+21866 2020-06-02 06:01:12,054.054 Detection_Func DEBUG    load_frame function took 87.670 ms
+21866 2020-06-02 06:01:12,060.060 Detection_Func DEBUG    resize_frame function took 2.036 ms
+21866 2020-06-02 06:01:12,143.143 Detection_Func DEBUG    inference function took 81.822 ms
+21866 2020-06-02 06:01:12,146.146 Detection_Func DEBUG    post_inference function took 1.948 ms
+21866 2020-06-02 06:01:12,146.146 root         INFO     Detection result: [[429.08424377441406, 222.07261562347412, 473.6274719238281, 256.72319412231445, 0.2109375]]
+21866 2020-06-02 06:01:12,148.148 Detection_Func DEBUG    send_detection_results function took 1.355 ms
+21866 2020-06-02 06:01:12,150.150 root         DEBUG    FPS: 4.56
+21866 2020-06-02 06:01:12,200.200 Detection_Func DEBUG    fetch_frame function took 49.334 ms
+21866 2020-06-02 06:01:12,290.290 Detection_Func DEBUG    load_frame function took 88.927 ms
+21866 2020-06-02 06:01:12,295.295 Detection_Func DEBUG    resize_frame function took 2.148 ms
+21866 2020-06-02 06:01:12,378.378 Detection_Func DEBUG    inference function took 81.882 ms
+21866 2020-06-02 06:01:12,381.381 Detection_Func DEBUG    post_inference function took 1.888 ms
+21866 2020-06-02 06:01:12,382.382 root         INFO     Detection result: [[425.10433197021484, 219.56683158874512, 477.60738372802734, 257.53143310546875, 0.2109375]]
+21866 2020-06-02 06:01:12,384.384 Detection_Func DEBUG    send_detection_results function took 1.383 ms
+21866 2020-06-02 06:01:12,385.385 root         DEBUG    FPS: 4.57
+21866 2020-06-02 06:01:12,433.433 Detection_Func DEBUG    fetch_frame function took 46.533 ms
+21866 2020-06-02 06:01:12,522.522 Detection_Func DEBUG    load_frame function took 88.770 ms
+21866 2020-06-02 06:01:12,528.528 Detection_Func DEBUG    resize_frame function took 2.046 ms
+21866 2020-06-02 06:01:12,611.611 Detection_Func DEBUG    inference function took 81.689 ms
+21866 2020-06-02 06:01:12,613.613 Detection_Func DEBUG    post_inference function took 1.388 ms
+21866 2020-06-02 06:01:12,614.614 root         INFO     Detection result: []
+21866 2020-06-02 06:01:12,615.615 Detection_Func DEBUG    send_detection_results function took 0.865 ms
+21866 2020-06-02 06:01:12,616.616 root         DEBUG    FPS: 4.62
+21866 2020-06-02 06:01:12,689.689 Detection_Func DEBUG    fetch_frame function took 71.436 ms
+21866 2020-06-02 06:01:12,778.778 Detection_Func DEBUG    load_frame function took 88.860 ms
+21866 2020-06-02 06:01:12,784.784 Detection_Func DEBUG    resize_frame function took 2.066 ms
+21866 2020-06-02 06:01:12,867.867 Detection_Func DEBUG    inference function took 81.967 ms
+21866 2020-06-02 06:01:12,869.869 Detection_Func DEBUG    post_inference function took 1.333 ms
+21866 2020-06-02 06:01:12,870.870 root         INFO     Detection result: []
+21866 2020-06-02 06:01:12,872.872 Detection_Func DEBUG    send_detection_results function took 0.811 ms
+21866 2020-06-02 06:01:12,873.873 root         DEBUG    FPS: 4.58
+21866 2020-06-02 06:01:12,921.921 Detection_Func DEBUG    fetch_frame function took 47.707 ms
+21866 2020-06-02 06:01:13,010.010 Detection_Func DEBUG    load_frame function took 87.444 ms
+21866 2020-06-02 06:01:13,015.015 Detection_Func DEBUG    resize_frame function took 2.138 ms
+21866 2020-06-02 06:01:13,098.098 Detection_Func DEBUG    inference function took 81.879 ms
+21866 2020-06-02 06:01:13,101.101 Detection_Func DEBUG    post_inference function took 1.391 ms
+21866 2020-06-02 06:01:13,101.101 root         INFO     Detection result: []
+21866 2020-06-02 06:01:13,103.103 Detection_Func DEBUG    send_detection_results function took 0.765 ms
+21866 2020-06-02 06:01:13,104.104 root         DEBUG    FPS: 4.59
+21866 2020-06-02 06:01:13,761.761 Detection_Func DEBUG    fetch_frame function took 656.584 ms
+21866 2020-06-02 06:01:13,850.850 Detection_Func DEBUG    load_frame function took 87.574 ms
+21866 2020-06-02 06:01:13,856.856 Detection_Func DEBUG    resize_frame function took 2.082 ms
+21866 2020-06-02 06:01:13,938.938 Detection_Func DEBUG    inference function took 81.951 ms
+21866 2020-06-02 06:01:13,941.941 Detection_Func DEBUG    post_inference function took 1.414 ms
+21866 2020-06-02 06:01:13,941.941 root         INFO     Detection result: []
+21866 2020-06-02 06:01:13,943.943 Detection_Func DEBUG    send_detection_results function took 0.796 ms
+21866 2020-06-02 06:01:13,944.944 root         DEBUG    FPS: 3.60
+21866 2020-06-02 06:01:14,543.543 Detection_Func DEBUG    fetch_frame function took 597.543 ms
+21866 2020-06-02 06:01:14,631.631 Detection_Func DEBUG    load_frame function took 87.718 ms
+21866 2020-06-02 06:01:14,637.637 Detection_Func DEBUG    resize_frame function took 2.036 ms
+21866 2020-06-02 06:01:14,720.720 Detection_Func DEBUG    inference function took 82.026 ms
+21866 2020-06-02 06:01:14,722.722 Detection_Func DEBUG    post_inference function took 1.375 ms
+21866 2020-06-02 06:01:14,723.723 root         INFO     Detection result: []
+21866 2020-06-02 06:01:14,724.724 Detection_Func DEBUG    send_detection_results function took 0.849 ms
+21866 2020-06-02 06:01:14,725.725 root         DEBUG    FPS: 3.02
+21866 2020-06-02 06:01:15,358.358 Detection_Func DEBUG    fetch_frame function took 631.587 ms
+21866 2020-06-02 06:01:15,447.447 Detection_Func DEBUG    load_frame function took 88.186 ms
+21866 2020-06-02 06:01:15,453.453 Detection_Func DEBUG    resize_frame function took 2.052 ms
+21866 2020-06-02 06:01:15,536.536 Detection_Func DEBUG    inference function took 82.347 ms
+21866 2020-06-02 06:01:15,538.538 Detection_Func DEBUG    post_inference function took 1.382 ms
+21866 2020-06-02 06:01:15,539.539 root         INFO     Detection result: []
+21866 2020-06-02 06:01:15,540.540 Detection_Func DEBUG    send_detection_results function took 0.791 ms
+21866 2020-06-02 06:01:15,541.541 root         DEBUG    FPS: 2.59
+21866 2020-06-02 06:01:16,153.153 Detection_Func DEBUG    fetch_frame function took 610.338 ms
+21866 2020-06-02 06:01:16,242.242 Detection_Func DEBUG    load_frame function took 88.516 ms
+21866 2020-06-02 06:01:16,248.248 Detection_Func DEBUG    resize_frame function took 2.044 ms
+21866 2020-06-02 06:01:16,330.330 Detection_Func DEBUG    inference function took 81.485 ms
+21866 2020-06-02 06:01:16,332.332 Detection_Func DEBUG    post_inference function took 1.384 ms
+21866 2020-06-02 06:01:16,333.333 root         INFO     Detection result: []
+21866 2020-06-02 06:01:16,335.335 Detection_Func DEBUG    send_detection_results function took 0.889 ms
+21866 2020-06-02 06:01:16,336.336 root         DEBUG    FPS: 2.26
+21866 2020-06-02 06:01:17,026.026 Detection_Func DEBUG    fetch_frame function took 689.660 ms
+21866 2020-06-02 06:01:17,115.115 Detection_Func DEBUG    load_frame function took 87.726 ms
+21866 2020-06-02 06:01:17,121.121 Detection_Func DEBUG    resize_frame function took 2.047 ms
+21866 2020-06-02 06:01:17,203.203 Detection_Func DEBUG    inference function took 81.868 ms
+21866 2020-06-02 06:01:17,206.206 Detection_Func DEBUG    post_inference function took 2.006 ms
+21866 2020-06-02 06:01:17,207.207 root         INFO     Detection result: [[429.1402816772461, 222.69418716430664, 471.30809783935547, 256.1016082763672, 0.2109375]]
+21866 2020-06-02 06:01:17,209.209 Detection_Func DEBUG    send_detection_results function took 1.298 ms
+21866 2020-06-02 06:01:17,210.210 root         DEBUG    FPS: 1.98
+21866 2020-06-02 06:01:17,777.777 Detection_Func DEBUG    fetch_frame function took 566.137 ms
+21866 2020-06-02 06:01:17,866.866 Detection_Func DEBUG    load_frame function took 87.858 ms
+21866 2020-06-02 06:01:17,872.872 Detection_Func DEBUG    resize_frame function took 2.053 ms
+21866 2020-06-02 06:01:17,954.954 Detection_Func DEBUG    inference function took 81.213 ms
+21866 2020-06-02 06:01:17,957.957 Detection_Func DEBUG    post_inference function took 1.893 ms
+21866 2020-06-02 06:01:17,958.958 root         INFO     Detection result: [[425.5662155151367, 221.09662055969238, 472.6187515258789, 257.69917488098145, 0.2109375]]
+21866 2020-06-02 06:01:17,960.960 Detection_Func DEBUG    send_detection_results function took 1.324 ms
+21866 2020-06-02 06:01:17,961.961 root         DEBUG    FPS: 1.79
+21866 2020-06-02 06:01:18,571.571 Detection_Func DEBUG    fetch_frame function took 609.104 ms
+21866 2020-06-02 06:01:18,660.660 Detection_Func DEBUG    load_frame function took 88.350 ms
+21866 2020-06-02 06:01:18,666.666 Detection_Func DEBUG    resize_frame function took 2.147 ms
+21866 2020-06-02 06:01:18,748.748 Detection_Func DEBUG    inference function took 81.865 ms
+21866 2020-06-02 06:01:18,751.751 Detection_Func DEBUG    post_inference function took 1.969 ms
+21866 2020-06-02 06:01:18,752.752 root         INFO     Detection result: [[426.4102554321289, 222.60199069976807, 471.7747116088867, 257.89137840270996, 0.2109375]]
+21866 2020-06-02 06:01:18,754.754 Detection_Func DEBUG    send_detection_results function took 1.419 ms
+21866 2020-06-02 06:01:18,755.755 root         DEBUG    FPS: 1.63
+21866 2020-06-02 06:01:19,391.391 Detection_Func DEBUG    fetch_frame function took 634.642 ms
+21866 2020-06-02 06:01:19,480.480 Detection_Func DEBUG    load_frame function took 88.525 ms
+21866 2020-06-02 06:01:19,486.486 Detection_Func DEBUG    resize_frame function took 2.111 ms
+21866 2020-06-02 06:01:19,569.569 Detection_Func DEBUG    inference function took 82.285 ms
+21866 2020-06-02 06:01:19,572.572 Detection_Func DEBUG    post_inference function took 1.418 ms
+21866 2020-06-02 06:01:19,572.572 root         INFO     Detection result: []
+21866 2020-06-02 06:01:19,574.574 Detection_Func DEBUG    send_detection_results function took 0.814 ms
+21866 2020-06-02 06:01:19,575.575 root         DEBUG    FPS: 1.49
+21866 2020-06-02 06:01:20,261.261 Detection_Func DEBUG    fetch_frame function took 685.293 ms
+21866 2020-06-02 06:01:20,350.350 Detection_Func DEBUG    load_frame function took 87.642 ms
+21866 2020-06-02 06:01:20,355.355 Detection_Func DEBUG    resize_frame function took 2.185 ms
+21866 2020-06-02 06:01:20,438.438 Detection_Func DEBUG    inference function took 81.779 ms
+21866 2020-06-02 06:01:20,441.441 Detection_Func DEBUG    post_inference function took 1.514 ms
+21866 2020-06-02 06:01:20,441.441 root         INFO     Detection result: []
+21866 2020-06-02 06:01:20,443.443 Detection_Func DEBUG    send_detection_results function took 0.772 ms
+21866 2020-06-02 06:01:20,444.444 root         DEBUG    FPS: 1.36
+21866 2020-06-02 06:01:20,904.904 Detection_Func DEBUG    fetch_frame function took 459.757 ms
+21866 2020-06-02 06:01:20,993.993 Detection_Func DEBUG    load_frame function took 87.764 ms
+21866 2020-06-02 06:01:20,999.999 Detection_Func DEBUG    resize_frame function took 2.068 ms
+21866 2020-06-02 06:01:21,082.082 Detection_Func DEBUG    inference function took 82.370 ms
+21866 2020-06-02 06:01:21,085.085 Detection_Func DEBUG    post_inference function took 1.576 ms
+21866 2020-06-02 06:01:21,085.085 root         INFO     Detection result: []
+21866 2020-06-02 06:01:21,087.087 Detection_Func DEBUG    send_detection_results function took 0.824 ms
+21866 2020-06-02 06:01:21,088.088 root         DEBUG    FPS: 1.40
+21866 2020-06-02 06:01:21,695.695 Detection_Func DEBUG    fetch_frame function took 605.965 ms
+21866 2020-06-02 06:01:21,784.784 Detection_Func DEBUG    load_frame function took 88.099 ms
+21866 2020-06-02 06:01:21,789.789 Detection_Func DEBUG    resize_frame function took 2.052 ms
+21866 2020-06-02 06:01:21,872.872 Detection_Func DEBUG    inference function took 81.908 ms
+21866 2020-06-02 06:01:21,875.875 Detection_Func DEBUG    post_inference function took 1.540 ms
+21866 2020-06-02 06:01:21,875.875 root         INFO     Detection result: []
+21866 2020-06-02 06:01:21,877.877 Detection_Func DEBUG    send_detection_results function took 0.823 ms
+21866 2020-06-02 06:01:21,878.878 root         DEBUG    FPS: 1.40
+21866 2020-06-02 06:01:22,544.544 Detection_Func DEBUG    fetch_frame function took 664.988 ms
+21866 2020-06-02 06:01:22,633.633 Detection_Func DEBUG    load_frame function took 88.500 ms
+21866 2020-06-02 06:01:22,639.639 Detection_Func DEBUG    resize_frame function took 2.069 ms
+21866 2020-06-02 06:01:22,722.722 Detection_Func DEBUG    inference function took 82.011 ms
+21866 2020-06-02 06:01:22,725.725 Detection_Func DEBUG    post_inference function took 1.538 ms
+21866 2020-06-02 06:01:22,725.725 root         INFO     Detection result: []
+21866 2020-06-02 06:01:22,727.727 Detection_Func DEBUG    send_detection_results function took 0.830 ms
+21866 2020-06-02 06:01:22,728.728 root         DEBUG    FPS: 1.39
+21866 2020-06-02 06:01:23,826.826 Detection_Func DEBUG    fetch_frame function took 1096.699 ms
+21866 2020-06-02 06:01:23,915.915 Detection_Func DEBUG    load_frame function took 88.716 ms
+21866 2020-06-02 06:01:23,921.921 Detection_Func DEBUG    resize_frame function took 2.056 ms
+21866 2020-06-02 06:01:24,003.003 Detection_Func DEBUG    inference function took 81.185 ms
+21866 2020-06-02 06:01:24,005.005 Detection_Func DEBUG    post_inference function took 1.549 ms
+21866 2020-06-02 06:01:24,006.006 root         INFO     Detection result: []
+21866 2020-06-02 06:01:24,008.008 Detection_Func DEBUG    send_detection_results function took 0.797 ms
+21866 2020-06-02 06:01:24,009.009 root         DEBUG    FPS: 1.30
+21866 2020-06-02 06:01:24,063.063 Detection_Func DEBUG    fetch_frame function took 53.796 ms
+21866 2020-06-02 06:01:24,153.153 Detection_Func DEBUG    load_frame function took 89.228 ms
+21866 2020-06-02 06:01:24,159.159 Detection_Func DEBUG    resize_frame function took 2.044 ms
+21866 2020-06-02 06:01:24,241.241 Detection_Func DEBUG    inference function took 81.324 ms
+21866 2020-06-02 06:01:24,244.244 Detection_Func DEBUG    post_inference function took 1.382 ms
+21866 2020-06-02 06:01:24,244.244 root         INFO     Detection result: []
+21866 2020-06-02 06:01:24,246.246 Detection_Func DEBUG    send_detection_results function took 0.834 ms
+21866 2020-06-02 06:01:24,247.247 root         DEBUG    FPS: 1.42
+21866 2020-06-02 06:01:24,300.300 Detection_Func DEBUG    fetch_frame function took 52.646 ms
+21866 2020-06-02 06:01:24,390.390 Detection_Func DEBUG    load_frame function took 89.059 ms
+21866 2020-06-02 06:01:24,396.396 Detection_Func DEBUG    resize_frame function took 2.144 ms
+21866 2020-06-02 06:01:24,479.479 Detection_Func DEBUG    inference function took 82.407 ms
+21866 2020-06-02 06:01:24,482.482 Detection_Func DEBUG    post_inference function took 1.549 ms
+21866 2020-06-02 06:01:24,482.482 root         INFO     Detection result: []
+21866 2020-06-02 06:01:24,484.484 Detection_Func DEBUG    send_detection_results function took 0.797 ms
+21866 2020-06-02 06:01:24,485.485 root         DEBUG    FPS: 1.53
+21866 2020-06-02 06:01:24,538.538 Detection_Func DEBUG    fetch_frame function took 52.011 ms
+21866 2020-06-02 06:01:24,628.628 Detection_Func DEBUG    load_frame function took 89.576 ms
+21866 2020-06-02 06:01:24,634.634 Detection_Func DEBUG    resize_frame function took 2.013 ms
+21866 2020-06-02 06:01:24,718.718 Detection_Func DEBUG    inference function took 82.432 ms
+21866 2020-06-02 06:01:24,720.720 Detection_Func DEBUG    post_inference function took 1.429 ms
+21866 2020-06-02 06:01:24,721.721 root         INFO     Detection result: []
+21866 2020-06-02 06:01:24,722.722 Detection_Func DEBUG    send_detection_results function took 0.802 ms
+21866 2020-06-02 06:01:24,723.723 root         DEBUG    FPS: 1.68
+21866 2020-06-02 06:01:24,776.776 Detection_Func DEBUG    fetch_frame function took 51.713 ms
+21866 2020-06-02 06:01:24,866.866 Detection_Func DEBUG    load_frame function took 89.437 ms
+21866 2020-06-02 06:01:24,872.872 Detection_Func DEBUG    resize_frame function took 2.054 ms
+21866 2020-06-02 06:01:24,954.954 Detection_Func DEBUG    inference function took 81.470 ms
+21866 2020-06-02 06:01:24,956.956 Detection_Func DEBUG    post_inference function took 1.389 ms
+21866 2020-06-02 06:01:24,957.957 root         INFO     Detection result: []
+21866 2020-06-02 06:01:24,959.959 Detection_Func DEBUG    send_detection_results function took 0.789 ms
+21866 2020-06-02 06:01:24,960.960 root         DEBUG    FPS: 1.86
+21866 2020-06-02 06:01:25,052.052 Detection_Func DEBUG    fetch_frame function took 91.150 ms
+21866 2020-06-02 06:01:25,142.142 Detection_Func DEBUG    load_frame function took 89.607 ms
+21866 2020-06-02 06:01:25,148.148 Detection_Func DEBUG    resize_frame function took 2.018 ms
+21866 2020-06-02 06:01:25,231.231 Detection_Func DEBUG    inference function took 81.935 ms
+21866 2020-06-02 06:01:25,233.233 Detection_Func DEBUG    post_inference function took 1.427 ms
+21866 2020-06-02 06:01:25,234.234 root         INFO     Detection result: []
+21866 2020-06-02 06:01:25,235.235 Detection_Func DEBUG    send_detection_results function took 0.820 ms
+21866 2020-06-02 06:01:25,236.236 root         DEBUG    FPS: 2.09
+21866 2020-06-02 06:01:25,287.287 Detection_Func DEBUG    fetch_frame function took 49.595 ms
+21866 2020-06-02 06:01:25,376.376 Detection_Func DEBUG    load_frame function took 88.459 ms
+21866 2020-06-02 06:01:25,382.382 Detection_Func DEBUG    resize_frame function took 2.022 ms
+21866 2020-06-02 06:01:25,464.464 Detection_Func DEBUG    inference function took 81.769 ms
+21866 2020-06-02 06:01:25,467.467 Detection_Func DEBUG    post_inference function took 1.556 ms
+21866 2020-06-02 06:01:25,467.467 root         INFO     Detection result: []
+21866 2020-06-02 06:01:25,469.469 Detection_Func DEBUG    send_detection_results function took 0.770 ms
+21866 2020-06-02 06:01:25,470.470 root         DEBUG    FPS: 2.28
+21866 2020-06-02 06:01:25,523.523 Detection_Func DEBUG    fetch_frame function took 51.771 ms
+21866 2020-06-02 06:01:25,612.612 Detection_Func DEBUG    load_frame function took 88.954 ms
+21866 2020-06-02 06:01:25,618.618 Detection_Func DEBUG    resize_frame function took 2.019 ms
+21866 2020-06-02 06:01:25,701.701 Detection_Func DEBUG    inference function took 81.874 ms
+21866 2020-06-02 06:01:25,703.703 Detection_Func DEBUG    post_inference function took 1.416 ms
+21866 2020-06-02 06:01:25,704.704 root         INFO     Detection result: []
+21866 2020-06-02 06:01:25,706.706 Detection_Func DEBUG    send_detection_results function took 0.795 ms
+21866 2020-06-02 06:01:25,707.707 root         DEBUG    FPS: 2.61
+21866 2020-06-02 06:01:25,768.768 Detection_Func DEBUG    fetch_frame function took 60.111 ms
+21866 2020-06-02 06:01:25,857.857 Detection_Func DEBUG    load_frame function took 88.981 ms
+21866 2020-06-02 06:01:25,863.863 Detection_Func DEBUG    resize_frame function took 2.052 ms
+21866 2020-06-02 06:01:25,945.945 Detection_Func DEBUG    inference function took 81.213 ms
+21866 2020-06-02 06:01:25,948.948 Detection_Func DEBUG    post_inference function took 1.906 ms
+21866 2020-06-02 06:01:25,949.949 root         INFO     Detection result: [[430.3491973876953, 220.90444564819336, 479.15260314941406, 256.1938190460205, 0.2109375]]
+21866 2020-06-02 06:01:25,951.951 Detection_Func DEBUG    send_detection_results function took 1.351 ms
+21866 2020-06-02 06:01:25,952.952 root         DEBUG    FPS: 3.10
+21866 2020-06-02 06:01:26,001.001 Detection_Func DEBUG    fetch_frame function took 48.134 ms
+21866 2020-06-02 06:01:26,091.091 Detection_Func DEBUG    load_frame function took 88.963 ms
+21866 2020-06-02 06:01:26,096.096 Detection_Func DEBUG    resize_frame function took 2.112 ms
+21866 2020-06-02 06:01:26,179.179 Detection_Func DEBUG    inference function took 81.873 ms
+21866 2020-06-02 06:01:26,182.182 Detection_Func DEBUG    post_inference function took 1.997 ms
+21866 2020-06-02 06:01:26,183.183 root         INFO     Detection result: [[422.5935745239258, 219.7303819656372, 480.1181411743164, 255.67036628723145, 0.2109375]]
+21866 2020-06-02 06:01:26,185.185 Detection_Func DEBUG    send_detection_results function took 1.393 ms
+21866 2020-06-02 06:01:26,186.186 root         DEBUG    FPS: 4.59
+21866 2020-06-02 06:01:26,263.263 Detection_Func DEBUG    fetch_frame function took 76.222 ms
+21866 2020-06-02 06:01:26,353.353 Detection_Func DEBUG    load_frame function took 89.333 ms
+21866 2020-06-02 06:01:26,359.359 Detection_Func DEBUG    resize_frame function took 2.079 ms
+21866 2020-06-02 06:01:26,441.441 Detection_Func DEBUG    inference function took 81.508 ms
+21866 2020-06-02 06:01:26,444.444 Detection_Func DEBUG    post_inference function took 1.439 ms
+21866 2020-06-02 06:01:26,445.445 root         INFO     Detection result: []
+21866 2020-06-02 06:01:26,446.446 Detection_Func DEBUG    send_detection_results function took 0.828 ms
+21866 2020-06-02 06:01:26,447.447 root         DEBUG    FPS: 4.54
+21866 2020-06-02 06:01:26,500.500 Detection_Func DEBUG    fetch_frame function took 51.858 ms
+21866 2020-06-02 06:01:26,590.590 Detection_Func DEBUG    load_frame function took 89.263 ms
+21866 2020-06-02 06:01:26,596.596 Detection_Func DEBUG    resize_frame function took 2.128 ms
+21866 2020-06-02 06:01:26,679.679 Detection_Func DEBUG    inference function took 81.898 ms
+21866 2020-06-02 06:01:26,681.681 Detection_Func DEBUG    post_inference function took 1.494 ms
+21866 2020-06-02 06:01:26,682.682 root         INFO     Detection result: []
+21866 2020-06-02 06:01:26,683.683 Detection_Func DEBUG    send_detection_results function took 0.810 ms
+21866 2020-06-02 06:01:26,684.684 root         DEBUG    FPS: 4.55
+21866 2020-06-02 06:01:26,734.734 Detection_Func DEBUG    fetch_frame function took 48.841 ms
+21866 2020-06-02 06:01:26,825.825 Detection_Func DEBUG    load_frame function took 89.748 ms
+21866 2020-06-02 06:01:26,830.830 Detection_Func DEBUG    resize_frame function took 2.059 ms
+21866 2020-06-02 06:01:26,913.913 Detection_Func DEBUG    inference function took 81.745 ms
+21866 2020-06-02 06:01:26,916.916 Detection_Func DEBUG    post_inference function took 1.512 ms
+21866 2020-06-02 06:01:26,916.916 root         INFO     Detection result: []
+21866 2020-06-02 06:01:26,918.918 Detection_Func DEBUG    send_detection_results function took 0.818 ms
+21866 2020-06-02 06:01:26,919.919 root         DEBUG    FPS: 4.55
+21866 2020-06-02 06:01:26,970.970 Detection_Func DEBUG    fetch_frame function took 49.807 ms
+21866 2020-06-02 06:01:27,060.060 Detection_Func DEBUG    load_frame function took 89.446 ms
+21866 2020-06-02 06:01:27,066.066 Detection_Func DEBUG    resize_frame function took 2.160 ms
+21866 2020-06-02 06:01:27,149.149 Detection_Func DEBUG    inference function took 82.073 ms
+21866 2020-06-02 06:01:27,151.151 Detection_Func DEBUG    post_inference function took 1.518 ms
+21866 2020-06-02 06:01:27,152.152 root         INFO     Detection result: []
+21866 2020-06-02 06:01:27,153.153 Detection_Func DEBUG    send_detection_results function took 0.827 ms
+21866 2020-06-02 06:01:27,154.154 root         DEBUG    FPS: 4.56
+21866 2020-06-02 06:01:27,206.206 Detection_Func DEBUG    fetch_frame function took 50.052 ms
+21866 2020-06-02 06:01:27,294.294 Detection_Func DEBUG    load_frame function took 88.044 ms
+21866 2020-06-02 06:01:27,300.300 Detection_Func DEBUG    resize_frame function took 2.038 ms
+21866 2020-06-02 06:01:27,383.383 Detection_Func DEBUG    inference function took 82.279 ms
+21866 2020-06-02 06:01:27,386.386 Detection_Func DEBUG    post_inference function took 2.108 ms
+21866 2020-06-02 06:01:27,387.387 root         INFO     Detection result: [[421.52515411376953, 217.16294288635254, 485.7133102416992, 256.5402603149414, 0.2109375]]
+21866 2020-06-02 06:01:27,389.389 Detection_Func DEBUG    send_detection_results function took 1.405 ms
+21866 2020-06-02 06:01:27,390.390 root         DEBUG    FPS: 4.64
+21866 2020-06-02 06:01:27,453.453 Detection_Func DEBUG    fetch_frame function took 61.971 ms
+21866 2020-06-02 06:01:27,543.543 Detection_Func DEBUG    load_frame function took 88.513 ms
+21866 2020-06-02 06:01:27,548.548 Detection_Func DEBUG    resize_frame function took 2.040 ms
+21866 2020-06-02 06:01:27,631.631 Detection_Func DEBUG    inference function took 81.423 ms
+21866 2020-06-02 06:01:27,634.634 Detection_Func DEBUG    post_inference function took 1.945 ms
+21866 2020-06-02 06:01:27,635.635 root         INFO     Detection result: [[416.93580627441406, 216.12866878509521, 483.5125732421875, 259.27207946777344, 0.2109375]]
+21866 2020-06-02 06:01:27,637.637 Detection_Func DEBUG    send_detection_results function took 1.354 ms
+21866 2020-06-02 06:01:27,638.638 root         DEBUG    FPS: 4.61
+21866 2020-06-02 06:01:27,688.688 Detection_Func DEBUG    fetch_frame function took 49.101 ms
+21866 2020-06-02 06:01:27,778.778 Detection_Func DEBUG    load_frame function took 88.797 ms
+21866 2020-06-02 06:01:27,783.783 Detection_Func DEBUG    resize_frame function took 2.058 ms
+21866 2020-06-02 06:01:27,866.866 Detection_Func DEBUG    inference function took 81.904 ms
+21866 2020-06-02 06:01:27,868.868 Detection_Func DEBUG    post_inference function took 1.405 ms
+21866 2020-06-02 06:01:27,869.869 root         INFO     Detection result: []
+21866 2020-06-02 06:01:27,871.871 Detection_Func DEBUG    send_detection_results function took 0.813 ms
+21866 2020-06-02 06:01:27,872.872 root         DEBUG    FPS: 4.62
+21866 2020-06-02 06:01:27,925.925 Detection_Func DEBUG    fetch_frame function took 51.888 ms
+21866 2020-06-02 06:01:28,015.015 Detection_Func DEBUG    load_frame function took 89.095 ms
+21866 2020-06-02 06:01:28,020.020 Detection_Func DEBUG    resize_frame function took 1.992 ms
+21866 2020-06-02 06:01:28,103.103 Detection_Func DEBUG    inference function took 81.660 ms
+21866 2020-06-02 06:01:28,105.105 Detection_Func DEBUG    post_inference function took 1.493 ms
+21866 2020-06-02 06:01:28,106.106 root         INFO     Detection result: []
+21866 2020-06-02 06:01:28,107.107 Detection_Func DEBUG    send_detection_results function took 0.818 ms
+21866 2020-06-02 06:01:28,109.109 root         DEBUG    FPS: 4.64
+21866 2020-06-02 06:01:28,158.158 Detection_Func DEBUG    fetch_frame function took 48.398 ms
+21866 2020-06-02 06:01:28,248.248 Detection_Func DEBUG    load_frame function took 89.189 ms
+21866 2020-06-02 06:01:28,254.254 Detection_Func DEBUG    resize_frame function took 2.016 ms
+21866 2020-06-02 06:01:28,336.336 Detection_Func DEBUG    inference function took 81.547 ms
+21866 2020-06-02 06:01:28,339.339 Detection_Func DEBUG    post_inference function took 2.014 ms
+21866 2020-06-02 06:01:28,340.340 root         INFO     Detection result: [[424.2459487915039, 216.67058944702148, 480.7291793823242, 255.3350830078125, 0.2109375]]
+21866 2020-06-02 06:01:28,342.342 Detection_Func DEBUG    send_detection_results function took 1.386 ms
+21866 2020-06-02 06:01:28,343.343 root         DEBUG    FPS: 4.64
+21866 2020-06-02 06:01:28,395.395 Detection_Func DEBUG    fetch_frame function took 50.729 ms
+21866 2020-06-02 06:01:28,485.485 Detection_Func DEBUG    load_frame function took 89.252 ms
+21866 2020-06-02 06:01:28,490.490 Detection_Func DEBUG    resize_frame function took 2.051 ms
+21866 2020-06-02 06:01:28,573.573 Detection_Func DEBUG    inference function took 81.736 ms
+21866 2020-06-02 06:01:28,576.576 Detection_Func DEBUG    post_inference function took 1.965 ms
+21866 2020-06-02 06:01:28,577.577 root         INFO     Detection result: [[422.65499114990234, 216.90258979797363, 482.3201370239258, 258.4981441497803, 0.2109375]]
+21866 2020-06-02 06:01:28,579.579 Detection_Func DEBUG    send_detection_results function took 1.431 ms
+21866 2020-06-02 06:01:28,580.580 root         DEBUG    FPS: 4.69
+21866 2020-06-02 06:01:28,640.640 Detection_Func DEBUG    fetch_frame function took 58.538 ms
+21866 2020-06-02 06:01:28,730.730 Detection_Func DEBUG    load_frame function took 89.683 ms
+21866 2020-06-02 06:01:28,736.736 Detection_Func DEBUG    resize_frame function took 2.090 ms
+21866 2020-06-02 06:01:28,818.818 Detection_Func DEBUG    inference function took 81.569 ms
+21866 2020-06-02 06:01:28,821.821 Detection_Func DEBUG    post_inference function took 1.940 ms
+21866 2020-06-02 06:01:28,822.822 root         INFO     Detection result: [[422.9957962036133, 220.4155969619751, 477.4525833129883, 258.380184173584, 0.2109375]]
+21866 2020-06-02 06:01:28,824.824 Detection_Func DEBUG    send_detection_results function took 1.385 ms
+21866 2020-06-02 06:01:28,825.825 root         DEBUG    FPS: 4.67
+21866 2020-06-02 06:01:28,881.881 Detection_Func DEBUG    fetch_frame function took 54.641 ms
+21866 2020-06-02 06:01:28,971.971 Detection_Func DEBUG    load_frame function took 89.535 ms
+21866 2020-06-02 06:01:28,977.977 Detection_Func DEBUG    resize_frame function took 2.071 ms
+21866 2020-06-02 06:01:29,059.059 Detection_Func DEBUG    inference function took 81.503 ms
+21866 2020-06-02 06:01:29,062.062 Detection_Func DEBUG    post_inference function took 2.029 ms
+21866 2020-06-02 06:01:29,063.063 root         INFO     Detection result: [[424.44786071777344, 220.4155969619751, 476.0005187988281, 258.380184173584, 0.2109375]]
+21866 2020-06-02 06:01:29,065.065 Detection_Func DEBUG    send_detection_results function took 1.532 ms
+21866 2020-06-02 06:01:29,067.067 root         DEBUG    FPS: 4.66
+21866 2020-06-02 06:01:29,120.120 Detection_Func DEBUG    fetch_frame function took 51.899 ms
+21866 2020-06-02 06:01:29,208.208 Detection_Func DEBUG    load_frame function took 87.564 ms
+21866 2020-06-02 06:01:29,214.214 Detection_Func DEBUG    resize_frame function took 2.068 ms
+21866 2020-06-02 06:01:29,297.297 Detection_Func DEBUG    inference function took 81.953 ms
+21866 2020-06-02 06:01:29,299.299 Detection_Func DEBUG    post_inference function took 1.942 ms
+21866 2020-06-02 06:01:29,300.300 root         INFO     Detection result: [[424.9144744873047, 221.9454002380371, 475.5339050292969, 258.5479545593262, 0.26953125]]
+21866 2020-06-02 06:01:29,302.302 Detection_Func DEBUG    send_detection_results function took 1.309 ms
+21866 2020-06-02 06:01:29,303.303 root         DEBUG    FPS: 4.65
+21866 2020-06-02 06:01:29,356.356 Detection_Func DEBUG    fetch_frame function took 51.783 ms
+21866 2020-06-02 06:01:29,445.445 Detection_Func DEBUG    load_frame function took 88.489 ms
+21866 2020-06-02 06:01:29,451.451 Detection_Func DEBUG    resize_frame function took 2.093 ms
+21866 2020-06-02 06:01:29,534.534 Detection_Func DEBUG    inference function took 81.612 ms
+21866 2020-06-02 06:01:29,537.537 Detection_Func DEBUG    post_inference function took 1.936 ms
+21866 2020-06-02 06:01:29,537.537 root         INFO     Detection result: [[425.57952880859375, 223.77014636993408, 477.13218688964844, 258.4207248687744, 0.2109375]]
+21866 2020-06-02 06:01:29,540.540 Detection_Func DEBUG    send_detection_results function took 1.370 ms
+21866 2020-06-02 06:01:29,541.541 root         DEBUG    FPS: 4.65
+21866 2020-06-02 06:01:29,589.589 Detection_Func DEBUG    fetch_frame function took 47.761 ms
+21866 2020-06-02 06:01:29,679.679 Detection_Func DEBUG    load_frame function took 88.711 ms
+21866 2020-06-02 06:01:29,685.685 Detection_Func DEBUG    resize_frame function took 2.181 ms
+21866 2020-06-02 06:01:29,767.767 Detection_Func DEBUG    inference function took 81.613 ms
+21866 2020-06-02 06:01:29,769.769 Detection_Func DEBUG    post_inference function took 1.370 ms
+21866 2020-06-02 06:01:29,770.770 root         INFO     Detection result: []
+21866 2020-06-02 06:01:29,772.772 Detection_Func DEBUG    send_detection_results function took 0.821 ms
+21866 2020-06-02 06:01:29,773.773 root         DEBUG    FPS: 4.68
+21866 2020-06-02 06:01:29,836.836 Detection_Func DEBUG    fetch_frame function took 62.587 ms
+21866 2020-06-02 06:01:29,926.926 Detection_Func DEBUG    load_frame function took 88.845 ms
+21866 2020-06-02 06:01:29,932.932 Detection_Func DEBUG    resize_frame function took 2.051 ms
+21866 2020-06-02 06:01:30,015.015 Detection_Func DEBUG    inference function took 82.385 ms
+21866 2020-06-02 06:01:30,017.017 Detection_Func DEBUG    post_inference function took 1.453 ms
+21866 2020-06-02 06:01:30,018.018 root         INFO     Detection result: []
+21866 2020-06-02 06:01:30,020.020 Detection_Func DEBUG    send_detection_results function took 0.801 ms
+21866 2020-06-02 06:01:30,021.021 root         DEBUG    FPS: 4.65
+21866 2020-06-02 06:01:30,071.071 Detection_Func DEBUG    fetch_frame function took 49.044 ms
+21866 2020-06-02 06:01:30,162.162 Detection_Func DEBUG    load_frame function took 90.069 ms
+21866 2020-06-02 06:01:30,167.167 Detection_Func DEBUG    resize_frame function took 2.055 ms
+21866 2020-06-02 06:01:30,250.250 Detection_Func DEBUG    inference function took 81.914 ms
+21866 2020-06-02 06:01:30,253.253 Detection_Func DEBUG    post_inference function took 1.502 ms
+21866 2020-06-02 06:01:30,253.253 root         INFO     Detection result: []
+21866 2020-06-02 06:01:30,255.255 Detection_Func DEBUG    send_detection_results function took 0.936 ms
+21866 2020-06-02 06:01:30,256.256 root         DEBUG    FPS: 4.66
+21866 2020-06-02 06:01:30,309.309 Detection_Func DEBUG    fetch_frame function took 51.576 ms
+21866 2020-06-02 06:01:30,400.400 Detection_Func DEBUG    load_frame function took 90.048 ms
+21866 2020-06-02 06:01:30,405.405 Detection_Func DEBUG    resize_frame function took 2.088 ms
+21866 2020-06-02 06:01:30,489.489 Detection_Func DEBUG    inference function took 82.146 ms
+21866 2020-06-02 06:01:30,491.491 Detection_Func DEBUG    post_inference function took 1.430 ms
+21866 2020-06-02 06:01:30,492.492 root         INFO     Detection result: []
+21866 2020-06-02 06:01:30,493.493 Detection_Func DEBUG    send_detection_results function took 0.834 ms
+21866 2020-06-02 06:01:30,494.494 root         DEBUG    FPS: 4.65
+21866 2020-06-02 06:01:30,548.548 Detection_Func DEBUG    fetch_frame function took 52.738 ms
+21866 2020-06-02 06:01:30,638.638 Detection_Func DEBUG    load_frame function took 89.377 ms
+21866 2020-06-02 06:01:30,644.644 Detection_Func DEBUG    resize_frame function took 2.058 ms
+21866 2020-06-02 06:01:30,727.727 Detection_Func DEBUG    inference function took 82.285 ms
+21866 2020-06-02 06:01:30,730.730 Detection_Func DEBUG    post_inference function took 1.379 ms
+21866 2020-06-02 06:01:30,730.730 root         INFO     Detection result: []
+21866 2020-06-02 06:01:30,732.732 Detection_Func DEBUG    send_detection_results function took 0.837 ms
+21866 2020-06-02 06:01:30,733.733 root         DEBUG    FPS: 4.64
+21866 2020-06-02 06:01:30,786.786 Detection_Func DEBUG    fetch_frame function took 52.724 ms
+21866 2020-06-02 06:01:30,877.877 Detection_Func DEBUG    load_frame function took 89.394 ms
+21866 2020-06-02 06:01:30,882.882 Detection_Func DEBUG    resize_frame function took 2.050 ms
+21866 2020-06-02 06:01:30,966.966 Detection_Func DEBUG    inference function took 82.366 ms
+21866 2020-06-02 06:01:30,968.968 Detection_Func DEBUG    post_inference function took 1.386 ms
+21866 2020-06-02 06:01:30,969.969 root         INFO     Detection result: []
+21866 2020-06-02 06:01:30,970.970 Detection_Func DEBUG    send_detection_results function took 0.825 ms
+21866 2020-06-02 06:01:30,971.971 root         DEBUG    FPS: 4.66
+21866 2020-06-02 06:01:31,042.042 Detection_Func DEBUG    fetch_frame function took 69.624 ms
+21866 2020-06-02 06:01:31,135.135 Detection_Func DEBUG    load_frame function took 92.536 ms
+21866 2020-06-02 06:01:31,141.141 Detection_Func DEBUG    resize_frame function took 2.141 ms
+21866 2020-06-02 06:01:31,234.234 Detection_Func DEBUG    inference function took 91.577 ms
+21866 2020-06-02 06:01:31,238.238 Detection_Func DEBUG    post_inference function took 2.505 ms
+21866 2020-06-02 06:01:31,239.239 root         INFO     Detection result: [[419.71920013427734, 216.90258979797363, 476.20243072509766, 258.4981441497803, 0.2109375]]
+21866 2020-06-02 06:01:31,243.243 Detection_Func DEBUG    send_detection_results function took 2.342 ms
+21866 2020-06-02 06:01:31,248.248 root         DEBUG    FPS: 4.59
+21866 2020-06-02 06:01:31,299.299 Detection_Func DEBUG    fetch_frame function took 49.265 ms
+21866 2020-06-02 06:01:31,395.395 Detection_Func DEBUG    load_frame function took 94.651 ms
+21866 2020-06-02 06:01:31,401.401 Detection_Func DEBUG    resize_frame function took 2.300 ms
+21866 2020-06-02 06:01:31,494.494 Detection_Func DEBUG    inference function took 91.935 ms
+21866 2020-06-02 06:01:31,497.497 Detection_Func DEBUG    post_inference function took 2.389 ms
+21866 2020-06-02 06:01:31,498.498 root         INFO     Detection result: [[425.57952880859375, 218.71806621551514, 477.13218688964844, 256.682653427124, 0.2109375]]
+21866 2020-06-02 06:01:31,501.501 Detection_Func DEBUG    send_detection_results function took 1.484 ms
+21866 2020-06-02 06:01:31,502.502 root         DEBUG    FPS: 4.55
+21866 2020-06-02 06:01:31,555.555 Detection_Func DEBUG    fetch_frame function took 52.176 ms
+21866 2020-06-02 06:01:31,649.649 Detection_Func DEBUG    load_frame function took 92.619 ms
+21866 2020-06-02 06:01:31,655.655 Detection_Func DEBUG    resize_frame function took 2.394 ms
+21866 2020-06-02 06:01:31,757.757 Detection_Func DEBUG    inference function took 101.253 ms
+21866 2020-06-02 06:01:31,760.760 Detection_Func DEBUG    post_inference function took 1.513 ms
+21866 2020-06-02 06:01:31,761.761 root         INFO     Detection result: []
+21866 2020-06-02 06:01:31,763.763 Detection_Func DEBUG    send_detection_results function took 0.986 ms
+21866 2020-06-02 06:01:31,765.765 root         DEBUG    FPS: 4.50
+21866 2020-06-02 06:01:31,825.825 Detection_Func DEBUG    fetch_frame function took 58.420 ms
+21866 2020-06-02 06:01:31,916.916 Detection_Func DEBUG    load_frame function took 90.692 ms
+21866 2020-06-02 06:01:31,923.923 Detection_Func DEBUG    resize_frame function took 2.350 ms
+21866 2020-06-02 06:01:32,024.024 Detection_Func DEBUG    inference function took 99.806 ms
+21866 2020-06-02 06:01:32,027.027 Detection_Func DEBUG    post_inference function took 1.489 ms
+21866 2020-06-02 06:01:32,028.028 root         INFO     Detection result: []
+21866 2020-06-02 06:01:32,029.029 Detection_Func DEBUG    send_detection_results function took 0.886 ms
+21866 2020-06-02 06:01:32,031.031 root         DEBUG    FPS: 4.43
+21866 2020-06-02 06:01:32,082.082 Detection_Func DEBUG    fetch_frame function took 49.126 ms
+21866 2020-06-02 06:01:32,173.173 Detection_Func DEBUG    load_frame function took 90.550 ms
+21866 2020-06-02 06:01:32,179.179 Detection_Func DEBUG    resize_frame function took 2.194 ms
+21866 2020-06-02 06:01:32,280.280 Detection_Func DEBUG    inference function took 99.232 ms
+21866 2020-06-02 06:01:32,282.282 Detection_Func DEBUG    post_inference function took 1.529 ms
+21866 2020-06-02 06:01:32,283.283 root         INFO     Detection result: []
+21866 2020-06-02 06:01:32,285.285 Detection_Func DEBUG    send_detection_results function took 0.904 ms
+21866 2020-06-02 06:01:32,287.287 root         DEBUG    FPS: 4.41
+21866 2020-06-02 06:01:32,353.353 Detection_Func DEBUG    fetch_frame function took 65.393 ms
+21866 2020-06-02 06:01:32,445.445 Detection_Func DEBUG    load_frame function took 90.424 ms
+21866 2020-06-02 06:01:32,451.451 Detection_Func DEBUG    resize_frame function took 2.334 ms
+21866 2020-06-02 06:01:32,552.552 Detection_Func DEBUG    inference function took 99.448 ms
+21866 2020-06-02 06:01:32,555.555 Detection_Func DEBUG    post_inference function took 1.704 ms
+21866 2020-06-02 06:01:32,556.556 root         INFO     Detection result: []
+21866 2020-06-02 06:01:32,557.557 Detection_Func DEBUG    send_detection_results function took 0.863 ms
+21866 2020-06-02 06:01:32,559.559 root         DEBUG    FPS: 4.34
+21866 2020-06-02 06:01:32,611.611 Detection_Func DEBUG    fetch_frame function took 50.663 ms
+21866 2020-06-02 06:01:32,702.702 Detection_Func DEBUG    load_frame function took 90.282 ms
+21866 2020-06-02 06:01:32,708.708 Detection_Func DEBUG    resize_frame function took 2.146 ms
+21866 2020-06-02 06:01:32,824.824 Detection_Func DEBUG    inference function took 98.101 ms
+21866 2020-06-02 06:01:32,826.826 Detection_Func DEBUG    post_inference function took 1.566 ms
+21866 2020-06-02 06:01:32,827.827 root         INFO     Detection result: []
+21866 2020-06-02 06:01:32,829.829 Detection_Func DEBUG    send_detection_results function took 0.896 ms
+21866 2020-06-02 06:01:32,831.831 root         DEBUG    FPS: 4.28
+21866 2020-06-02 06:01:32,884.884 Detection_Func DEBUG    fetch_frame function took 51.903 ms
+21866 2020-06-02 06:01:32,976.976 Detection_Func DEBUG    load_frame function took 90.462 ms
+21866 2020-06-02 06:01:32,982.982 Detection_Func DEBUG    resize_frame function took 2.200 ms
+21866 2020-06-02 06:01:33,082.082 Detection_Func DEBUG    inference function took 99.497 ms
+21866 2020-06-02 06:01:33,085.085 Detection_Func DEBUG    post_inference function took 1.524 ms
+21866 2020-06-02 06:01:33,086.086 root         INFO     Detection result: []
+21866 2020-06-02 06:01:33,088.088 Detection_Func DEBUG    send_detection_results function took 0.907 ms
+21866 2020-06-02 06:01:33,089.089 root         DEBUG    FPS: 4.24
+21866 2020-06-02 06:01:33,141.141 Detection_Func DEBUG    fetch_frame function took 49.501 ms
+21866 2020-06-02 06:01:33,232.232 Detection_Func DEBUG    load_frame function took 90.455 ms
+21866 2020-06-02 06:01:33,238.238 Detection_Func DEBUG    resize_frame function took 2.238 ms
+21866 2020-06-02 06:01:33,332.332 Detection_Func DEBUG    inference function took 93.192 ms
+21866 2020-06-02 06:01:33,335.335 Detection_Func DEBUG    post_inference function took 1.595 ms
+21866 2020-06-02 06:01:33,336.336 root         INFO     Detection result: []
+21866 2020-06-02 06:01:33,340.340 Detection_Func DEBUG    send_detection_results function took 3.044 ms
+21866 2020-06-02 06:01:33,341.341 root         DEBUG    FPS: 4.22
+21866 2020-06-02 06:01:33,391.391 Detection_Func DEBUG    fetch_frame function took 49.602 ms
+21866 2020-06-02 06:01:33,485.485 Detection_Func DEBUG    load_frame function took 92.844 ms
+21866 2020-06-02 06:01:33,491.491 Detection_Func DEBUG    resize_frame function took 2.316 ms
+21866 2020-06-02 06:01:33,570.570 Detection_Func DEBUG    inference function took 77.605 ms
+21866 2020-06-02 06:01:33,573.573 Detection_Func DEBUG    post_inference function took 1.578 ms
+21866 2020-06-02 06:01:33,574.574 root         INFO     Detection result: []
+21866 2020-06-02 06:01:33,576.576 Detection_Func DEBUG    send_detection_results function took 1.760 ms
+21866 2020-06-02 06:01:33,579.579 root         DEBUG    FPS: 4.29
+21866 2020-06-02 06:01:33,658.658 Detection_Func DEBUG    fetch_frame function took 76.689 ms
+21866 2020-06-02 06:01:33,755.755 Detection_Func DEBUG    load_frame function took 94.613 ms
+21866 2020-06-02 06:01:33,762.762 Detection_Func DEBUG    resize_frame function took 2.358 ms
+21866 2020-06-02 06:01:33,857.857 Detection_Func DEBUG    inference function took 93.519 ms
+21866 2020-06-02 06:01:33,860.860 Detection_Func DEBUG    post_inference function took 1.447 ms
+21866 2020-06-02 06:01:33,862.862 root         INFO     Detection result: []
+21866 2020-06-02 06:01:33,867.867 Detection_Func DEBUG    send_detection_results function took 2.680 ms
+21866 2020-06-02 06:01:33,868.868 root         DEBUG    FPS: 4.23
+21866 2020-06-02 06:01:33,916.916 Detection_Func DEBUG    fetch_frame function took 46.970 ms
+21866 2020-06-02 06:01:34,018.018 Detection_Func DEBUG    load_frame function took 96.489 ms
+21866 2020-06-02 06:01:34,024.024 Detection_Func DEBUG    resize_frame function took 2.379 ms
+21866 2020-06-02 06:01:34,101.101 Detection_Func DEBUG    inference function took 75.874 ms
+21866 2020-06-02 06:01:34,104.104 Detection_Func DEBUG    post_inference function took 1.511 ms
+21866 2020-06-02 06:01:34,105.105 root         INFO     Detection result: []
+21866 2020-06-02 06:01:34,107.107 Detection_Func DEBUG    send_detection_results function took 0.825 ms
+21866 2020-06-02 06:01:34,109.109 root         DEBUG    FPS: 4.27
+21866 2020-06-02 06:01:34,158.158 Detection_Func DEBUG    fetch_frame function took 48.603 ms
+21866 2020-06-02 06:01:34,254.254 Detection_Func DEBUG    load_frame function took 94.672 ms
+21866 2020-06-02 06:01:34,260.260 Detection_Func DEBUG    resize_frame function took 2.134 ms
+21866 2020-06-02 06:01:34,339.339 Detection_Func DEBUG    inference function took 76.172 ms
+21866 2020-06-02 06:01:34,342.342 Detection_Func DEBUG    post_inference function took 1.368 ms
+21866 2020-06-02 06:01:34,344.344 root         INFO     Detection result: []
+21866 2020-06-02 06:01:34,347.347 Detection_Func DEBUG    send_detection_results function took 0.755 ms
+21866 2020-06-02 06:01:34,349.349 root         DEBUG    FPS: 4.31
+21866 2020-06-02 06:01:34,401.401 Detection_Func DEBUG    fetch_frame function took 50.731 ms
+21866 2020-06-02 06:01:34,497.497 Detection_Func DEBUG    load_frame function took 95.293 ms
+21866 2020-06-02 06:01:34,503.503 Detection_Func DEBUG    resize_frame function took 2.348 ms
+21866 2020-06-02 06:01:34,581.581 Detection_Func DEBUG    inference function took 76.289 ms
+21866 2020-06-02 06:01:34,584.584 Detection_Func DEBUG    post_inference function took 1.501 ms
+21866 2020-06-02 06:01:34,586.586 root         INFO     Detection result: []
+21866 2020-06-02 06:01:34,589.589 Detection_Func DEBUG    send_detection_results function took 0.761 ms
+21866 2020-06-02 06:01:34,591.591 root         DEBUG    FPS: 4.34
+21866 2020-06-02 06:01:34,642.642 Detection_Func DEBUG    fetch_frame function took 49.562 ms
+21866 2020-06-02 06:01:34,735.735 Detection_Func DEBUG    load_frame function took 91.795 ms
+21866 2020-06-02 06:01:34,741.741 Detection_Func DEBUG    resize_frame function took 2.085 ms
+21866 2020-06-02 06:01:34,817.817 Detection_Func DEBUG    inference function took 75.371 ms
+21866 2020-06-02 06:01:34,820.820 Detection_Func DEBUG    post_inference function took 1.450 ms
+21866 2020-06-02 06:01:34,823.823 root         INFO     Detection result: []
+21866 2020-06-02 06:01:34,825.825 Detection_Func DEBUG    send_detection_results function took 0.774 ms
+21866 2020-06-02 06:01:34,827.827 root         DEBUG    FPS: 4.41
+21866 2020-06-02 06:01:34,887.887 Detection_Func DEBUG    fetch_frame function took 59.117 ms
+21866 2020-06-02 06:01:34,979.979 Detection_Func DEBUG    load_frame function took 91.592 ms
+21866 2020-06-02 06:01:34,985.985 Detection_Func DEBUG    resize_frame function took 2.175 ms
+21866 2020-06-02 06:01:35,061.061 Detection_Func DEBUG    inference function took 75.050 ms
+21866 2020-06-02 06:01:35,065.065 Detection_Func DEBUG    post_inference function took 1.506 ms
+21866 2020-06-02 06:01:35,067.067 root         INFO     Detection result: []
+21866 2020-06-02 06:01:35,069.069 Detection_Func DEBUG    send_detection_results function took 0.714 ms
+21866 2020-06-02 06:01:35,071.071 root         DEBUG    FPS: 4.46
+21866 2020-06-02 06:01:35,118.118 Detection_Func DEBUG    fetch_frame function took 44.588 ms
+21866 2020-06-02 06:01:35,208.208 Detection_Func DEBUG    load_frame function took 88.368 ms
+21866 2020-06-02 06:01:35,215.215 Detection_Func DEBUG    resize_frame function took 2.139 ms
+21866 2020-06-02 06:01:35,291.291 Detection_Func DEBUG    inference function took 74.825 ms
+21866 2020-06-02 06:01:35,295.295 Detection_Func DEBUG    post_inference function took 1.558 ms
+21866 2020-06-02 06:01:35,297.297 root         INFO     Detection result: []
+21866 2020-06-02 06:01:35,299.299 Detection_Func DEBUG    send_detection_results function took 0.645 ms
+21866 2020-06-02 06:01:35,301.301 root         DEBUG    FPS: 4.52
+21866 2020-06-02 06:01:35,857.857 Detection_Func DEBUG    fetch_frame function took 554.653 ms
+21866 2020-06-02 06:01:35,947.947 Detection_Func DEBUG    load_frame function took 89.736 ms
+21866 2020-06-02 06:01:35,953.953 Detection_Func DEBUG    resize_frame function took 2.084 ms
+21866 2020-06-02 06:01:36,030.030 Detection_Func DEBUG    inference function took 75.402 ms
+21866 2020-06-02 06:01:36,033.033 Detection_Func DEBUG    post_inference function took 1.275 ms
+21866 2020-06-02 06:01:36,035.035 root         INFO     Detection result: []
+21866 2020-06-02 06:01:36,037.037 Detection_Func DEBUG    send_detection_results function took 1.709 ms
+21866 2020-06-02 06:01:36,038.038 root         DEBUG    FPS: 3.71
+21866 2020-06-02 06:01:36,655.655 Detection_Func DEBUG    fetch_frame function took 615.721 ms
+21866 2020-06-02 06:01:36,745.745 Detection_Func DEBUG    load_frame function took 89.895 ms
+21866 2020-06-02 06:01:36,751.751 Detection_Func DEBUG    resize_frame function took 2.088 ms
+21866 2020-06-02 06:01:36,827.827 Detection_Func DEBUG    inference function took 75.243 ms
+21866 2020-06-02 06:01:36,831.831 Detection_Func DEBUG    post_inference function took 1.363 ms
+21866 2020-06-02 06:01:36,832.832 root         INFO     Detection result: []
+21866 2020-06-02 06:01:36,835.835 Detection_Func DEBUG    send_detection_results function took 0.777 ms
+21866 2020-06-02 06:01:36,837.837 root         DEBUG    FPS: 3.07
+21866 2020-06-02 06:01:36,967.967 Detection_Func DEBUG    fetch_frame function took 127.884 ms
+21866 2020-06-02 06:01:37,058.058 Detection_Func DEBUG    load_frame function took 89.415 ms
+21866 2020-06-02 06:01:37,065.065 Detection_Func DEBUG    resize_frame function took 2.168 ms
+21866 2020-06-02 06:01:37,141.141 Detection_Func DEBUG    inference function took 74.505 ms
+21866 2020-06-02 06:01:37,144.144 Detection_Func DEBUG    post_inference function took 1.405 ms
+21866 2020-06-02 06:01:37,145.145 root         INFO     Detection result: []
+21866 2020-06-02 06:01:37,147.147 Detection_Func DEBUG    send_detection_results function took 0.736 ms
+21866 2020-06-02 06:01:37,149.149 root         DEBUG    FPS: 3.05
+21866 2020-06-02 06:01:37,215.215 Detection_Func DEBUG    fetch_frame function took 63.602 ms
+21866 2020-06-02 06:01:37,305.305 Detection_Func DEBUG    load_frame function took 88.490 ms
+21866 2020-06-02 06:01:37,311.311 Detection_Func DEBUG    resize_frame function took 2.002 ms
+21866 2020-06-02 06:01:37,388.388 Detection_Func DEBUG    inference function took 74.876 ms
+21866 2020-06-02 06:01:37,391.391 Detection_Func DEBUG    post_inference function took 1.930 ms
+21866 2020-06-02 06:01:37,393.393 root         INFO     Detection result: [[427.17784881591797, 218.36812019348145, 477.79727935791016, 257.03261375427246, 0.2109375]]
+21866 2020-06-02 06:01:37,395.395 Detection_Func DEBUG    send_detection_results function took 1.312 ms
+21866 2020-06-02 06:01:37,397.397 root         DEBUG    FPS: 3.04
+21866 2020-06-02 06:01:37,446.446 Detection_Func DEBUG    fetch_frame function took 46.943 ms
+21866 2020-06-02 06:01:37,536.536 Detection_Func DEBUG    load_frame function took 89.054 ms
+21866 2020-06-02 06:01:37,543.543 Detection_Func DEBUG    resize_frame function took 2.053 ms
+21866 2020-06-02 06:01:37,619.619 Detection_Func DEBUG    inference function took 74.466 ms
+21866 2020-06-02 06:01:37,622.622 Detection_Func DEBUG    post_inference function took 1.420 ms
+21866 2020-06-02 06:01:37,623.623 root         INFO     Detection result: []
+21866 2020-06-02 06:01:37,627.627 Detection_Func DEBUG    send_detection_results function took 2.496 ms
+21866 2020-06-02 06:01:37,628.628 root         DEBUG    FPS: 3.05
+21866 2020-06-02 06:01:37,676.676 Detection_Func DEBUG    fetch_frame function took 47.450 ms
+21866 2020-06-02 06:01:37,769.769 Detection_Func DEBUG    load_frame function took 91.758 ms
+21866 2020-06-02 06:01:37,775.775 Detection_Func DEBUG    resize_frame function took 2.193 ms

@@ -1,0 +1,1470 @@
+20599 2020-06-02 00:57:05,778.778 root         INFO     Successfully login into Campus Camera Stream --- ferst_atlantic
+20599 2020-06-02 00:57:06,077.077 root         INFO     Connected
+20599 2020-06-02 00:57:06,078.078 CandidatePool DEBUG    Candidate Pool clean thread launched.
+20599 2020-06-02 00:57:09,292.292 asyncio      DEBUG    Using selector: EpollSelector
+20599 2020-06-02 00:57:11,266.266 asyncio      DEBUG    Using selector: EpollSelector
+20599 2020-06-02 00:57:11,322.322 root         INFO     Trajectory Vertex v[24688] (veh1, cam1, 2000.0) created.
+20599 2020-06-02 00:57:11,324.324 asyncio      DEBUG    Using selector: EpollSelector
+20599 2020-06-02 00:57:11,377.377 root         INFO     Trajectory Vertex v[8440] (veh1, cam2, 2000.0) created.
+20599 2020-06-02 00:57:11,378.378 root         INFO     Link vertex v[24688] to v[8440]. Confidence 
+20599 2020-06-02 00:57:11,380.380 asyncio      DEBUG    Using selector: EpollSelector
+20599 2020-06-02 00:57:11,494.494 Detection_Func DEBUG    fetch_frame function took 49.184 ms
+20599 2020-06-02 00:57:11,631.631 Detection_Func DEBUG    load_frame function took 135.573 ms
+20599 2020-06-02 00:57:11,633.633 Detection_Func DEBUG    resize_frame function took 1.943 ms
+20599 2020-06-02 00:57:11,907.907 Detection_Func DEBUG    inference function took 272.624 ms
+20599 2020-06-02 00:57:11,909.909 Detection_Func DEBUG    post_inference function took 1.868 ms
+20599 2020-06-02 00:57:11,910.910 root         INFO     Detection result: [[300.0898742675781, 221.26869678497314, 358.6749267578125, 269.40982818603516, 0.41796875], [374.5653533935547, 171.84827327728271, 402.7777862548828, 189.15565967559814, 0.2109375]]
+20599 2020-06-02 00:57:11,916.916 RPi2         DEBUG    VehicleTracking's sort_update function took 5.100 ms
+20599 2020-06-02 00:57:11,920.920 root         INFO     Track result: [[374.56535339 171.84827328 402.77778625 189.15565968   2.        ]
+ [300.08987427 221.26869678 358.67492676 269.40982819   1.        ]]
+20599 2020-06-02 00:57:11,922.922 RPi2         DEBUG    frame_storage function took 1.015 ms
+20599 2020-06-02 00:57:11,976.976 RPi2         DEBUG    load_opencv_PIL function took 53.357 ms
+20599 2020-06-02 00:57:11,977.977 RPi2         DEBUG    VehicleTracking's status_update function took 0.332 ms
+20599 2020-06-02 00:57:11,978.978 root         DEBUG    FPS: 0.00
+20599 2020-06-02 00:57:12,032.032 Detection_Func DEBUG    fetch_frame function took 53.296 ms
+20599 2020-06-02 00:57:12,129.129 Detection_Func DEBUG    load_frame function took 95.564 ms
+20599 2020-06-02 00:57:12,135.135 Detection_Func DEBUG    resize_frame function took 2.944 ms
+20599 2020-06-02 00:57:12,219.219 Detection_Func DEBUG    inference function took 81.930 ms
+20599 2020-06-02 00:57:12,221.221 Detection_Func DEBUG    post_inference function took 1.853 ms
+20599 2020-06-02 00:57:12,222.222 root         INFO     Detection result: [[249.52823638916016, 212.5510311126709, 297.4481964111328, 244.17686462402344, 0.58203125], [261.5266990661621, 217.05519676208496, 311.2298393249512, 249.85788345336914, 0.5]]
+20599 2020-06-02 00:57:12,232.232 RPi2         DEBUG    VehicleTracking's sort_update function took 9.131 ms
+20599 2020-06-02 00:57:12,233.233 root         INFO     Track result: []
+20599 2020-06-02 00:57:12,236.236 RPi2         DEBUG    frame_storage function took 1.556 ms
+20599 2020-06-02 00:57:12,289.289 RPi2         DEBUG    load_opencv_PIL function took 52.576 ms
+20599 2020-06-02 00:57:12,290.290 RPi2         DEBUG    VehicleTracking's status_update function took 0.091 ms
+20599 2020-06-02 00:57:12,291.291 root         DEBUG    FPS: 6.40
+20599 2020-06-02 00:57:12,347.347 Detection_Func DEBUG    fetch_frame function took 55.120 ms
+20599 2020-06-02 00:57:12,443.443 Detection_Func DEBUG    load_frame function took 95.085 ms
+20599 2020-06-02 00:57:12,449.449 Detection_Func DEBUG    resize_frame function took 2.170 ms
+20599 2020-06-02 00:57:12,532.532 Detection_Func DEBUG    inference function took 82.253 ms
+20599 2020-06-02 00:57:12,535.535 Detection_Func DEBUG    post_inference function took 1.506 ms
+20599 2020-06-02 00:57:12,536.536 root         INFO     Detection result: [[230.90227127075195, 211.6602373123169, 273.0700492858887, 245.0676727294922, 0.5]]
+20599 2020-06-02 00:57:12,546.546 RPi2         DEBUG    VehicleTracking's sort_update function took 9.313 ms
+20599 2020-06-02 00:57:12,548.548 root         INFO     Track result: [[229.92035626 212.40388869 274.05625956 244.32402135   3.        ]]
+20599 2020-06-02 00:57:12,550.550 RPi2         DEBUG    frame_storage function took 0.948 ms
+20599 2020-06-02 00:57:12,603.603 RPi2         DEBUG    load_opencv_PIL function took 51.789 ms
+20599 2020-06-02 00:57:12,606.606 RPi2         DEBUG    VehicleTracking's status_update function took 0.257 ms
+20599 2020-06-02 00:57:12,607.607 root         DEBUG    FPS: 4.77
+20599 2020-06-02 00:57:12,701.701 Detection_Func DEBUG    fetch_frame function took 92.944 ms
+20599 2020-06-02 00:57:12,797.797 Detection_Func DEBUG    load_frame function took 95.346 ms
+20599 2020-06-02 00:57:12,803.803 Detection_Func DEBUG    resize_frame function took 2.730 ms
+20599 2020-06-02 00:57:12,887.887 Detection_Func DEBUG    inference function took 82.226 ms
+20599 2020-06-02 00:57:12,889.889 Detection_Func DEBUG    post_inference function took 1.427 ms
+20599 2020-06-02 00:57:12,890.890 root         INFO     Detection result: [[214.98882293701172, 206.32822036743164, 248.24275970458984, 236.819429397583, 0.33984375]]
+20599 2020-06-02 00:57:12,899.899 RPi2         DEBUG    VehicleTracking's sort_update function took 8.749 ms
+20599 2020-06-02 00:57:12,902.902 root         INFO     Track result: [[213.197474   207.52748108 249.90420101 236.41933178   3.        ]]
+20599 2020-06-02 00:57:12,904.904 RPi2         DEBUG    frame_storage function took 0.943 ms
+20599 2020-06-02 00:57:12,956.956 RPi2         DEBUG    load_opencv_PIL function took 51.253 ms
+20599 2020-06-02 00:57:12,957.957 RPi2         DEBUG    VehicleTracking's status_update function took 0.221 ms
+20599 2020-06-02 00:57:12,958.958 root         DEBUG    FPS: 4.08
+20599 2020-06-02 00:57:13,040.040 Detection_Func DEBUG    fetch_frame function took 81.053 ms
+20599 2020-06-02 00:57:13,135.135 Detection_Func DEBUG    load_frame function took 94.352 ms
+20599 2020-06-02 00:57:13,141.141 Detection_Func DEBUG    resize_frame function took 2.562 ms
+20599 2020-06-02 00:57:13,224.224 Detection_Func DEBUG    inference function took 81.670 ms
+20599 2020-06-02 00:57:13,226.226 Detection_Func DEBUG    post_inference function took 1.095 ms
+20599 2020-06-02 00:57:13,227.227 root         INFO     Detection result: []
+20599 2020-06-02 00:57:13,234.234 RPi2         DEBUG    VehicleTracking's sort_update function took 6.492 ms
+20599 2020-06-02 00:57:13,235.235 root         INFO     Track result: []
+20599 2020-06-02 00:57:13,237.237 RPi2         DEBUG    frame_storage function took 0.936 ms
+20599 2020-06-02 00:57:13,289.289 RPi2         DEBUG    load_opencv_PIL function took 51.136 ms
+20599 2020-06-02 00:57:13,290.290 RPi2         DEBUG    VehicleTracking's status_update function took 0.099 ms
+20599 2020-06-02 00:57:13,291.291 root         INFO     Vehicle: 2 is leaving
+20599 2020-06-02 00:57:13,295.295 RPi2         DEBUG    feature_extraction_adaptive_histogram function took 3.469 ms
+20599 2020-06-02 00:57:13,297.297 asyncio      DEBUG    Using selector: EpollSelector
+20599 2020-06-02 00:57:13,341.341 root         INFO     Trajectory Vertex v[20528] (veh2, ferst_atlantic, 1591055833.2962317) created.
+20599 2020-06-02 00:57:13,342.342 RPi2         DEBUG    vertex_storage function took 46.168 ms
+20599 2020-06-02 00:57:13,345.345 RPi2         DEBUG    messaging function took 1.956 ms
+20599 2020-06-02 00:57:13,345.345 root         INFO     Re-Id for vehicle 2: []
+20599 2020-06-02 00:57:13,346.346 RPi2         DEBUG    edge_storage function took 0.012 ms
+20599 2020-06-02 00:57:13,347.347 root         INFO     Vehicle: 1 is leaving
+20599 2020-06-02 00:57:13,352.352 RPi2         DEBUG    feature_extraction_adaptive_histogram function took 4.286 ms
+20599 2020-06-02 00:57:13,374.374 root         INFO     Trajectory Vertex v[16512] (veh1, ferst_atlantic, 1591055833.3531477) created.
+20599 2020-06-02 00:57:13,375.375 RPi2         DEBUG    vertex_storage function took 22.424 ms
+20599 2020-06-02 00:57:13,378.378 RPi2         DEBUG    messaging function took 1.796 ms
+20599 2020-06-02 00:57:13,378.378 root         INFO     Re-Id for vehicle 1: []
+20599 2020-06-02 00:57:13,379.379 RPi2         DEBUG    edge_storage function took 0.010 ms
+20599 2020-06-02 00:57:13,380.380 root         DEBUG    FPS: 3.57
+20599 2020-06-02 00:57:13,435.435 Detection_Func DEBUG    fetch_frame function took 54.032 ms
+20599 2020-06-02 00:57:13,530.530 Detection_Func DEBUG    load_frame function took 94.468 ms
+20599 2020-06-02 00:57:13,536.536 Detection_Func DEBUG    resize_frame function took 2.132 ms
+20599 2020-06-02 00:57:13,620.620 Detection_Func DEBUG    inference function took 83.781 ms
+20599 2020-06-02 00:57:13,622.622 Detection_Func DEBUG    post_inference function took 1.093 ms
+20599 2020-06-02 00:57:13,623.623 root         INFO     Detection result: []
+20599 2020-06-02 00:57:13,629.629 RPi2         DEBUG    VehicleTracking's sort_update function took 4.777 ms
+20599 2020-06-02 00:57:13,630.630 root         INFO     Track result: []
+20599 2020-06-02 00:57:13,631.631 RPi2         DEBUG    frame_storage function took 0.977 ms
+20599 2020-06-02 00:57:13,683.683 RPi2         DEBUG    load_opencv_PIL function took 51.154 ms
+20599 2020-06-02 00:57:13,687.687 RPi2         DEBUG    VehicleTracking's status_update function took 0.096 ms
+20599 2020-06-02 00:57:13,687.687 root         DEBUG    FPS: 3.51
+20599 2020-06-02 00:57:13,742.742 Detection_Func DEBUG    fetch_frame function took 54.203 ms
+20599 2020-06-02 00:57:13,838.838 Detection_Func DEBUG    load_frame function took 94.954 ms
+20599 2020-06-02 00:57:13,845.845 Detection_Func DEBUG    resize_frame function took 2.871 ms
+20599 2020-06-02 00:57:13,928.928 Detection_Func DEBUG    inference function took 82.051 ms
+20599 2020-06-02 00:57:13,930.930 Detection_Func DEBUG    post_inference function took 1.149 ms
+20599 2020-06-02 00:57:13,930.930 root         INFO     Detection result: []
+20599 2020-06-02 00:57:13,935.935 RPi2         DEBUG    VehicleTracking's sort_update function took 3.708 ms
+20599 2020-06-02 00:57:13,936.936 root         INFO     Track result: []
+20599 2020-06-02 00:57:13,938.938 RPi2         DEBUG    frame_storage function took 0.904 ms
+20599 2020-06-02 00:57:13,989.989 RPi2         DEBUG    load_opencv_PIL function took 50.275 ms
+20599 2020-06-02 00:57:13,992.992 RPi2         DEBUG    VehicleTracking's status_update function took 0.097 ms
+20599 2020-06-02 00:57:13,993.993 root         DEBUG    FPS: 3.47
+20599 2020-06-02 00:57:14,047.047 Detection_Func DEBUG    fetch_frame function took 53.664 ms
+20599 2020-06-02 00:57:14,143.143 Detection_Func DEBUG    load_frame function took 94.626 ms
+20599 2020-06-02 00:57:14,149.149 Detection_Func DEBUG    resize_frame function took 2.556 ms
+20599 2020-06-02 00:57:14,232.232 Detection_Func DEBUG    inference function took 81.780 ms
+20599 2020-06-02 00:57:14,234.234 Detection_Func DEBUG    post_inference function took 1.074 ms
+20599 2020-06-02 00:57:14,234.234 root         INFO     Detection result: []
+20599 2020-06-02 00:57:14,239.239 RPi2         DEBUG    VehicleTracking's sort_update function took 3.675 ms
+20599 2020-06-02 00:57:14,240.240 root         INFO     Track result: []
+20599 2020-06-02 00:57:14,241.241 RPi2         DEBUG    frame_storage function took 0.971 ms
+20599 2020-06-02 00:57:14,293.293 RPi2         DEBUG    load_opencv_PIL function took 50.501 ms
+20599 2020-06-02 00:57:14,296.296 RPi2         DEBUG    VehicleTracking's status_update function took 0.115 ms
+20599 2020-06-02 00:57:14,316.316 root         INFO     Vehicle: 3 is leaving
+20599 2020-06-02 00:57:14,321.321 RPi2         DEBUG    feature_extraction_adaptive_histogram function took 3.689 ms
+20599 2020-06-02 00:57:14,346.346 root         INFO     Trajectory Vertex v[12328] (veh3, ferst_atlantic, 1591055834.3219056) created.
+20599 2020-06-02 00:57:14,347.347 RPi2         DEBUG    vertex_storage function took 25.167 ms
+20599 2020-06-02 00:57:14,350.350 RPi2         DEBUG    messaging function took 2.195 ms
+20599 2020-06-02 00:57:14,351.351 root         INFO     Re-Id for vehicle 3: []
+20599 2020-06-02 00:57:14,352.352 RPi2         DEBUG    edge_storage function took 0.012 ms
+20599 2020-06-02 00:57:14,353.353 root         DEBUG    FPS: 3.37
+20599 2020-06-02 00:57:14,422.422 Detection_Func DEBUG    fetch_frame function took 67.808 ms
+20599 2020-06-02 00:57:14,521.521 Detection_Func DEBUG    load_frame function took 97.571 ms
+20599 2020-06-02 00:57:14,527.527 Detection_Func DEBUG    resize_frame function took 2.815 ms
+20599 2020-06-02 00:57:14,610.610 Detection_Func DEBUG    inference function took 81.948 ms
+20599 2020-06-02 00:57:14,612.612 Detection_Func DEBUG    post_inference function took 1.161 ms
+20599 2020-06-02 00:57:14,613.613 root         INFO     Detection result: []
+20599 2020-06-02 00:57:14,616.616 RPi2         DEBUG    VehicleTracking's sort_update function took 1.959 ms
+20599 2020-06-02 00:57:14,617.617 root         INFO     Track result: []
+20599 2020-06-02 00:57:14,619.619 RPi2         DEBUG    frame_storage function took 0.985 ms
+20599 2020-06-02 00:57:14,670.670 RPi2         DEBUG    load_opencv_PIL function took 50.616 ms
+20599 2020-06-02 00:57:14,673.673 RPi2         DEBUG    VehicleTracking's status_update function took 0.085 ms
+20599 2020-06-02 00:57:14,674.674 root         DEBUG    FPS: 3.34
+20599 2020-06-02 00:57:14,729.729 Detection_Func DEBUG    fetch_frame function took 54.445 ms
+20599 2020-06-02 00:57:14,825.825 Detection_Func DEBUG    load_frame function took 95.072 ms
+20599 2020-06-02 00:57:14,832.832 Detection_Func DEBUG    resize_frame function took 2.573 ms
+20599 2020-06-02 00:57:14,915.915 Detection_Func DEBUG    inference function took 82.111 ms
+20599 2020-06-02 00:57:14,917.917 Detection_Func DEBUG    post_inference function took 1.090 ms
+20599 2020-06-02 00:57:14,918.918 root         INFO     Detection result: []
+20599 2020-06-02 00:57:14,920.920 RPi2         DEBUG    VehicleTracking's sort_update function took 1.787 ms
+20599 2020-06-02 00:57:14,921.921 root         INFO     Track result: []
+20599 2020-06-02 00:57:14,923.923 RPi2         DEBUG    frame_storage function took 0.987 ms
+20599 2020-06-02 00:57:14,973.973 RPi2         DEBUG    load_opencv_PIL function took 49.424 ms
+20599 2020-06-02 00:57:14,976.976 RPi2         DEBUG    VehicleTracking's status_update function took 0.094 ms
+20599 2020-06-02 00:57:14,977.977 root         DEBUG    FPS: 3.33
+20599 2020-06-02 00:57:15,027.027 Detection_Func DEBUG    fetch_frame function took 49.277 ms
+20599 2020-06-02 00:57:15,123.123 Detection_Func DEBUG    load_frame function took 95.369 ms
+20599 2020-06-02 00:57:15,129.129 Detection_Func DEBUG    resize_frame function took 2.051 ms
+20599 2020-06-02 00:57:15,212.212 Detection_Func DEBUG    inference function took 81.801 ms
+20599 2020-06-02 00:57:15,214.214 Detection_Func DEBUG    post_inference function took 1.085 ms
+20599 2020-06-02 00:57:15,215.215 root         INFO     Detection result: []
+20599 2020-06-02 00:57:15,218.218 RPi2         DEBUG    VehicleTracking's sort_update function took 1.797 ms
+20599 2020-06-02 00:57:15,218.218 root         INFO     Track result: []
+20599 2020-06-02 00:57:15,220.220 RPi2         DEBUG    frame_storage function took 0.977 ms
+20599 2020-06-02 00:57:15,271.271 RPi2         DEBUG    load_opencv_PIL function took 50.171 ms
+20599 2020-06-02 00:57:15,274.274 RPi2         DEBUG    VehicleTracking's status_update function took 0.214 ms
+20599 2020-06-02 00:57:15,275.275 root         DEBUG    FPS: 3.34
+20599 2020-06-02 00:57:15,331.331 Detection_Func DEBUG    fetch_frame function took 55.070 ms
+20599 2020-06-02 00:57:15,427.427 Detection_Func DEBUG    load_frame function took 94.751 ms
+20599 2020-06-02 00:57:15,433.433 Detection_Func DEBUG    resize_frame function took 2.574 ms
+20599 2020-06-02 00:57:15,516.516 Detection_Func DEBUG    inference function took 81.933 ms
+20599 2020-06-02 00:57:15,518.518 Detection_Func DEBUG    post_inference function took 1.079 ms
+20599 2020-06-02 00:57:15,519.519 root         INFO     Detection result: []
+20599 2020-06-02 00:57:15,521.521 RPi2         DEBUG    VehicleTracking's sort_update function took 1.791 ms
+20599 2020-06-02 00:57:15,522.522 root         INFO     Track result: []
+20599 2020-06-02 00:57:15,524.524 RPi2         DEBUG    frame_storage function took 0.918 ms
+20599 2020-06-02 00:57:15,575.575 RPi2         DEBUG    load_opencv_PIL function took 50.202 ms
+20599 2020-06-02 00:57:15,578.578 RPi2         DEBUG    VehicleTracking's status_update function took 0.094 ms
+20599 2020-06-02 00:57:15,579.579 root         DEBUG    FPS: 3.33
+20599 2020-06-02 00:57:15,646.646 Detection_Func DEBUG    fetch_frame function took 65.903 ms
+20599 2020-06-02 00:57:15,741.741 Detection_Func DEBUG    load_frame function took 94.685 ms
+20599 2020-06-02 00:57:15,747.747 Detection_Func DEBUG    resize_frame function took 2.090 ms
+20599 2020-06-02 00:57:15,830.830 Detection_Func DEBUG    inference function took 82.356 ms
+20599 2020-06-02 00:57:15,832.832 Detection_Func DEBUG    post_inference function took 1.088 ms
+20599 2020-06-02 00:57:15,833.833 root         INFO     Detection result: []
+20599 2020-06-02 00:57:15,836.836 RPi2         DEBUG    VehicleTracking's sort_update function took 1.882 ms
+20599 2020-06-02 00:57:15,837.837 root         INFO     Track result: []
+20599 2020-06-02 00:57:15,838.838 RPi2         DEBUG    frame_storage function took 0.984 ms
+20599 2020-06-02 00:57:15,890.890 RPi2         DEBUG    load_opencv_PIL function took 50.846 ms
+20599 2020-06-02 00:57:15,893.893 RPi2         DEBUG    VehicleTracking's status_update function took 0.089 ms
+20599 2020-06-02 00:57:15,894.894 root         DEBUG    FPS: 3.32
+20599 2020-06-02 00:57:15,950.950 Detection_Func DEBUG    fetch_frame function took 55.150 ms
+20599 2020-06-02 00:57:16,064.064 Detection_Func DEBUG    load_frame function took 112.567 ms
+20599 2020-06-02 00:57:16,072.072 Detection_Func DEBUG    resize_frame function took 3.208 ms
+20599 2020-06-02 00:57:16,159.159 Detection_Func DEBUG    inference function took 86.320 ms
+20599 2020-06-02 00:57:16,162.162 Detection_Func DEBUG    post_inference function took 1.556 ms
+20599 2020-06-02 00:57:16,163.163 root         INFO     Detection result: []
+20599 2020-06-02 00:57:16,166.166 RPi2         DEBUG    VehicleTracking's sort_update function took 2.564 ms
+20599 2020-06-02 00:57:16,167.167 root         INFO     Track result: []
+20599 2020-06-02 00:57:16,170.170 RPi2         DEBUG    frame_storage function took 1.171 ms
+20599 2020-06-02 00:57:16,230.230 RPi2         DEBUG    load_opencv_PIL function took 58.942 ms
+20599 2020-06-02 00:57:16,233.233 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:16,234.234 root         DEBUG    FPS: 3.29
+20599 2020-06-02 00:57:16,288.288 Detection_Func DEBUG    fetch_frame function took 53.508 ms
+20599 2020-06-02 00:57:16,384.384 Detection_Func DEBUG    load_frame function took 95.141 ms
+20599 2020-06-02 00:57:16,390.390 Detection_Func DEBUG    resize_frame function took 2.546 ms
+20599 2020-06-02 00:57:16,474.474 Detection_Func DEBUG    inference function took 82.476 ms
+20599 2020-06-02 00:57:16,476.476 Detection_Func DEBUG    post_inference function took 1.075 ms
+20599 2020-06-02 00:57:16,477.477 root         INFO     Detection result: []
+20599 2020-06-02 00:57:16,479.479 RPi2         DEBUG    VehicleTracking's sort_update function took 1.803 ms
+20599 2020-06-02 00:57:16,480.480 root         INFO     Track result: []
+20599 2020-06-02 00:57:16,482.482 RPi2         DEBUG    frame_storage function took 0.971 ms
+20599 2020-06-02 00:57:16,533.533 RPi2         DEBUG    load_opencv_PIL function took 50.701 ms
+20599 2020-06-02 00:57:16,537.537 RPi2         DEBUG    VehicleTracking's status_update function took 0.087 ms
+20599 2020-06-02 00:57:16,537.537 root         DEBUG    FPS: 3.29
+20599 2020-06-02 00:57:16,596.596 Detection_Func DEBUG    fetch_frame function took 57.728 ms
+20599 2020-06-02 00:57:16,710.710 Detection_Func DEBUG    load_frame function took 112.855 ms
+20599 2020-06-02 00:57:16,718.718 Detection_Func DEBUG    resize_frame function took 2.824 ms
+20599 2020-06-02 00:57:16,805.805 Detection_Func DEBUG    inference function took 85.936 ms
+20599 2020-06-02 00:57:16,807.807 Detection_Func DEBUG    post_inference function took 1.503 ms
+20599 2020-06-02 00:57:16,808.808 root         INFO     Detection result: []
+20599 2020-06-02 00:57:16,812.812 RPi2         DEBUG    VehicleTracking's sort_update function took 2.403 ms
+20599 2020-06-02 00:57:16,813.813 root         INFO     Track result: []
+20599 2020-06-02 00:57:16,815.815 RPi2         DEBUG    frame_storage function took 1.379 ms
+20599 2020-06-02 00:57:16,877.877 RPi2         DEBUG    load_opencv_PIL function took 60.201 ms
+20599 2020-06-02 00:57:16,880.880 RPi2         DEBUG    VehicleTracking's status_update function took 0.105 ms
+20599 2020-06-02 00:57:16,881.881 root         DEBUG    FPS: 3.26
+20599 2020-06-02 00:57:16,952.952 Detection_Func DEBUG    fetch_frame function took 70.056 ms
+20599 2020-06-02 00:57:17,050.050 Detection_Func DEBUG    load_frame function took 96.820 ms
+20599 2020-06-02 00:57:17,056.056 Detection_Func DEBUG    resize_frame function took 2.668 ms
+20599 2020-06-02 00:57:17,140.140 Detection_Func DEBUG    inference function took 82.628 ms
+20599 2020-06-02 00:57:17,142.142 Detection_Func DEBUG    post_inference function took 1.072 ms
+20599 2020-06-02 00:57:17,143.143 root         INFO     Detection result: []
+20599 2020-06-02 00:57:17,146.146 RPi2         DEBUG    VehicleTracking's sort_update function took 1.967 ms
+20599 2020-06-02 00:57:17,147.147 root         INFO     Track result: []
+20599 2020-06-02 00:57:17,148.148 RPi2         DEBUG    frame_storage function took 0.950 ms
+20599 2020-06-02 00:57:17,201.201 RPi2         DEBUG    load_opencv_PIL function took 51.907 ms
+20599 2020-06-02 00:57:17,205.205 RPi2         DEBUG    VehicleTracking's status_update function took 0.108 ms
+20599 2020-06-02 00:57:17,206.206 root         DEBUG    FPS: 3.25
+20599 2020-06-02 00:57:17,266.266 Detection_Func DEBUG    fetch_frame function took 58.622 ms
+20599 2020-06-02 00:57:17,378.378 Detection_Func DEBUG    load_frame function took 111.476 ms
+20599 2020-06-02 00:57:17,386.386 Detection_Func DEBUG    resize_frame function took 3.012 ms
+20599 2020-06-02 00:57:17,473.473 Detection_Func DEBUG    inference function took 85.724 ms
+20599 2020-06-02 00:57:17,475.475 Detection_Func DEBUG    post_inference function took 1.658 ms
+20599 2020-06-02 00:57:17,476.476 root         INFO     Detection result: []
+20599 2020-06-02 00:57:17,480.480 RPi2         DEBUG    VehicleTracking's sort_update function took 2.483 ms
+20599 2020-06-02 00:57:17,481.481 root         INFO     Track result: []
+20599 2020-06-02 00:57:17,483.483 RPi2         DEBUG    frame_storage function took 1.345 ms
+20599 2020-06-02 00:57:17,541.541 RPi2         DEBUG    load_opencv_PIL function took 56.906 ms
+20599 2020-06-02 00:57:17,545.545 RPi2         DEBUG    VehicleTracking's status_update function took 0.107 ms
+20599 2020-06-02 00:57:17,546.546 root         DEBUG    FPS: 3.23
+20599 2020-06-02 00:57:17,607.607 Detection_Func DEBUG    fetch_frame function took 59.560 ms
+20599 2020-06-02 00:57:17,720.720 Detection_Func DEBUG    load_frame function took 111.888 ms
+20599 2020-06-02 00:57:17,727.727 Detection_Func DEBUG    resize_frame function took 2.222 ms
+20599 2020-06-02 00:57:17,815.815 Detection_Func DEBUG    inference function took 86.477 ms
+20599 2020-06-02 00:57:17,817.817 Detection_Func DEBUG    post_inference function took 1.509 ms
+20599 2020-06-02 00:57:17,818.818 root         INFO     Detection result: []
+20599 2020-06-02 00:57:17,822.822 RPi2         DEBUG    VehicleTracking's sort_update function took 2.542 ms
+20599 2020-06-02 00:57:17,823.823 root         INFO     Track result: []
+20599 2020-06-02 00:57:17,825.825 RPi2         DEBUG    frame_storage function took 1.456 ms
+20599 2020-06-02 00:57:17,885.885 RPi2         DEBUG    load_opencv_PIL function took 58.355 ms
+20599 2020-06-02 00:57:17,889.889 RPi2         DEBUG    VehicleTracking's status_update function took 0.105 ms
+20599 2020-06-02 00:57:17,890.890 root         DEBUG    FPS: 3.21
+20599 2020-06-02 00:57:17,950.950 Detection_Func DEBUG    fetch_frame function took 58.991 ms
+20599 2020-06-02 00:57:18,062.062 Detection_Func DEBUG    load_frame function took 111.722 ms
+20599 2020-06-02 00:57:18,070.070 Detection_Func DEBUG    resize_frame function took 3.152 ms
+20599 2020-06-02 00:57:18,157.157 Detection_Func DEBUG    inference function took 85.813 ms
+20599 2020-06-02 00:57:18,160.160 Detection_Func DEBUG    post_inference function took 1.311 ms
+20599 2020-06-02 00:57:18,161.161 root         INFO     Detection result: []
+20599 2020-06-02 00:57:18,164.164 RPi2         DEBUG    VehicleTracking's sort_update function took 2.499 ms
+20599 2020-06-02 00:57:18,165.165 root         INFO     Track result: []
+20599 2020-06-02 00:57:18,168.168 RPi2         DEBUG    frame_storage function took 1.350 ms
+20599 2020-06-02 00:57:18,227.227 RPi2         DEBUG    load_opencv_PIL function took 58.769 ms
+20599 2020-06-02 00:57:18,231.231 RPi2         DEBUG    VehicleTracking's status_update function took 0.111 ms
+20599 2020-06-02 00:57:18,232.232 root         DEBUG    FPS: 3.20
+20599 2020-06-02 00:57:18,299.299 Detection_Func DEBUG    fetch_frame function took 65.931 ms
+20599 2020-06-02 00:57:18,412.412 Detection_Func DEBUG    load_frame function took 111.767 ms
+20599 2020-06-02 00:57:18,420.420 Detection_Func DEBUG    resize_frame function took 2.919 ms
+20599 2020-06-02 00:57:18,507.507 Detection_Func DEBUG    inference function took 85.613 ms
+20599 2020-06-02 00:57:18,509.509 Detection_Func DEBUG    post_inference function took 1.512 ms
+20599 2020-06-02 00:57:18,510.510 root         INFO     Detection result: []
+20599 2020-06-02 00:57:18,513.513 RPi2         DEBUG    VehicleTracking's sort_update function took 2.435 ms
+20599 2020-06-02 00:57:18,515.515 root         INFO     Track result: []
+20599 2020-06-02 00:57:18,517.517 RPi2         DEBUG    frame_storage function took 1.214 ms
+20599 2020-06-02 00:57:18,577.577 RPi2         DEBUG    load_opencv_PIL function took 58.901 ms
+20599 2020-06-02 00:57:18,581.581 RPi2         DEBUG    VehicleTracking's status_update function took 0.105 ms
+20599 2020-06-02 00:57:18,582.582 root         DEBUG    FPS: 3.18
+20599 2020-06-02 00:57:18,650.650 Detection_Func DEBUG    fetch_frame function took 67.067 ms
+20599 2020-06-02 00:57:18,763.763 Detection_Func DEBUG    load_frame function took 112.058 ms
+20599 2020-06-02 00:57:18,770.770 Detection_Func DEBUG    resize_frame function took 2.879 ms
+20599 2020-06-02 00:57:18,857.857 Detection_Func DEBUG    inference function took 85.412 ms
+20599 2020-06-02 00:57:18,860.860 Detection_Func DEBUG    post_inference function took 1.280 ms
+20599 2020-06-02 00:57:18,860.860 root         INFO     Detection result: []
+20599 2020-06-02 00:57:18,864.864 RPi2         DEBUG    VehicleTracking's sort_update function took 2.525 ms
+20599 2020-06-02 00:57:18,865.865 root         INFO     Track result: []
+20599 2020-06-02 00:57:18,867.867 RPi2         DEBUG    frame_storage function took 1.172 ms
+20599 2020-06-02 00:57:18,927.927 RPi2         DEBUG    load_opencv_PIL function took 58.140 ms
+20599 2020-06-02 00:57:18,930.930 RPi2         DEBUG    VehicleTracking's status_update function took 0.104 ms
+20599 2020-06-02 00:57:18,931.931 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:18,987.987 Detection_Func DEBUG    fetch_frame function took 54.215 ms
+20599 2020-06-02 00:57:19,084.084 Detection_Func DEBUG    load_frame function took 96.787 ms
+20599 2020-06-02 00:57:19,091.091 Detection_Func DEBUG    resize_frame function took 2.604 ms
+20599 2020-06-02 00:57:19,174.174 Detection_Func DEBUG    inference function took 82.642 ms
+20599 2020-06-02 00:57:19,176.176 Detection_Func DEBUG    post_inference function took 1.050 ms
+20599 2020-06-02 00:57:19,177.177 root         INFO     Detection result: []
+20599 2020-06-02 00:57:19,180.180 RPi2         DEBUG    VehicleTracking's sort_update function took 1.824 ms
+20599 2020-06-02 00:57:19,181.181 root         INFO     Track result: []
+20599 2020-06-02 00:57:19,183.183 RPi2         DEBUG    frame_storage function took 0.963 ms
+20599 2020-06-02 00:57:19,238.238 RPi2         DEBUG    load_opencv_PIL function took 54.725 ms
+20599 2020-06-02 00:57:19,242.242 RPi2         DEBUG    VehicleTracking's status_update function took 0.106 ms
+20599 2020-06-02 00:57:19,243.243 root         DEBUG    FPS: 3.17
+20599 2020-06-02 00:57:19,303.303 Detection_Func DEBUG    fetch_frame function took 58.511 ms
+20599 2020-06-02 00:57:19,417.417 Detection_Func DEBUG    load_frame function took 113.127 ms
+20599 2020-06-02 00:57:19,424.424 Detection_Func DEBUG    resize_frame function took 2.299 ms
+20599 2020-06-02 00:57:19,512.512 Detection_Func DEBUG    inference function took 86.803 ms
+20599 2020-06-02 00:57:19,515.515 Detection_Func DEBUG    post_inference function took 1.640 ms
+20599 2020-06-02 00:57:19,516.516 root         INFO     Detection result: []
+20599 2020-06-02 00:57:19,519.519 RPi2         DEBUG    VehicleTracking's sort_update function took 2.483 ms
+20599 2020-06-02 00:57:19,520.520 root         INFO     Track result: []
+20599 2020-06-02 00:57:19,523.523 RPi2         DEBUG    frame_storage function took 1.180 ms
+20599 2020-06-02 00:57:19,582.582 RPi2         DEBUG    load_opencv_PIL function took 58.721 ms
+20599 2020-06-02 00:57:19,586.586 RPi2         DEBUG    VehicleTracking's status_update function took 0.108 ms
+20599 2020-06-02 00:57:19,587.587 root         DEBUG    FPS: 3.15
+20599 2020-06-02 00:57:19,660.660 Detection_Func DEBUG    fetch_frame function took 71.810 ms
+20599 2020-06-02 00:57:19,773.773 Detection_Func DEBUG    load_frame function took 112.038 ms
+20599 2020-06-02 00:57:19,781.781 Detection_Func DEBUG    resize_frame function took 3.158 ms
+20599 2020-06-02 00:57:19,869.869 Detection_Func DEBUG    inference function took 86.856 ms
+20599 2020-06-02 00:57:19,872.872 Detection_Func DEBUG    post_inference function took 1.339 ms
+20599 2020-06-02 00:57:19,872.872 root         INFO     Detection result: []
+20599 2020-06-02 00:57:19,876.876 RPi2         DEBUG    VehicleTracking's sort_update function took 2.524 ms
+20599 2020-06-02 00:57:19,877.877 root         INFO     Track result: []
+20599 2020-06-02 00:57:19,879.879 RPi2         DEBUG    frame_storage function took 1.284 ms
+20599 2020-06-02 00:57:19,939.939 RPi2         DEBUG    load_opencv_PIL function took 58.287 ms
+20599 2020-06-02 00:57:19,942.942 RPi2         DEBUG    VehicleTracking's status_update function took 0.106 ms
+20599 2020-06-02 00:57:19,943.943 root         DEBUG    FPS: 3.14
+20599 2020-06-02 00:57:20,000.000 Detection_Func DEBUG    fetch_frame function took 55.342 ms
+20599 2020-06-02 00:57:20,097.097 Detection_Func DEBUG    load_frame function took 95.340 ms
+20599 2020-06-02 00:57:20,104.104 Detection_Func DEBUG    resize_frame function took 2.646 ms
+20599 2020-06-02 00:57:20,192.192 Detection_Func DEBUG    inference function took 85.346 ms
+20599 2020-06-02 00:57:20,194.194 Detection_Func DEBUG    post_inference function took 1.299 ms
+20599 2020-06-02 00:57:20,195.195 root         INFO     Detection result: []
+20599 2020-06-02 00:57:20,199.199 RPi2         DEBUG    VehicleTracking's sort_update function took 2.522 ms
+20599 2020-06-02 00:57:20,200.200 root         INFO     Track result: []
+20599 2020-06-02 00:57:20,202.202 RPi2         DEBUG    frame_storage function took 1.423 ms
+20599 2020-06-02 00:57:20,262.262 RPi2         DEBUG    load_opencv_PIL function took 58.744 ms
+20599 2020-06-02 00:57:20,266.266 RPi2         DEBUG    VehicleTracking's status_update function took 0.109 ms
+20599 2020-06-02 00:57:20,267.267 root         DEBUG    FPS: 3.14
+20599 2020-06-02 00:57:20,325.325 Detection_Func DEBUG    fetch_frame function took 56.630 ms
+20599 2020-06-02 00:57:20,421.421 Detection_Func DEBUG    load_frame function took 95.062 ms
+20599 2020-06-02 00:57:20,427.427 Detection_Func DEBUG    resize_frame function took 2.752 ms
+20599 2020-06-02 00:57:20,511.511 Detection_Func DEBUG    inference function took 82.607 ms
+20599 2020-06-02 00:57:20,513.513 Detection_Func DEBUG    post_inference function took 0.997 ms
+20599 2020-06-02 00:57:20,514.514 root         INFO     Detection result: []
+20599 2020-06-02 00:57:20,516.516 RPi2         DEBUG    VehicleTracking's sort_update function took 1.813 ms
+20599 2020-06-02 00:57:20,517.517 root         INFO     Track result: []
+20599 2020-06-02 00:57:20,519.519 RPi2         DEBUG    frame_storage function took 0.996 ms
+20599 2020-06-02 00:57:20,570.570 RPi2         DEBUG    load_opencv_PIL function took 49.526 ms
+20599 2020-06-02 00:57:20,573.573 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:20,573.573 root         DEBUG    FPS: 3.14
+20599 2020-06-02 00:57:20,625.625 Detection_Func DEBUG    fetch_frame function took 51.056 ms
+20599 2020-06-02 00:57:20,721.721 Detection_Func DEBUG    load_frame function took 94.922 ms
+20599 2020-06-02 00:57:20,727.727 Detection_Func DEBUG    resize_frame function took 2.554 ms
+20599 2020-06-02 00:57:20,810.810 Detection_Func DEBUG    inference function took 82.019 ms
+20599 2020-06-02 00:57:20,812.812 Detection_Func DEBUG    post_inference function took 0.998 ms
+20599 2020-06-02 00:57:20,813.813 root         INFO     Detection result: []
+20599 2020-06-02 00:57:20,816.816 RPi2         DEBUG    VehicleTracking's sort_update function took 1.895 ms
+20599 2020-06-02 00:57:20,817.817 root         INFO     Track result: []
+20599 2020-06-02 00:57:20,818.818 RPi2         DEBUG    frame_storage function took 1.058 ms
+20599 2020-06-02 00:57:20,868.868 RPi2         DEBUG    load_opencv_PIL function took 49.145 ms
+20599 2020-06-02 00:57:20,872.872 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:20,872.872 root         DEBUG    FPS: 3.15
+20599 2020-06-02 00:57:20,936.936 Detection_Func DEBUG    fetch_frame function took 62.648 ms
+20599 2020-06-02 00:57:21,032.032 Detection_Func DEBUG    load_frame function took 94.910 ms
+20599 2020-06-02 00:57:21,037.037 Detection_Func DEBUG    resize_frame function took 2.076 ms
+20599 2020-06-02 00:57:21,121.121 Detection_Func DEBUG    inference function took 82.183 ms
+20599 2020-06-02 00:57:21,123.123 Detection_Func DEBUG    post_inference function took 0.993 ms
+20599 2020-06-02 00:57:21,123.123 root         INFO     Detection result: []
+20599 2020-06-02 00:57:21,126.126 RPi2         DEBUG    VehicleTracking's sort_update function took 1.872 ms
+20599 2020-06-02 00:57:21,127.127 root         INFO     Track result: []
+20599 2020-06-02 00:57:21,129.129 RPi2         DEBUG    frame_storage function took 0.954 ms
+20599 2020-06-02 00:57:21,179.179 RPi2         DEBUG    load_opencv_PIL function took 49.721 ms
+20599 2020-06-02 00:57:21,182.182 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:21,183.183 root         DEBUG    FPS: 3.15
+20599 2020-06-02 00:57:21,239.239 Detection_Func DEBUG    fetch_frame function took 55.706 ms
+20599 2020-06-02 00:57:21,335.335 Detection_Func DEBUG    load_frame function took 94.918 ms
+20599 2020-06-02 00:57:21,341.341 Detection_Func DEBUG    resize_frame function took 2.548 ms
+20599 2020-06-02 00:57:21,425.425 Detection_Func DEBUG    inference function took 82.753 ms
+20599 2020-06-02 00:57:21,427.427 Detection_Func DEBUG    post_inference function took 1.132 ms
+20599 2020-06-02 00:57:21,428.428 root         INFO     Detection result: []
+20599 2020-06-02 00:57:21,430.430 RPi2         DEBUG    VehicleTracking's sort_update function took 1.775 ms
+20599 2020-06-02 00:57:21,431.431 root         INFO     Track result: []
+20599 2020-06-02 00:57:21,433.433 RPi2         DEBUG    frame_storage function took 0.980 ms
+20599 2020-06-02 00:57:21,484.484 RPi2         DEBUG    load_opencv_PIL function took 49.891 ms
+20599 2020-06-02 00:57:21,487.487 RPi2         DEBUG    VehicleTracking's status_update function took 0.081 ms
+20599 2020-06-02 00:57:21,488.488 root         DEBUG    FPS: 3.15
+20599 2020-06-02 00:57:21,543.543 Detection_Func DEBUG    fetch_frame function took 54.084 ms
+20599 2020-06-02 00:57:21,640.640 Detection_Func DEBUG    load_frame function took 95.859 ms
+20599 2020-06-02 00:57:21,646.646 Detection_Func DEBUG    resize_frame function took 2.597 ms
+20599 2020-06-02 00:57:21,729.729 Detection_Func DEBUG    inference function took 81.687 ms
+20599 2020-06-02 00:57:21,731.731 Detection_Func DEBUG    post_inference function took 1.042 ms
+20599 2020-06-02 00:57:21,731.731 root         INFO     Detection result: []
+20599 2020-06-02 00:57:21,734.734 RPi2         DEBUG    VehicleTracking's sort_update function took 1.802 ms
+20599 2020-06-02 00:57:21,735.735 root         INFO     Track result: []
+20599 2020-06-02 00:57:21,737.737 RPi2         DEBUG    frame_storage function took 0.965 ms
+20599 2020-06-02 00:57:21,788.788 RPi2         DEBUG    load_opencv_PIL function took 50.043 ms
+20599 2020-06-02 00:57:21,791.791 RPi2         DEBUG    VehicleTracking's status_update function took 0.089 ms
+20599 2020-06-02 00:57:21,792.792 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:21,847.847 Detection_Func DEBUG    fetch_frame function took 54.386 ms
+20599 2020-06-02 00:57:21,943.943 Detection_Func DEBUG    load_frame function took 95.714 ms
+20599 2020-06-02 00:57:21,949.949 Detection_Func DEBUG    resize_frame function took 2.169 ms
+20599 2020-06-02 00:57:22,032.032 Detection_Func DEBUG    inference function took 81.872 ms
+20599 2020-06-02 00:57:22,034.034 Detection_Func DEBUG    post_inference function took 1.003 ms
+20599 2020-06-02 00:57:22,035.035 root         INFO     Detection result: []
+20599 2020-06-02 00:57:22,037.037 RPi2         DEBUG    VehicleTracking's sort_update function took 1.799 ms
+20599 2020-06-02 00:57:22,038.038 root         INFO     Track result: []
+20599 2020-06-02 00:57:22,040.040 RPi2         DEBUG    frame_storage function took 0.972 ms
+20599 2020-06-02 00:57:22,092.092 RPi2         DEBUG    load_opencv_PIL function took 50.620 ms
+20599 2020-06-02 00:57:22,095.095 RPi2         DEBUG    VehicleTracking's status_update function took 0.091 ms
+20599 2020-06-02 00:57:22,096.096 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:22,157.157 Detection_Func DEBUG    fetch_frame function took 60.634 ms
+20599 2020-06-02 00:57:22,253.253 Detection_Func DEBUG    load_frame function took 95.314 ms
+20599 2020-06-02 00:57:22,260.260 Detection_Func DEBUG    resize_frame function took 2.557 ms
+20599 2020-06-02 00:57:22,342.342 Detection_Func DEBUG    inference function took 81.929 ms
+20599 2020-06-02 00:57:22,345.345 Detection_Func DEBUG    post_inference function took 1.172 ms
+20599 2020-06-02 00:57:22,345.345 root         INFO     Detection result: []
+20599 2020-06-02 00:57:22,348.348 RPi2         DEBUG    VehicleTracking's sort_update function took 1.758 ms
+20599 2020-06-02 00:57:22,349.349 root         INFO     Track result: []
+20599 2020-06-02 00:57:22,350.350 RPi2         DEBUG    frame_storage function took 0.956 ms
+20599 2020-06-02 00:57:22,402.402 RPi2         DEBUG    load_opencv_PIL function took 50.402 ms
+20599 2020-06-02 00:57:22,405.405 RPi2         DEBUG    VehicleTracking's status_update function took 0.096 ms
+20599 2020-06-02 00:57:22,406.406 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:22,462.462 Detection_Func DEBUG    fetch_frame function took 55.228 ms
+20599 2020-06-02 00:57:22,575.575 Detection_Func DEBUG    load_frame function took 111.909 ms
+20599 2020-06-02 00:57:22,582.582 Detection_Func DEBUG    resize_frame function took 2.250 ms
+20599 2020-06-02 00:57:22,669.669 Detection_Func DEBUG    inference function took 86.746 ms
+20599 2020-06-02 00:57:22,672.672 Detection_Func DEBUG    post_inference function took 1.544 ms
+20599 2020-06-02 00:57:22,673.673 root         INFO     Detection result: []
+20599 2020-06-02 00:57:22,677.677 RPi2         DEBUG    VehicleTracking's sort_update function took 2.616 ms
+20599 2020-06-02 00:57:22,678.678 root         INFO     Track result: []
+20599 2020-06-02 00:57:22,680.680 RPi2         DEBUG    frame_storage function took 1.334 ms
+20599 2020-06-02 00:57:22,740.740 RPi2         DEBUG    load_opencv_PIL function took 58.775 ms
+20599 2020-06-02 00:57:22,744.744 RPi2         DEBUG    VehicleTracking's status_update function took 0.103 ms
+20599 2020-06-02 00:57:22,745.745 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:22,802.802 Detection_Func DEBUG    fetch_frame function took 56.620 ms
+20599 2020-06-02 00:57:22,917.917 Detection_Func DEBUG    load_frame function took 113.690 ms
+20599 2020-06-02 00:57:22,925.925 Detection_Func DEBUG    resize_frame function took 3.282 ms
+20599 2020-06-02 00:57:23,012.012 Detection_Func DEBUG    inference function took 85.630 ms
+20599 2020-06-02 00:57:23,014.014 Detection_Func DEBUG    post_inference function took 1.379 ms
+20599 2020-06-02 00:57:23,015.015 root         INFO     Detection result: []
+20599 2020-06-02 00:57:23,019.019 RPi2         DEBUG    VehicleTracking's sort_update function took 2.534 ms
+20599 2020-06-02 00:57:23,020.020 root         INFO     Track result: []
+20599 2020-06-02 00:57:23,022.022 RPi2         DEBUG    frame_storage function took 1.326 ms
+20599 2020-06-02 00:57:23,081.081 RPi2         DEBUG    load_opencv_PIL function took 57.359 ms
+20599 2020-06-02 00:57:23,085.085 RPi2         DEBUG    VehicleTracking's status_update function took 0.109 ms
+20599 2020-06-02 00:57:23,086.086 root         DEBUG    FPS: 3.15
+20599 2020-06-02 00:57:23,142.142 Detection_Func DEBUG    fetch_frame function took 55.196 ms
+20599 2020-06-02 00:57:23,240.240 Detection_Func DEBUG    load_frame function took 97.417 ms
+20599 2020-06-02 00:57:23,247.247 Detection_Func DEBUG    resize_frame function took 2.746 ms
+20599 2020-06-02 00:57:23,330.330 Detection_Func DEBUG    inference function took 82.284 ms
+20599 2020-06-02 00:57:23,332.332 Detection_Func DEBUG    post_inference function took 1.039 ms
+20599 2020-06-02 00:57:23,333.333 root         INFO     Detection result: []
+20599 2020-06-02 00:57:23,336.336 RPi2         DEBUG    VehicleTracking's sort_update function took 2.059 ms
+20599 2020-06-02 00:57:23,336.336 root         INFO     Track result: []
+20599 2020-06-02 00:57:23,338.338 RPi2         DEBUG    frame_storage function took 0.943 ms
+20599 2020-06-02 00:57:23,391.391 RPi2         DEBUG    load_opencv_PIL function took 51.703 ms
+20599 2020-06-02 00:57:23,394.394 RPi2         DEBUG    VehicleTracking's status_update function took 0.087 ms
+20599 2020-06-02 00:57:23,395.395 root         DEBUG    FPS: 3.15
+20599 2020-06-02 00:57:23,463.463 Detection_Func DEBUG    fetch_frame function took 67.338 ms
+20599 2020-06-02 00:57:23,559.559 Detection_Func DEBUG    load_frame function took 95.185 ms
+20599 2020-06-02 00:57:23,565.565 Detection_Func DEBUG    resize_frame function took 2.131 ms
+20599 2020-06-02 00:57:23,648.648 Detection_Func DEBUG    inference function took 82.245 ms
+20599 2020-06-02 00:57:23,650.650 Detection_Func DEBUG    post_inference function took 1.037 ms
+20599 2020-06-02 00:57:23,651.651 root         INFO     Detection result: []
+20599 2020-06-02 00:57:23,654.654 RPi2         DEBUG    VehicleTracking's sort_update function took 1.795 ms
+20599 2020-06-02 00:57:23,655.655 root         INFO     Track result: []
+20599 2020-06-02 00:57:23,656.656 RPi2         DEBUG    frame_storage function took 0.955 ms
+20599 2020-06-02 00:57:23,707.707 RPi2         DEBUG    load_opencv_PIL function took 50.135 ms
+20599 2020-06-02 00:57:23,711.711 RPi2         DEBUG    VehicleTracking's status_update function took 0.084 ms
+20599 2020-06-02 00:57:23,711.711 root         DEBUG    FPS: 3.15
+20599 2020-06-02 00:57:23,765.765 Detection_Func DEBUG    fetch_frame function took 53.245 ms
+20599 2020-06-02 00:57:23,861.861 Detection_Func DEBUG    load_frame function took 94.838 ms
+20599 2020-06-02 00:57:23,868.868 Detection_Func DEBUG    resize_frame function took 2.769 ms
+20599 2020-06-02 00:57:23,950.950 Detection_Func DEBUG    inference function took 81.609 ms
+20599 2020-06-02 00:57:23,952.952 Detection_Func DEBUG    post_inference function took 1.057 ms
+20599 2020-06-02 00:57:23,953.953 root         INFO     Detection result: []
+20599 2020-06-02 00:57:23,956.956 RPi2         DEBUG    VehicleTracking's sort_update function took 1.901 ms
+20599 2020-06-02 00:57:23,957.957 root         INFO     Track result: []
+20599 2020-06-02 00:57:23,958.958 RPi2         DEBUG    frame_storage function took 0.988 ms
+20599 2020-06-02 00:57:24,010.010 RPi2         DEBUG    load_opencv_PIL function took 50.480 ms
+20599 2020-06-02 00:57:24,013.013 RPi2         DEBUG    VehicleTracking's status_update function took 0.092 ms
+20599 2020-06-02 00:57:24,014.014 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:24,069.069 Detection_Func DEBUG    fetch_frame function took 54.492 ms
+20599 2020-06-02 00:57:24,165.165 Detection_Func DEBUG    load_frame function took 95.097 ms
+20599 2020-06-02 00:57:24,171.171 Detection_Func DEBUG    resize_frame function took 2.564 ms
+20599 2020-06-02 00:57:24,254.254 Detection_Func DEBUG    inference function took 81.448 ms
+20599 2020-06-02 00:57:24,256.256 Detection_Func DEBUG    post_inference function took 1.090 ms
+20599 2020-06-02 00:57:24,257.257 root         INFO     Detection result: []
+20599 2020-06-02 00:57:24,259.259 RPi2         DEBUG    VehicleTracking's sort_update function took 1.791 ms
+20599 2020-06-02 00:57:24,260.260 root         INFO     Track result: []
+20599 2020-06-02 00:57:24,262.262 RPi2         DEBUG    frame_storage function took 0.963 ms
+20599 2020-06-02 00:57:24,313.313 RPi2         DEBUG    load_opencv_PIL function took 50.445 ms
+20599 2020-06-02 00:57:24,316.316 RPi2         DEBUG    VehicleTracking's status_update function took 0.092 ms
+20599 2020-06-02 00:57:24,317.317 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:24,373.373 Detection_Func DEBUG    fetch_frame function took 54.993 ms
+20599 2020-06-02 00:57:24,469.469 Detection_Func DEBUG    load_frame function took 95.014 ms
+20599 2020-06-02 00:57:24,475.475 Detection_Func DEBUG    resize_frame function took 2.686 ms
+20599 2020-06-02 00:57:24,570.570 Detection_Func DEBUG    inference function took 82.094 ms
+20599 2020-06-02 00:57:24,572.572 Detection_Func DEBUG    post_inference function took 1.094 ms
+20599 2020-06-02 00:57:24,572.572 root         INFO     Detection result: []
+20599 2020-06-02 00:57:24,575.575 RPi2         DEBUG    VehicleTracking's sort_update function took 1.875 ms
+20599 2020-06-02 00:57:24,576.576 root         INFO     Track result: []
+20599 2020-06-02 00:57:24,578.578 RPi2         DEBUG    frame_storage function took 0.958 ms
+20599 2020-06-02 00:57:24,629.629 RPi2         DEBUG    load_opencv_PIL function took 50.082 ms
+20599 2020-06-02 00:57:24,632.632 RPi2         DEBUG    VehicleTracking's status_update function took 0.083 ms
+20599 2020-06-02 00:57:24,633.633 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:24,712.712 Detection_Func DEBUG    fetch_frame function took 78.721 ms
+20599 2020-06-02 00:57:24,808.808 Detection_Func DEBUG    load_frame function took 95.343 ms
+20599 2020-06-02 00:57:24,814.814 Detection_Func DEBUG    resize_frame function took 2.641 ms
+20599 2020-06-02 00:57:24,898.898 Detection_Func DEBUG    inference function took 82.490 ms
+20599 2020-06-02 00:57:24,900.900 Detection_Func DEBUG    post_inference function took 1.050 ms
+20599 2020-06-02 00:57:24,901.901 root         INFO     Detection result: []
+20599 2020-06-02 00:57:24,903.903 RPi2         DEBUG    VehicleTracking's sort_update function took 1.796 ms
+20599 2020-06-02 00:57:24,904.904 root         INFO     Track result: []
+20599 2020-06-02 00:57:24,906.906 RPi2         DEBUG    frame_storage function took 1.039 ms
+20599 2020-06-02 00:57:24,956.956 RPi2         DEBUG    load_opencv_PIL function took 49.320 ms
+20599 2020-06-02 00:57:24,959.959 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:24,960.960 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:25,039.039 Detection_Func DEBUG    fetch_frame function took 78.267 ms
+20599 2020-06-02 00:57:25,135.135 Detection_Func DEBUG    load_frame function took 94.675 ms
+20599 2020-06-02 00:57:25,141.141 Detection_Func DEBUG    resize_frame function took 2.577 ms
+20599 2020-06-02 00:57:25,223.223 Detection_Func DEBUG    inference function took 81.474 ms
+20599 2020-06-02 00:57:25,225.225 Detection_Func DEBUG    post_inference function took 1.009 ms
+20599 2020-06-02 00:57:25,226.226 root         INFO     Detection result: []
+20599 2020-06-02 00:57:25,229.229 RPi2         DEBUG    VehicleTracking's sort_update function took 1.792 ms
+20599 2020-06-02 00:57:25,230.230 root         INFO     Track result: []
+20599 2020-06-02 00:57:25,231.231 RPi2         DEBUG    frame_storage function took 0.937 ms
+20599 2020-06-02 00:57:25,282.282 RPi2         DEBUG    load_opencv_PIL function took 49.680 ms
+20599 2020-06-02 00:57:25,285.285 RPi2         DEBUG    VehicleTracking's status_update function took 0.090 ms
+20599 2020-06-02 00:57:25,286.286 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:25,340.340 Detection_Func DEBUG    fetch_frame function took 53.236 ms
+20599 2020-06-02 00:57:25,436.436 Detection_Func DEBUG    load_frame function took 94.882 ms
+20599 2020-06-02 00:57:25,441.441 Detection_Func DEBUG    resize_frame function took 2.057 ms
+20599 2020-06-02 00:57:25,524.524 Detection_Func DEBUG    inference function took 81.339 ms
+20599 2020-06-02 00:57:25,526.526 Detection_Func DEBUG    post_inference function took 0.965 ms
+20599 2020-06-02 00:57:25,527.527 root         INFO     Detection result: []
+20599 2020-06-02 00:57:25,529.529 RPi2         DEBUG    VehicleTracking's sort_update function took 1.785 ms
+20599 2020-06-02 00:57:25,530.530 root         INFO     Track result: []
+20599 2020-06-02 00:57:25,532.532 RPi2         DEBUG    frame_storage function took 0.965 ms
+20599 2020-06-02 00:57:25,582.582 RPi2         DEBUG    load_opencv_PIL function took 49.673 ms
+20599 2020-06-02 00:57:25,585.585 RPi2         DEBUG    VehicleTracking's status_update function took 0.091 ms
+20599 2020-06-02 00:57:25,586.586 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:25,636.636 Detection_Func DEBUG    fetch_frame function took 49.098 ms
+20599 2020-06-02 00:57:25,732.732 Detection_Func DEBUG    load_frame function took 94.853 ms
+20599 2020-06-02 00:57:25,738.738 Detection_Func DEBUG    resize_frame function took 2.553 ms
+20599 2020-06-02 00:57:25,821.821 Detection_Func DEBUG    inference function took 81.675 ms
+20599 2020-06-02 00:57:25,823.823 Detection_Func DEBUG    post_inference function took 1.008 ms
+20599 2020-06-02 00:57:25,823.823 root         INFO     Detection result: []
+20599 2020-06-02 00:57:25,826.826 RPi2         DEBUG    VehicleTracking's sort_update function took 2.067 ms
+20599 2020-06-02 00:57:25,827.827 root         INFO     Track result: []
+20599 2020-06-02 00:57:25,829.829 RPi2         DEBUG    frame_storage function took 0.996 ms
+20599 2020-06-02 00:57:25,879.879 RPi2         DEBUG    load_opencv_PIL function took 49.296 ms
+20599 2020-06-02 00:57:25,882.882 RPi2         DEBUG    VehicleTracking's status_update function took 0.092 ms
+20599 2020-06-02 00:57:25,883.883 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:25,950.950 Detection_Func DEBUG    fetch_frame function took 66.358 ms
+20599 2020-06-02 00:57:26,046.046 Detection_Func DEBUG    load_frame function took 95.097 ms
+20599 2020-06-02 00:57:26,052.052 Detection_Func DEBUG    resize_frame function took 2.001 ms
+20599 2020-06-02 00:57:26,135.135 Detection_Func DEBUG    inference function took 81.897 ms
+20599 2020-06-02 00:57:26,136.136 Detection_Func DEBUG    post_inference function took 1.017 ms
+20599 2020-06-02 00:57:26,137.137 root         INFO     Detection result: []
+20599 2020-06-02 00:57:26,140.140 RPi2         DEBUG    VehicleTracking's sort_update function took 1.816 ms
+20599 2020-06-02 00:57:26,141.141 root         INFO     Track result: []
+20599 2020-06-02 00:57:26,142.142 RPi2         DEBUG    frame_storage function took 0.972 ms
+20599 2020-06-02 00:57:26,194.194 RPi2         DEBUG    load_opencv_PIL function took 50.264 ms
+20599 2020-06-02 00:57:26,197.197 RPi2         DEBUG    VehicleTracking's status_update function took 0.085 ms
+20599 2020-06-02 00:57:26,198.198 root         DEBUG    FPS: 3.16
+20599 2020-06-02 00:57:26,251.251 Detection_Func DEBUG    fetch_frame function took 52.583 ms
+20599 2020-06-02 00:57:26,347.347 Detection_Func DEBUG    load_frame function took 95.010 ms
+20599 2020-06-02 00:57:26,353.353 Detection_Func DEBUG    resize_frame function took 2.525 ms
+20599 2020-06-02 00:57:26,437.437 Detection_Func DEBUG    inference function took 82.730 ms
+20599 2020-06-02 00:57:26,439.439 Detection_Func DEBUG    post_inference function took 1.000 ms
+20599 2020-06-02 00:57:26,440.440 root         INFO     Detection result: []
+20599 2020-06-02 00:57:26,442.442 RPi2         DEBUG    VehicleTracking's sort_update function took 1.787 ms
+20599 2020-06-02 00:57:26,443.443 root         INFO     Track result: []
+20599 2020-06-02 00:57:26,445.445 RPi2         DEBUG    frame_storage function took 1.083 ms
+20599 2020-06-02 00:57:26,496.496 RPi2         DEBUG    load_opencv_PIL function took 49.945 ms
+20599 2020-06-02 00:57:26,499.499 RPi2         DEBUG    VehicleTracking's status_update function took 0.086 ms
+20599 2020-06-02 00:57:26,500.500 root         DEBUG    FPS: 3.17
+20599 2020-06-02 00:57:26,551.551 Detection_Func DEBUG    fetch_frame function took 50.797 ms
+20599 2020-06-02 00:57:26,647.647 Detection_Func DEBUG    load_frame function took 95.130 ms
+20599 2020-06-02 00:57:26,653.653 Detection_Func DEBUG    resize_frame function took 2.516 ms
+20599 2020-06-02 00:57:26,736.736 Detection_Func DEBUG    inference function took 81.402 ms
+20599 2020-06-02 00:57:26,738.738 Detection_Func DEBUG    post_inference function took 1.002 ms
+20599 2020-06-02 00:57:26,738.738 root         INFO     Detection result: []
+20599 2020-06-02 00:57:26,741.741 RPi2         DEBUG    VehicleTracking's sort_update function took 1.786 ms
+20599 2020-06-02 00:57:26,742.742 root         INFO     Track result: []
+20599 2020-06-02 00:57:26,744.744 RPi2         DEBUG    frame_storage function took 1.000 ms
+20599 2020-06-02 00:57:26,795.795 RPi2         DEBUG    load_opencv_PIL function took 50.321 ms
+20599 2020-06-02 00:57:26,798.798 RPi2         DEBUG    VehicleTracking's status_update function took 0.089 ms
+20599 2020-06-02 00:57:26,799.799 root         DEBUG    FPS: 3.17
+20599 2020-06-02 00:57:26,852.852 Detection_Func DEBUG    fetch_frame function took 52.299 ms
+20599 2020-06-02 00:57:26,947.947 Detection_Func DEBUG    load_frame function took 94.653 ms
+20599 2020-06-02 00:57:26,953.953 Detection_Func DEBUG    resize_frame function took 2.013 ms
+20599 2020-06-02 00:57:27,036.036 Detection_Func DEBUG    inference function took 81.770 ms
+20599 2020-06-02 00:57:27,038.038 Detection_Func DEBUG    post_inference function took 1.006 ms
+20599 2020-06-02 00:57:27,038.038 root         INFO     Detection result: []
+20599 2020-06-02 00:57:27,041.041 RPi2         DEBUG    VehicleTracking's sort_update function took 1.779 ms
+20599 2020-06-02 00:57:27,042.042 root         INFO     Track result: []
+20599 2020-06-02 00:57:27,044.044 RPi2         DEBUG    frame_storage function took 0.945 ms
+20599 2020-06-02 00:57:27,095.095 RPi2         DEBUG    load_opencv_PIL function took 50.560 ms
+20599 2020-06-02 00:57:27,098.098 RPi2         DEBUG    VehicleTracking's status_update function took 0.089 ms
+20599 2020-06-02 00:57:27,099.099 root         DEBUG    FPS: 3.17
+20599 2020-06-02 00:57:27,179.179 Detection_Func DEBUG    fetch_frame function took 79.242 ms
+20599 2020-06-02 00:57:27,275.275 Detection_Func DEBUG    load_frame function took 95.274 ms
+20599 2020-06-02 00:57:27,281.281 Detection_Func DEBUG    resize_frame function took 2.566 ms
+20599 2020-06-02 00:57:27,364.364 Detection_Func DEBUG    inference function took 82.056 ms
+20599 2020-06-02 00:57:27,366.366 Detection_Func DEBUG    post_inference function took 1.002 ms
+20599 2020-06-02 00:57:27,367.367 root         INFO     Detection result: []
+20599 2020-06-02 00:57:27,370.370 RPi2         DEBUG    VehicleTracking's sort_update function took 1.757 ms
+20599 2020-06-02 00:57:27,371.371 root         INFO     Track result: []
+20599 2020-06-02 00:57:27,372.372 RPi2         DEBUG    frame_storage function took 0.967 ms
+20599 2020-06-02 00:57:27,424.424 RPi2         DEBUG    load_opencv_PIL function took 50.432 ms
+20599 2020-06-02 00:57:27,427.427 RPi2         DEBUG    VehicleTracking's status_update function took 0.093 ms
+20599 2020-06-02 00:57:27,428.428 root         DEBUG    FPS: 3.17
+20599 2020-06-02 00:57:27,482.482 Detection_Func DEBUG    fetch_frame function took 52.930 ms
+20599 2020-06-02 00:57:27,580.580 Detection_Func DEBUG    load_frame function took 97.350 ms
+20599 2020-06-02 00:57:27,586.586 Detection_Func DEBUG    resize_frame function took 2.597 ms
+20599 2020-06-02 00:57:27,669.669 Detection_Func DEBUG    inference function took 82.081 ms
+20599 2020-06-02 00:57:27,671.671 Detection_Func DEBUG    post_inference function took 1.058 ms
+20599 2020-06-02 00:57:27,672.672 root         INFO     Detection result: []
+20599 2020-06-02 00:57:27,675.675 RPi2         DEBUG    VehicleTracking's sort_update function took 1.922 ms
+20599 2020-06-02 00:57:27,676.676 root         INFO     Track result: []
+20599 2020-06-02 00:57:27,677.677 RPi2         DEBUG    frame_storage function took 0.970 ms
+20599 2020-06-02 00:57:27,731.731 RPi2         DEBUG    load_opencv_PIL function took 52.388 ms
+20599 2020-06-02 00:57:27,734.734 RPi2         DEBUG    VehicleTracking's status_update function took 0.091 ms
+20599 2020-06-02 00:57:27,735.735 root         DEBUG    FPS: 3.17
+20599 2020-06-02 00:57:27,789.789 Detection_Func DEBUG    fetch_frame function took 53.640 ms
+20599 2020-06-02 00:57:27,887.887 Detection_Func DEBUG    load_frame function took 97.028 ms
+20599 2020-06-02 00:57:27,893.893 Detection_Func DEBUG    resize_frame function took 2.077 ms
+20599 2020-06-02 00:57:27,976.976 Detection_Func DEBUG    inference function took 82.525 ms
+20599 2020-06-02 00:57:27,978.978 Detection_Func DEBUG    post_inference function took 1.057 ms
+20599 2020-06-02 00:57:27,979.979 root         INFO     Detection result: []
+20599 2020-06-02 00:57:27,982.982 RPi2         DEBUG    VehicleTracking's sort_update function took 1.847 ms
+20599 2020-06-02 00:57:27,983.983 root         INFO     Track result: []
+20599 2020-06-02 00:57:27,985.985 RPi2         DEBUG    frame_storage function took 1.030 ms
+20599 2020-06-02 00:57:28,038.038 RPi2         DEBUG    load_opencv_PIL function took 52.543 ms
+20599 2020-06-02 00:57:28,041.041 RPi2         DEBUG    VehicleTracking's status_update function took 0.086 ms
+20599 2020-06-02 00:57:28,042.042 root         DEBUG    FPS: 3.17
+20599 2020-06-02 00:57:28,097.097 Detection_Func DEBUG    fetch_frame function took 54.383 ms
+20599 2020-06-02 00:57:28,195.195 Detection_Func DEBUG    load_frame function took 97.009 ms
+20599 2020-06-02 00:57:28,202.202 Detection_Func DEBUG    resize_frame function took 2.826 ms
+20599 2020-06-02 00:57:28,284.284 Detection_Func DEBUG    inference function took 81.699 ms
+20599 2020-06-02 00:57:28,286.286 Detection_Func DEBUG    post_inference function took 1.032 ms
+20599 2020-06-02 00:57:28,287.287 root         INFO     Detection result: []
+20599 2020-06-02 00:57:28,290.290 RPi2         DEBUG    VehicleTracking's sort_update function took 1.846 ms
+20599 2020-06-02 00:57:28,291.291 root         INFO     Track result: []
+20599 2020-06-02 00:57:28,293.293 RPi2         DEBUG    frame_storage function took 0.982 ms
+20599 2020-06-02 00:57:28,347.347 RPi2         DEBUG    load_opencv_PIL function took 53.913 ms
+20599 2020-06-02 00:57:28,351.351 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:28,351.351 root         DEBUG    FPS: 3.18
+20599 2020-06-02 00:57:28,416.416 Detection_Func DEBUG    fetch_frame function took 63.614 ms
+20599 2020-06-02 00:57:28,514.514 Detection_Func DEBUG    load_frame function took 96.958 ms
+20599 2020-06-02 00:57:28,520.520 Detection_Func DEBUG    resize_frame function took 2.533 ms
+20599 2020-06-02 00:57:28,603.603 Detection_Func DEBUG    inference function took 82.433 ms
+20599 2020-06-02 00:57:28,605.605 Detection_Func DEBUG    post_inference function took 1.072 ms
+20599 2020-06-02 00:57:28,606.606 root         INFO     Detection result: []
+20599 2020-06-02 00:57:28,609.609 RPi2         DEBUG    VehicleTracking's sort_update function took 1.860 ms
+20599 2020-06-02 00:57:28,610.610 root         INFO     Track result: []
+20599 2020-06-02 00:57:28,612.612 RPi2         DEBUG    frame_storage function took 0.953 ms
+20599 2020-06-02 00:57:28,665.665 RPi2         DEBUG    load_opencv_PIL function took 52.588 ms
+20599 2020-06-02 00:57:28,668.668 RPi2         DEBUG    VehicleTracking's status_update function took 0.089 ms
+20599 2020-06-02 00:57:28,669.669 root         DEBUG    FPS: 3.18
+20599 2020-06-02 00:57:28,723.723 Detection_Func DEBUG    fetch_frame function took 53.327 ms
+20599 2020-06-02 00:57:28,821.821 Detection_Func DEBUG    load_frame function took 97.008 ms
+20599 2020-06-02 00:57:28,828.828 Detection_Func DEBUG    resize_frame function took 2.834 ms
+20599 2020-06-02 00:57:28,911.911 Detection_Func DEBUG    inference function took 82.132 ms
+20599 2020-06-02 00:57:28,913.913 Detection_Func DEBUG    post_inference function took 1.083 ms
+20599 2020-06-02 00:57:28,914.914 root         INFO     Detection result: []
+20599 2020-06-02 00:57:28,916.916 RPi2         DEBUG    VehicleTracking's sort_update function took 1.857 ms
+20599 2020-06-02 00:57:28,917.917 root         INFO     Track result: []
+20599 2020-06-02 00:57:28,919.919 RPi2         DEBUG    frame_storage function took 0.939 ms
+20599 2020-06-02 00:57:28,971.971 RPi2         DEBUG    load_opencv_PIL function took 51.471 ms
+20599 2020-06-02 00:57:28,975.975 RPi2         DEBUG    VehicleTracking's status_update function took 0.095 ms
+20599 2020-06-02 00:57:28,976.976 root         DEBUG    FPS: 3.21
+20599 2020-06-02 00:57:29,026.026 Detection_Func DEBUG    fetch_frame function took 49.630 ms
+20599 2020-06-02 00:57:29,123.123 Detection_Func DEBUG    load_frame function took 96.648 ms
+20599 2020-06-02 00:57:29,129.129 Detection_Func DEBUG    resize_frame function took 2.099 ms
+20599 2020-06-02 00:57:29,213.213 Detection_Func DEBUG    inference function took 82.344 ms
+20599 2020-06-02 00:57:29,215.215 Detection_Func DEBUG    post_inference function took 1.200 ms
+20599 2020-06-02 00:57:29,216.216 root         INFO     Detection result: []
+20599 2020-06-02 00:57:29,218.218 RPi2         DEBUG    VehicleTracking's sort_update function took 1.861 ms
+20599 2020-06-02 00:57:29,219.219 root         INFO     Track result: []
+20599 2020-06-02 00:57:29,221.221 RPi2         DEBUG    frame_storage function took 0.920 ms
+20599 2020-06-02 00:57:29,273.273 RPi2         DEBUG    load_opencv_PIL function took 51.161 ms
+20599 2020-06-02 00:57:29,276.276 RPi2         DEBUG    VehicleTracking's status_update function took 0.095 ms
+20599 2020-06-02 00:57:29,277.277 root         DEBUG    FPS: 3.21
+20599 2020-06-02 00:57:29,336.336 Detection_Func DEBUG    fetch_frame function took 57.734 ms
+20599 2020-06-02 00:57:29,433.433 Detection_Func DEBUG    load_frame function took 96.777 ms
+20599 2020-06-02 00:57:29,440.440 Detection_Func DEBUG    resize_frame function took 2.566 ms
+20599 2020-06-02 00:57:29,523.523 Detection_Func DEBUG    inference function took 82.563 ms
+20599 2020-06-02 00:57:29,525.525 Detection_Func DEBUG    post_inference function took 1.156 ms
+20599 2020-06-02 00:57:29,547.547 root         INFO     Detection result: []
+20599 2020-06-02 00:57:29,550.550 RPi2         DEBUG    VehicleTracking's sort_update function took 1.876 ms
+20599 2020-06-02 00:57:29,551.551 root         INFO     Track result: []
+20599 2020-06-02 00:57:29,553.553 RPi2         DEBUG    frame_storage function took 0.934 ms
+20599 2020-06-02 00:57:29,605.605 RPi2         DEBUG    load_opencv_PIL function took 51.593 ms
+20599 2020-06-02 00:57:29,608.608 RPi2         DEBUG    VehicleTracking's status_update function took 0.084 ms
+20599 2020-06-02 00:57:29,609.609 root         DEBUG    FPS: 3.20
+20599 2020-06-02 00:57:29,683.683 Detection_Func DEBUG    fetch_frame function took 73.131 ms
+20599 2020-06-02 00:57:29,781.781 Detection_Func DEBUG    load_frame function took 97.088 ms
+20599 2020-06-02 00:57:29,787.787 Detection_Func DEBUG    resize_frame function took 2.558 ms
+20599 2020-06-02 00:57:29,870.870 Detection_Func DEBUG    inference function took 81.883 ms
+20599 2020-06-02 00:57:29,872.872 Detection_Func DEBUG    post_inference function took 1.040 ms
+20599 2020-06-02 00:57:29,873.873 root         INFO     Detection result: []
+20599 2020-06-02 00:57:29,876.876 RPi2         DEBUG    VehicleTracking's sort_update function took 1.940 ms
+20599 2020-06-02 00:57:29,877.877 root         INFO     Track result: []
+20599 2020-06-02 00:57:29,879.879 RPi2         DEBUG    frame_storage function took 0.999 ms
+20599 2020-06-02 00:57:29,932.932 RPi2         DEBUG    load_opencv_PIL function took 52.957 ms
+20599 2020-06-02 00:57:29,936.936 RPi2         DEBUG    VehicleTracking's status_update function took 0.092 ms
+20599 2020-06-02 00:57:29,937.937 root         DEBUG    FPS: 3.21
+20599 2020-06-02 00:57:29,993.993 Detection_Func DEBUG    fetch_frame function took 55.745 ms
+20599 2020-06-02 00:57:30,091.091 Detection_Func DEBUG    load_frame function took 96.988 ms
+20599 2020-06-02 00:57:30,097.097 Detection_Func DEBUG    resize_frame function took 2.110 ms
+20599 2020-06-02 00:57:30,180.180 Detection_Func DEBUG    inference function took 82.266 ms
+20599 2020-06-02 00:57:30,182.182 Detection_Func DEBUG    post_inference function took 1.045 ms
+20599 2020-06-02 00:57:30,183.183 root         INFO     Detection result: []
+20599 2020-06-02 00:57:30,186.186 RPi2         DEBUG    VehicleTracking's sort_update function took 1.965 ms
+20599 2020-06-02 00:57:30,187.187 root         INFO     Track result: []
+20599 2020-06-02 00:57:30,188.188 RPi2         DEBUG    frame_storage function took 0.928 ms
+20599 2020-06-02 00:57:30,241.241 RPi2         DEBUG    load_opencv_PIL function took 51.521 ms
+20599 2020-06-02 00:57:30,244.244 RPi2         DEBUG    VehicleTracking's status_update function took 0.090 ms
+20599 2020-06-02 00:57:30,245.245 root         DEBUG    FPS: 3.21
+20599 2020-06-02 00:57:30,298.298 Detection_Func DEBUG    fetch_frame function took 52.840 ms
+20599 2020-06-02 00:57:30,396.396 Detection_Func DEBUG    load_frame function took 96.541 ms
+20599 2020-06-02 00:57:30,402.402 Detection_Func DEBUG    resize_frame function took 2.107 ms
+20599 2020-06-02 00:57:30,486.486 Detection_Func DEBUG    inference function took 82.870 ms
+20599 2020-06-02 00:57:30,488.488 Detection_Func DEBUG    post_inference function took 1.036 ms
+20599 2020-06-02 00:57:30,488.488 root         INFO     Detection result: []
+20599 2020-06-02 00:57:30,491.491 RPi2         DEBUG    VehicleTracking's sort_update function took 1.839 ms
+20599 2020-06-02 00:57:30,492.492 root         INFO     Track result: []
+20599 2020-06-02 00:57:30,494.494 RPi2         DEBUG    frame_storage function took 0.957 ms
+20599 2020-06-02 00:57:30,547.547 RPi2         DEBUG    load_opencv_PIL function took 52.375 ms
+20599 2020-06-02 00:57:30,550.550 RPi2         DEBUG    VehicleTracking's status_update function took 0.093 ms
+20599 2020-06-02 00:57:30,551.551 root         DEBUG    FPS: 3.21
+20599 2020-06-02 00:57:31,092.092 Detection_Func DEBUG    fetch_frame function took 540.379 ms
+20599 2020-06-02 00:57:31,190.190 Detection_Func DEBUG    load_frame function took 96.410 ms
+20599 2020-06-02 00:57:31,196.196 Detection_Func DEBUG    resize_frame function took 2.657 ms
+20599 2020-06-02 00:57:31,280.280 Detection_Func DEBUG    inference function took 82.680 ms
+20599 2020-06-02 00:57:31,282.282 Detection_Func DEBUG    post_inference function took 1.041 ms
+20599 2020-06-02 00:57:31,282.282 root         INFO     Detection result: []
+20599 2020-06-02 00:57:31,285.285 RPi2         DEBUG    VehicleTracking's sort_update function took 1.928 ms
+20599 2020-06-02 00:57:31,286.286 root         INFO     Track result: []
+20599 2020-06-02 00:57:31,288.288 RPi2         DEBUG    frame_storage function took 0.937 ms
+20599 2020-06-02 00:57:31,341.341 RPi2         DEBUG    load_opencv_PIL function took 51.989 ms
+20599 2020-06-02 00:57:31,344.344 RPi2         DEBUG    VehicleTracking's status_update function took 0.089 ms
+20599 2020-06-02 00:57:31,345.345 root         DEBUG    FPS: 3.11
+20599 2020-06-02 00:57:31,908.908 Detection_Func DEBUG    fetch_frame function took 562.054 ms
+20599 2020-06-02 00:57:32,005.005 Detection_Func DEBUG    load_frame function took 96.552 ms
+20599 2020-06-02 00:57:32,012.012 Detection_Func DEBUG    resize_frame function took 2.817 ms
+20599 2020-06-02 00:57:32,095.095 Detection_Func DEBUG    inference function took 82.181 ms
+20599 2020-06-02 00:57:32,097.097 Detection_Func DEBUG    post_inference function took 1.092 ms
+20599 2020-06-02 00:57:32,098.098 root         INFO     Detection result: []
+20599 2020-06-02 00:57:32,100.100 RPi2         DEBUG    VehicleTracking's sort_update function took 1.845 ms
+20599 2020-06-02 00:57:32,101.101 root         INFO     Track result: []
+20599 2020-06-02 00:57:32,103.103 RPi2         DEBUG    frame_storage function took 0.971 ms
+20599 2020-06-02 00:57:32,163.163 RPi2         DEBUG    load_opencv_PIL function took 59.232 ms
+20599 2020-06-02 00:57:32,167.167 RPi2         DEBUG    VehicleTracking's status_update function took 0.094 ms
+20599 2020-06-02 00:57:32,167.167 root         DEBUG    FPS: 3.01
+20599 2020-06-02 00:57:32,703.703 Detection_Func DEBUG    fetch_frame function took 535.129 ms
+20599 2020-06-02 00:57:32,801.801 Detection_Func DEBUG    load_frame function took 96.999 ms
+20599 2020-06-02 00:57:32,808.808 Detection_Func DEBUG    resize_frame function took 2.531 ms
+20599 2020-06-02 00:57:32,893.893 Detection_Func DEBUG    inference function took 84.262 ms
+20599 2020-06-02 00:57:32,895.895 Detection_Func DEBUG    post_inference function took 1.112 ms
+20599 2020-06-02 00:57:32,896.896 root         INFO     Detection result: []
+20599 2020-06-02 00:57:32,898.898 RPi2         DEBUG    VehicleTracking's sort_update function took 1.859 ms
+20599 2020-06-02 00:57:32,899.899 root         INFO     Track result: []
+20599 2020-06-02 00:57:32,901.901 RPi2         DEBUG    frame_storage function took 0.998 ms
+20599 2020-06-02 00:57:32,957.957 RPi2         DEBUG    load_opencv_PIL function took 55.374 ms
+20599 2020-06-02 00:57:32,961.961 RPi2         DEBUG    VehicleTracking's status_update function took 0.095 ms
+20599 2020-06-02 00:57:32,961.961 root         DEBUG    FPS: 2.93
+20599 2020-06-02 00:57:34,192.192 Detection_Func DEBUG    fetch_frame function took 1230.346 ms
+20599 2020-06-02 00:57:34,290.290 Detection_Func DEBUG    load_frame function took 96.389 ms
+20599 2020-06-02 00:57:34,296.296 Detection_Func DEBUG    resize_frame function took 2.726 ms
+20599 2020-06-02 00:57:34,379.379 Detection_Func DEBUG    inference function took 82.004 ms
+20599 2020-06-02 00:57:34,381.381 Detection_Func DEBUG    post_inference function took 1.152 ms
+20599 2020-06-02 00:57:34,382.382 root         INFO     Detection result: []
+20599 2020-06-02 00:57:34,385.385 RPi2         DEBUG    VehicleTracking's sort_update function took 1.933 ms
+20599 2020-06-02 00:57:34,386.386 root         INFO     Track result: []
+20599 2020-06-02 00:57:34,388.388 RPi2         DEBUG    frame_storage function took 0.993 ms
+20599 2020-06-02 00:57:34,439.439 RPi2         DEBUG    load_opencv_PIL function took 50.627 ms
+20599 2020-06-02 00:57:34,442.442 RPi2         DEBUG    VehicleTracking's status_update function took 0.090 ms
+20599 2020-06-02 00:57:34,443.443 root         DEBUG    FPS: 2.75
+20599 2020-06-02 00:57:34,992.992 Detection_Func DEBUG    fetch_frame function took 548.244 ms
+20599 2020-06-02 00:57:35,089.089 Detection_Func DEBUG    load_frame function took 96.530 ms
+20599 2020-06-02 00:57:35,095.095 Detection_Func DEBUG    resize_frame function took 2.141 ms
+20599 2020-06-02 00:57:35,180.180 Detection_Func DEBUG    inference function took 83.102 ms
+20599 2020-06-02 00:57:35,182.182 Detection_Func DEBUG    post_inference function took 1.176 ms
+20599 2020-06-02 00:57:35,183.183 root         INFO     Detection result: []
+20599 2020-06-02 00:57:35,186.186 RPi2         DEBUG    VehicleTracking's sort_update function took 1.959 ms
+20599 2020-06-02 00:57:35,186.186 root         INFO     Track result: []
+20599 2020-06-02 00:57:35,188.188 RPi2         DEBUG    frame_storage function took 0.998 ms
+20599 2020-06-02 00:57:35,242.242 RPi2         DEBUG    load_opencv_PIL function took 52.286 ms
+20599 2020-06-02 00:57:35,245.245 RPi2         DEBUG    VehicleTracking's status_update function took 0.094 ms
+20599 2020-06-02 00:57:35,246.246 root         DEBUG    FPS: 2.67
+20599 2020-06-02 00:57:35,801.801 Detection_Func DEBUG    fetch_frame function took 554.795 ms
+20599 2020-06-02 00:57:35,900.900 Detection_Func DEBUG    load_frame function took 97.673 ms
+20599 2020-06-02 00:57:35,906.906 Detection_Func DEBUG    resize_frame function took 2.696 ms
+20599 2020-06-02 00:57:35,990.990 Detection_Func DEBUG    inference function took 82.669 ms
+20599 2020-06-02 00:57:35,992.992 Detection_Func DEBUG    post_inference function took 1.223 ms
+20599 2020-06-02 00:57:35,993.993 root         INFO     Detection result: []
+20599 2020-06-02 00:57:35,996.996 RPi2         DEBUG    VehicleTracking's sort_update function took 1.922 ms
+20599 2020-06-02 00:57:35,997.997 root         INFO     Track result: []
+20599 2020-06-02 00:57:35,999.999 RPi2         DEBUG    frame_storage function took 1.012 ms
+20599 2020-06-02 00:57:36,052.052 RPi2         DEBUG    load_opencv_PIL function took 52.671 ms
+20599 2020-06-02 00:57:36,055.055 RPi2         DEBUG    VehicleTracking's status_update function took 0.097 ms
+20599 2020-06-02 00:57:36,056.056 root         DEBUG    FPS: 2.61
+20599 2020-06-02 00:57:36,579.579 Detection_Func DEBUG    fetch_frame function took 522.272 ms
+20599 2020-06-02 00:57:36,692.692 Detection_Func DEBUG    load_frame function took 112.063 ms
+20599 2020-06-02 00:57:36,700.700 Detection_Func DEBUG    resize_frame function took 2.870 ms
+20599 2020-06-02 00:57:36,787.787 Detection_Func DEBUG    inference function took 86.167 ms
+20599 2020-06-02 00:57:36,790.790 Detection_Func DEBUG    post_inference function took 1.706 ms
+20599 2020-06-02 00:57:36,791.791 root         INFO     Detection result: []
+20599 2020-06-02 00:57:36,794.794 RPi2         DEBUG    VehicleTracking's sort_update function took 2.490 ms
+20599 2020-06-02 00:57:36,795.795 root         INFO     Track result: []
+20599 2020-06-02 00:57:36,798.798 RPi2         DEBUG    frame_storage function took 1.221 ms
+20599 2020-06-02 00:57:36,859.859 RPi2         DEBUG    load_opencv_PIL function took 59.971 ms
+20599 2020-06-02 00:57:36,863.863 RPi2         DEBUG    VehicleTracking's status_update function took 0.104 ms
+20599 2020-06-02 00:57:36,864.864 root         DEBUG    FPS: 2.54
+20599 2020-06-02 00:57:37,490.490 Detection_Func DEBUG    fetch_frame function took 625.422 ms
+20599 2020-06-02 00:57:37,587.587 Detection_Func DEBUG    load_frame function took 94.525 ms
+20599 2020-06-02 00:57:37,594.594 Detection_Func DEBUG    resize_frame function took 2.533 ms
+20599 2020-06-02 00:57:37,682.682 Detection_Func DEBUG    inference function took 85.993 ms
+20599 2020-06-02 00:57:37,685.685 Detection_Func DEBUG    post_inference function took 1.695 ms
+20599 2020-06-02 00:57:37,686.686 root         INFO     Detection result: []
+20599 2020-06-02 00:57:37,689.689 RPi2         DEBUG    VehicleTracking's sort_update function took 2.415 ms
+20599 2020-06-02 00:57:37,691.691 root         INFO     Track result: []
+20599 2020-06-02 00:57:37,693.693 RPi2         DEBUG    frame_storage function took 1.468 ms
+20599 2020-06-02 00:57:37,754.754 RPi2         DEBUG    load_opencv_PIL function took 59.614 ms
+20599 2020-06-02 00:57:37,758.758 RPi2         DEBUG    VehicleTracking's status_update function took 0.109 ms
+20599 2020-06-02 00:57:37,759.759 root         DEBUG    FPS: 2.47
+20599 2020-06-02 00:57:38,245.245 Detection_Func DEBUG    fetch_frame function took 485.121 ms
+20599 2020-06-02 00:57:38,358.358 Detection_Func DEBUG    load_frame function took 111.783 ms
+20599 2020-06-02 00:57:38,364.364 Detection_Func DEBUG    resize_frame function took 2.326 ms
+20599 2020-06-02 00:57:38,454.454 Detection_Func DEBUG    inference function took 87.556 ms
+20599 2020-06-02 00:57:38,456.456 Detection_Func DEBUG    post_inference function took 1.628 ms
+20599 2020-06-02 00:57:38,457.457 root         INFO     Detection result: []
+20599 2020-06-02 00:57:38,461.461 RPi2         DEBUG    VehicleTracking's sort_update function took 2.600 ms
+20599 2020-06-02 00:57:38,462.462 root         INFO     Track result: []
+20599 2020-06-02 00:57:38,465.465 RPi2         DEBUG    frame_storage function took 1.199 ms
+20599 2020-06-02 00:57:38,526.526 RPi2         DEBUG    load_opencv_PIL function took 60.814 ms
+20599 2020-06-02 00:57:38,530.530 RPi2         DEBUG    VehicleTracking's status_update function took 0.080 ms
+20599 2020-06-02 00:57:38,531.531 root         DEBUG    FPS: 2.42
+20599 2020-06-02 00:57:39,061.061 Detection_Func DEBUG    fetch_frame function took 528.558 ms
+20599 2020-06-02 00:57:39,174.174 Detection_Func DEBUG    load_frame function took 111.805 ms
+20599 2020-06-02 00:57:39,181.181 Detection_Func DEBUG    resize_frame function took 3.062 ms
+20599 2020-06-02 00:57:39,270.270 Detection_Func DEBUG    inference function took 86.970 ms
+20599 2020-06-02 00:57:39,272.272 Detection_Func DEBUG    post_inference function took 1.621 ms
+20599 2020-06-02 00:57:39,273.273 root         INFO     Detection result: []
+20599 2020-06-02 00:57:39,277.277 RPi2         DEBUG    VehicleTracking's sort_update function took 2.478 ms
+20599 2020-06-02 00:57:39,278.278 root         INFO     Track result: []
+20599 2020-06-02 00:57:39,281.281 RPi2         DEBUG    frame_storage function took 1.086 ms
+20599 2020-06-02 00:57:39,341.341 RPi2         DEBUG    load_opencv_PIL function took 59.711 ms
+20599 2020-06-02 00:57:39,345.345 RPi2         DEBUG    VehicleTracking's status_update function took 0.112 ms
+20599 2020-06-02 00:57:39,346.346 root         DEBUG    FPS: 2.37
+20599 2020-06-02 00:57:39,840.840 Detection_Func DEBUG    fetch_frame function took 493.047 ms
+20599 2020-06-02 00:57:39,954.954 Detection_Func DEBUG    load_frame function took 112.585 ms
+20599 2020-06-02 00:57:39,962.962 Detection_Func DEBUG    resize_frame function took 2.995 ms
+20599 2020-06-02 00:57:40,049.049 Detection_Func DEBUG    inference function took 86.302 ms
+20599 2020-06-02 00:57:40,052.052 Detection_Func DEBUG    post_inference function took 1.445 ms
+20599 2020-06-02 00:57:40,053.053 root         INFO     Detection result: []
+20599 2020-06-02 00:57:40,056.056 RPi2         DEBUG    VehicleTracking's sort_update function took 2.517 ms
+20599 2020-06-02 00:57:40,057.057 root         INFO     Track result: []
+20599 2020-06-02 00:57:40,060.060 RPi2         DEBUG    frame_storage function took 1.407 ms
+20599 2020-06-02 00:57:40,120.120 RPi2         DEBUG    load_opencv_PIL function took 59.161 ms
+20599 2020-06-02 00:57:40,124.124 RPi2         DEBUG    VehicleTracking's status_update function took 0.111 ms
+20599 2020-06-02 00:57:40,142.142 root         DEBUG    FPS: 2.32
+20599 2020-06-02 00:57:40,760.760 Detection_Func DEBUG    fetch_frame function took 617.607 ms
+20599 2020-06-02 00:57:40,873.873 Detection_Func DEBUG    load_frame function took 111.580 ms
+20599 2020-06-02 00:57:40,881.881 Detection_Func DEBUG    resize_frame function took 2.867 ms
+20599 2020-06-02 00:57:40,968.968 Detection_Func DEBUG    inference function took 85.890 ms
+20599 2020-06-02 00:57:40,971.971 Detection_Func DEBUG    post_inference function took 1.987 ms
+20599 2020-06-02 00:57:40,972.972 root         INFO     Detection result: [[373.93978118896484, 171.1561632156372, 401.14002227783203, 188.1502389907837, 0.2109375]]
+20599 2020-06-02 00:57:40,977.977 RPi2         DEBUG    VehicleTracking's sort_update function took 4.464 ms
+20599 2020-06-02 00:57:40,978.978 root         INFO     Track result: []
+20599 2020-06-02 00:57:40,981.981 RPi2         DEBUG    frame_storage function took 1.287 ms
+20599 2020-06-02 00:57:41,041.041 RPi2         DEBUG    load_opencv_PIL function took 58.730 ms
+20599 2020-06-02 00:57:41,044.044 RPi2         DEBUG    VehicleTracking's status_update function took 0.169 ms
+20599 2020-06-02 00:57:41,046.046 root         DEBUG    FPS: 2.26
+20599 2020-06-02 00:57:41,526.526 Detection_Func DEBUG    fetch_frame function took 479.850 ms
+20599 2020-06-02 00:57:41,639.639 Detection_Func DEBUG    load_frame function took 111.901 ms
+20599 2020-06-02 00:57:41,646.646 Detection_Func DEBUG    resize_frame function took 2.373 ms
+20599 2020-06-02 00:57:41,733.733 Detection_Func DEBUG    inference function took 85.752 ms
+20599 2020-06-02 00:57:41,736.736 Detection_Func DEBUG    post_inference function took 1.997 ms
+20599 2020-06-02 00:57:41,738.738 root         INFO     Detection result: [[371.5073776245117, 169.99121189117432, 401.30908966064453, 187.61765956878662, 0.2109375]]
+20599 2020-06-02 00:57:41,745.745 RPi2         DEBUG    VehicleTracking's sort_update function took 6.890 ms
+20599 2020-06-02 00:57:41,749.749 root         INFO     Track result: [[371.69879252 169.87774766 401.11790083 187.73129335   5.        ]]
+20599 2020-06-02 00:57:41,751.751 RPi2         DEBUG    frame_storage function took 1.007 ms
+20599 2020-06-02 00:57:41,812.812 RPi2         DEBUG    load_opencv_PIL function took 59.862 ms
+20599 2020-06-02 00:57:41,816.816 RPi2         DEBUG    VehicleTracking's status_update function took 0.281 ms
+20599 2020-06-02 00:57:41,817.817 root         DEBUG    FPS: 2.21
+20599 2020-06-02 00:57:42,366.366 Detection_Func DEBUG    fetch_frame function took 547.449 ms
+20599 2020-06-02 00:57:42,479.479 Detection_Func DEBUG    load_frame function took 112.049 ms
+20599 2020-06-02 00:57:42,488.488 Detection_Func DEBUG    resize_frame function took 4.493 ms
+20599 2020-06-02 00:57:42,575.575 Detection_Func DEBUG    inference function took 86.061 ms
+20599 2020-06-02 00:57:42,578.578 Detection_Func DEBUG    post_inference function took 2.026 ms
+20599 2020-06-02 00:57:42,579.579 root         INFO     Detection result: [[370.66795349121094, 170.99950790405273, 402.1485137939453, 188.30689430236816, 0.2109375]]
+20599 2020-06-02 00:57:42,587.587 RPi2         DEBUG    VehicleTracking's sort_update function took 6.745 ms
+20599 2020-06-02 00:57:42,591.591 root         INFO     Track result: [[370.9664015  170.58050394 401.71704741 188.52623762   5.        ]]
+20599 2020-06-02 00:57:42,593.593 RPi2         DEBUG    frame_storage function took 1.044 ms
+20599 2020-06-02 00:57:42,654.654 RPi2         DEBUG    load_opencv_PIL function took 59.485 ms
+20599 2020-06-02 00:57:42,655.655 RPi2         DEBUG    VehicleTracking's status_update function took 0.256 ms
+20599 2020-06-02 00:57:42,657.657 root         DEBUG    FPS: 2.17
+20599 2020-06-02 00:57:43,137.137 Detection_Func DEBUG    fetch_frame function took 479.286 ms
+20599 2020-06-02 00:57:43,234.234 Detection_Func DEBUG    load_frame function took 95.105 ms
+20599 2020-06-02 00:57:43,241.241 Detection_Func DEBUG    resize_frame function took 2.511 ms
+20599 2020-06-02 00:57:43,330.330 Detection_Func DEBUG    inference function took 86.662 ms
+20599 2020-06-02 00:57:43,333.333 Detection_Func DEBUG    post_inference function took 2.048 ms
+20599 2020-06-02 00:57:43,334.334 root         INFO     Detection result: [[372.3455810546875, 169.82873439788818, 404.99755859375, 187.78013706207275, 0.2109375]]
+20599 2020-06-02 00:57:43,342.342 RPi2         DEBUG    VehicleTracking's sort_update function took 6.719 ms
+20599 2020-06-02 00:57:43,346.346 root         INFO     Track result: [[372.2431547  169.81591218 404.30606598 188.15947891   5.        ]]
+20599 2020-06-02 00:57:43,348.348 RPi2         DEBUG    frame_storage function took 1.083 ms
+20599 2020-06-02 00:57:43,409.409 RPi2         DEBUG    load_opencv_PIL function took 59.840 ms
+20599 2020-06-02 00:57:43,411.411 RPi2         DEBUG    VehicleTracking's status_update function took 0.259 ms
+20599 2020-06-02 00:57:43,412.412 root         DEBUG    FPS: 2.13
+20599 2020-06-02 00:57:43,854.854 Detection_Func DEBUG    fetch_frame function took 441.436 ms
+20599 2020-06-02 00:57:43,968.968 Detection_Func DEBUG    load_frame function took 112.159 ms
+20599 2020-06-02 00:57:43,975.975 Detection_Func DEBUG    resize_frame function took 2.996 ms
+20599 2020-06-02 00:57:44,063.063 Detection_Func DEBUG    inference function took 86.459 ms
+20599 2020-06-02 00:57:44,065.065 Detection_Func DEBUG    post_inference function took 1.390 ms
+20599 2020-06-02 00:57:44,067.067 root         INFO     Detection result: []
+20599 2020-06-02 00:57:44,072.072 RPi2         DEBUG    VehicleTracking's sort_update function took 4.570 ms
+20599 2020-06-02 00:57:44,073.073 root         INFO     Track result: []
+20599 2020-06-02 00:57:44,076.076 RPi2         DEBUG    frame_storage function took 1.099 ms
+20599 2020-06-02 00:57:44,137.137 RPi2         DEBUG    load_opencv_PIL function took 59.614 ms
+20599 2020-06-02 00:57:44,138.138 RPi2         DEBUG    VehicleTracking's status_update function took 0.104 ms
+20599 2020-06-02 00:57:44,139.139 root         DEBUG    FPS: 2.09
+20599 2020-06-02 00:57:44,668.668 Detection_Func DEBUG    fetch_frame function took 527.641 ms
+20599 2020-06-02 00:57:44,781.781 Detection_Func DEBUG    load_frame function took 111.967 ms
+20599 2020-06-02 00:57:44,788.788 Detection_Func DEBUG    resize_frame function took 2.829 ms
+20599 2020-06-02 00:57:44,876.876 Detection_Func DEBUG    inference function took 86.597 ms
+20599 2020-06-02 00:57:44,879.879 Detection_Func DEBUG    post_inference function took 1.600 ms
+20599 2020-06-02 00:57:44,880.880 root         INFO     Detection result: []
+20599 2020-06-02 00:57:44,885.885 RPi2         DEBUG    VehicleTracking's sort_update function took 4.847 ms
+20599 2020-06-02 00:57:44,887.887 root         INFO     Track result: []
+20599 2020-06-02 00:57:44,889.889 RPi2         DEBUG    frame_storage function took 1.086 ms
+20599 2020-06-02 00:57:44,949.949 RPi2         DEBUG    load_opencv_PIL function took 59.154 ms
+20599 2020-06-02 00:57:44,953.953 RPi2         DEBUG    VehicleTracking's status_update function took 0.115 ms
+20599 2020-06-02 00:57:44,954.954 root         DEBUG    FPS: 2.05
+20599 2020-06-02 00:57:45,457.457 Detection_Func DEBUG    fetch_frame function took 502.633 ms
+20599 2020-06-02 00:57:45,593.593 Detection_Func DEBUG    load_frame function took 111.242 ms
+20599 2020-06-02 00:57:45,600.600 Detection_Func DEBUG    resize_frame function took 2.331 ms
+20599 2020-06-02 00:57:45,688.688 Detection_Func DEBUG    inference function took 86.466 ms
+20599 2020-06-02 00:57:45,690.690 Detection_Func DEBUG    post_inference function took 1.663 ms
+20599 2020-06-02 00:57:45,691.691 root         INFO     Detection result: []
+20599 2020-06-02 00:57:45,697.697 RPi2         DEBUG    VehicleTracking's sort_update function took 4.839 ms
+20599 2020-06-02 00:57:45,698.698 root         INFO     Track result: []
+20599 2020-06-02 00:57:45,701.701 RPi2         DEBUG    frame_storage function took 1.171 ms
+20599 2020-06-02 00:57:45,761.761 RPi2         DEBUG    load_opencv_PIL function took 59.345 ms
+20599 2020-06-02 00:57:45,765.765 RPi2         DEBUG    VehicleTracking's status_update function took 0.119 ms
+20599 2020-06-02 00:57:45,766.766 root         DEBUG    FPS: 2.01
+20599 2020-06-02 00:57:46,246.246 Detection_Func DEBUG    fetch_frame function took 479.591 ms
+20599 2020-06-02 00:57:46,345.345 Detection_Func DEBUG    load_frame function took 96.539 ms
+20599 2020-06-02 00:57:46,352.352 Detection_Func DEBUG    resize_frame function took 2.737 ms
+20599 2020-06-02 00:57:46,437.437 Detection_Func DEBUG    inference function took 82.421 ms
+20599 2020-06-02 00:57:46,439.439 Detection_Func DEBUG    post_inference function took 1.039 ms
+20599 2020-06-02 00:57:46,440.440 root         INFO     Detection result: []
+20599 2020-06-02 00:57:46,444.444 RPi2         DEBUG    VehicleTracking's sort_update function took 3.902 ms
+20599 2020-06-02 00:57:46,445.445 root         INFO     Track result: []
+20599 2020-06-02 00:57:46,447.447 RPi2         DEBUG    frame_storage function took 0.985 ms
+20599 2020-06-02 00:57:46,500.500 RPi2         DEBUG    load_opencv_PIL function took 51.796 ms
+20599 2020-06-02 00:57:46,503.503 RPi2         DEBUG    VehicleTracking's status_update function took 0.104 ms
+20599 2020-06-02 00:57:46,508.508 root         INFO     Vehicle: 5 is leaving
+20599 2020-06-02 00:57:46,513.513 RPi2         DEBUG    feature_extraction_adaptive_histogram function took 3.666 ms
+20599 2020-06-02 00:57:46,700.700 root         INFO     Trajectory Vertex v[12320] (veh5, ferst_atlantic, 1591055866.5139422) created.
+20599 2020-06-02 00:57:46,701.701 RPi2         DEBUG    vertex_storage function took 187.299 ms
+20599 2020-06-02 00:57:46,703.703 RPi2         DEBUG    messaging function took 1.639 ms
+20599 2020-06-02 00:57:46,704.704 root         INFO     Re-Id for vehicle 5: []
+20599 2020-06-02 00:57:46,705.705 RPi2         DEBUG    edge_storage function took 0.010 ms
+20599 2020-06-02 00:57:46,706.706 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:46,763.763 Detection_Func DEBUG    fetch_frame function took 57.055 ms
+20599 2020-06-02 00:57:46,861.861 Detection_Func DEBUG    load_frame function took 96.596 ms
+20599 2020-06-02 00:57:46,868.868 Detection_Func DEBUG    resize_frame function took 2.583 ms
+20599 2020-06-02 00:57:46,950.950 Detection_Func DEBUG    inference function took 81.718 ms
+20599 2020-06-02 00:57:46,952.952 Detection_Func DEBUG    post_inference function took 1.126 ms
+20599 2020-06-02 00:57:46,953.953 root         INFO     Detection result: []
+20599 2020-06-02 00:57:46,956.956 RPi2         DEBUG    VehicleTracking's sort_update function took 1.916 ms
+20599 2020-06-02 00:57:46,957.957 root         INFO     Track result: []
+20599 2020-06-02 00:57:46,959.959 RPi2         DEBUG    frame_storage function took 0.949 ms
+20599 2020-06-02 00:57:47,010.010 RPi2         DEBUG    load_opencv_PIL function took 50.746 ms
+20599 2020-06-02 00:57:47,013.013 RPi2         DEBUG    VehicleTracking's status_update function took 0.086 ms
+20599 2020-06-02 00:57:47,014.014 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:47,065.065 Detection_Func DEBUG    fetch_frame function took 49.703 ms
+20599 2020-06-02 00:57:47,161.161 Detection_Func DEBUG    load_frame function took 95.053 ms
+20599 2020-06-02 00:57:47,166.166 Detection_Func DEBUG    resize_frame function took 2.096 ms
+20599 2020-06-02 00:57:47,250.250 Detection_Func DEBUG    inference function took 81.671 ms
+20599 2020-06-02 00:57:47,252.252 Detection_Func DEBUG    post_inference function took 1.145 ms
+20599 2020-06-02 00:57:47,252.252 root         INFO     Detection result: []
+20599 2020-06-02 00:57:47,255.255 RPi2         DEBUG    VehicleTracking's sort_update function took 1.837 ms
+20599 2020-06-02 00:57:47,256.256 root         INFO     Track result: []
+20599 2020-06-02 00:57:47,258.258 RPi2         DEBUG    frame_storage function took 0.983 ms
+20599 2020-06-02 00:57:47,310.310 RPi2         DEBUG    load_opencv_PIL function took 51.381 ms
+20599 2020-06-02 00:57:47,313.313 RPi2         DEBUG    VehicleTracking's status_update function took 0.092 ms
+20599 2020-06-02 00:57:47,314.314 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:47,396.396 Detection_Func DEBUG    fetch_frame function took 81.597 ms
+20599 2020-06-02 00:57:47,492.492 Detection_Func DEBUG    load_frame function took 94.889 ms
+20599 2020-06-02 00:57:47,498.498 Detection_Func DEBUG    resize_frame function took 2.548 ms
+20599 2020-06-02 00:57:47,581.581 Detection_Func DEBUG    inference function took 81.820 ms
+20599 2020-06-02 00:57:47,583.583 Detection_Func DEBUG    post_inference function took 1.044 ms
+20599 2020-06-02 00:57:47,584.584 root         INFO     Detection result: []
+20599 2020-06-02 00:57:47,587.587 RPi2         DEBUG    VehicleTracking's sort_update function took 1.806 ms
+20599 2020-06-02 00:57:47,588.588 root         INFO     Track result: []
+20599 2020-06-02 00:57:47,589.589 RPi2         DEBUG    frame_storage function took 0.925 ms
+20599 2020-06-02 00:57:47,641.641 RPi2         DEBUG    load_opencv_PIL function took 50.694 ms
+20599 2020-06-02 00:57:47,644.644 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:47,645.645 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:47,697.697 Detection_Func DEBUG    fetch_frame function took 51.318 ms
+20599 2020-06-02 00:57:47,793.793 Detection_Func DEBUG    load_frame function took 94.949 ms
+20599 2020-06-02 00:57:47,799.799 Detection_Func DEBUG    resize_frame function took 2.572 ms
+20599 2020-06-02 00:57:47,881.881 Detection_Func DEBUG    inference function took 81.157 ms
+20599 2020-06-02 00:57:47,883.883 Detection_Func DEBUG    post_inference function took 1.043 ms
+20599 2020-06-02 00:57:47,884.884 root         INFO     Detection result: []
+20599 2020-06-02 00:57:47,887.887 RPi2         DEBUG    VehicleTracking's sort_update function took 1.825 ms
+20599 2020-06-02 00:57:47,888.888 root         INFO     Track result: []
+20599 2020-06-02 00:57:47,889.889 RPi2         DEBUG    frame_storage function took 0.932 ms
+20599 2020-06-02 00:57:47,941.941 RPi2         DEBUG    load_opencv_PIL function took 50.686 ms
+20599 2020-06-02 00:57:47,944.944 RPi2         DEBUG    VehicleTracking's status_update function took 0.090 ms
+20599 2020-06-02 00:57:47,945.945 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:47,999.999 Detection_Func DEBUG    fetch_frame function took 53.653 ms
+20599 2020-06-02 00:57:48,096.096 Detection_Func DEBUG    load_frame function took 95.320 ms
+20599 2020-06-02 00:57:48,102.102 Detection_Func DEBUG    resize_frame function took 2.555 ms
+20599 2020-06-02 00:57:48,184.184 Detection_Func DEBUG    inference function took 81.514 ms
+20599 2020-06-02 00:57:48,186.186 Detection_Func DEBUG    post_inference function took 1.087 ms
+20599 2020-06-02 00:57:48,187.187 root         INFO     Detection result: []
+20599 2020-06-02 00:57:48,190.190 RPi2         DEBUG    VehicleTracking's sort_update function took 1.780 ms
+20599 2020-06-02 00:57:48,190.190 root         INFO     Track result: []
+20599 2020-06-02 00:57:48,192.192 RPi2         DEBUG    frame_storage function took 0.969 ms
+20599 2020-06-02 00:57:48,243.243 RPi2         DEBUG    load_opencv_PIL function took 50.353 ms
+20599 2020-06-02 00:57:48,247.247 RPi2         DEBUG    VehicleTracking's status_update function took 0.092 ms
+20599 2020-06-02 00:57:48,248.248 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:48,302.302 Detection_Func DEBUG    fetch_frame function took 53.855 ms
+20599 2020-06-02 00:57:48,398.398 Detection_Func DEBUG    load_frame function took 94.631 ms
+20599 2020-06-02 00:57:48,404.404 Detection_Func DEBUG    resize_frame function took 2.578 ms
+20599 2020-06-02 00:57:48,489.489 Detection_Func DEBUG    inference function took 84.165 ms
+20599 2020-06-02 00:57:48,491.491 Detection_Func DEBUG    post_inference function took 1.082 ms
+20599 2020-06-02 00:57:48,492.492 root         INFO     Detection result: []
+20599 2020-06-02 00:57:48,494.494 RPi2         DEBUG    VehicleTracking's sort_update function took 1.863 ms
+20599 2020-06-02 00:57:48,495.495 root         INFO     Track result: []
+20599 2020-06-02 00:57:48,497.497 RPi2         DEBUG    frame_storage function took 0.964 ms
+20599 2020-06-02 00:57:48,548.548 RPi2         DEBUG    load_opencv_PIL function took 49.858 ms
+20599 2020-06-02 00:57:48,551.551 RPi2         DEBUG    VehicleTracking's status_update function took 0.084 ms
+20599 2020-06-02 00:57:48,552.552 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:48,617.617 Detection_Func DEBUG    fetch_frame function took 64.683 ms
+20599 2020-06-02 00:57:48,713.713 Detection_Func DEBUG    load_frame function took 94.710 ms
+20599 2020-06-02 00:57:48,719.719 Detection_Func DEBUG    resize_frame function took 2.554 ms
+20599 2020-06-02 00:57:48,803.803 Detection_Func DEBUG    inference function took 83.097 ms
+20599 2020-06-02 00:57:48,805.805 Detection_Func DEBUG    post_inference function took 1.108 ms
+20599 2020-06-02 00:57:48,806.806 root         INFO     Detection result: []
+20599 2020-06-02 00:57:48,808.808 RPi2         DEBUG    VehicleTracking's sort_update function took 1.775 ms
+20599 2020-06-02 00:57:48,809.809 root         INFO     Track result: []
+20599 2020-06-02 00:57:48,811.811 RPi2         DEBUG    frame_storage function took 0.911 ms
+20599 2020-06-02 00:57:48,862.862 RPi2         DEBUG    load_opencv_PIL function took 50.089 ms
+20599 2020-06-02 00:57:48,865.865 RPi2         DEBUG    VehicleTracking's status_update function took 0.091 ms
+20599 2020-06-02 00:57:48,866.866 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:48,924.924 Detection_Func DEBUG    fetch_frame function took 56.933 ms
+20599 2020-06-02 00:57:49,019.019 Detection_Func DEBUG    load_frame function took 94.743 ms
+20599 2020-06-02 00:57:49,025.025 Detection_Func DEBUG    resize_frame function took 2.132 ms
+20599 2020-06-02 00:57:49,109.109 Detection_Func DEBUG    inference function took 82.434 ms
+20599 2020-06-02 00:57:49,111.111 Detection_Func DEBUG    post_inference function took 1.087 ms
+20599 2020-06-02 00:57:49,112.112 root         INFO     Detection result: []
+20599 2020-06-02 00:57:49,115.115 RPi2         DEBUG    VehicleTracking's sort_update function took 1.863 ms
+20599 2020-06-02 00:57:49,116.116 root         INFO     Track result: []
+20599 2020-06-02 00:57:49,117.117 RPi2         DEBUG    frame_storage function took 0.942 ms
+20599 2020-06-02 00:57:49,170.170 RPi2         DEBUG    load_opencv_PIL function took 51.374 ms
+20599 2020-06-02 00:57:49,173.173 RPi2         DEBUG    VehicleTracking's status_update function took 0.083 ms
+20599 2020-06-02 00:57:49,173.173 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:49,226.226 Detection_Func DEBUG    fetch_frame function took 52.035 ms
+20599 2020-06-02 00:57:49,322.322 Detection_Func DEBUG    load_frame function took 94.973 ms
+20599 2020-06-02 00:57:49,329.329 Detection_Func DEBUG    resize_frame function took 2.799 ms
+20599 2020-06-02 00:57:49,413.413 Detection_Func DEBUG    inference function took 83.899 ms
+20599 2020-06-02 00:57:49,416.416 Detection_Func DEBUG    post_inference function took 1.093 ms
+20599 2020-06-02 00:57:49,416.416 root         INFO     Detection result: []
+20599 2020-06-02 00:57:49,419.419 RPi2         DEBUG    VehicleTracking's sort_update function took 1.781 ms
+20599 2020-06-02 00:57:49,420.420 root         INFO     Track result: []
+20599 2020-06-02 00:57:49,421.421 RPi2         DEBUG    frame_storage function took 0.955 ms
+20599 2020-06-02 00:57:49,472.472 RPi2         DEBUG    load_opencv_PIL function took 49.783 ms
+20599 2020-06-02 00:57:49,475.475 RPi2         DEBUG    VehicleTracking's status_update function took 0.091 ms
+20599 2020-06-02 00:57:49,476.476 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:49,528.528 Detection_Func DEBUG    fetch_frame function took 51.645 ms
+20599 2020-06-02 00:57:49,624.624 Detection_Func DEBUG    load_frame function took 95.014 ms
+20599 2020-06-02 00:57:49,631.631 Detection_Func DEBUG    resize_frame function took 2.549 ms
+20599 2020-06-02 00:57:49,713.713 Detection_Func DEBUG    inference function took 81.833 ms
+20599 2020-06-02 00:57:49,715.715 Detection_Func DEBUG    post_inference function took 1.039 ms
+20599 2020-06-02 00:57:49,716.716 root         INFO     Detection result: []
+20599 2020-06-02 00:57:49,719.719 RPi2         DEBUG    VehicleTracking's sort_update function took 1.792 ms
+20599 2020-06-02 00:57:49,720.720 root         INFO     Track result: []
+20599 2020-06-02 00:57:49,721.721 RPi2         DEBUG    frame_storage function took 0.973 ms
+20599 2020-06-02 00:57:49,772.772 RPi2         DEBUG    load_opencv_PIL function took 49.557 ms
+20599 2020-06-02 00:57:49,775.775 RPi2         DEBUG    VehicleTracking's status_update function took 0.090 ms
+20599 2020-06-02 00:57:49,776.776 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:49,848.848 Detection_Func DEBUG    fetch_frame function took 71.387 ms
+20599 2020-06-02 00:57:49,944.944 Detection_Func DEBUG    load_frame function took 94.964 ms
+20599 2020-06-02 00:57:49,950.950 Detection_Func DEBUG    resize_frame function took 2.568 ms
+20599 2020-06-02 00:57:50,033.033 Detection_Func DEBUG    inference function took 81.522 ms
+20599 2020-06-02 00:57:50,035.035 Detection_Func DEBUG    post_inference function took 1.132 ms
+20599 2020-06-02 00:57:50,035.035 root         INFO     Detection result: []
+20599 2020-06-02 00:57:50,038.038 RPi2         DEBUG    VehicleTracking's sort_update function took 1.796 ms
+20599 2020-06-02 00:57:50,039.039 root         INFO     Track result: []
+20599 2020-06-02 00:57:50,041.041 RPi2         DEBUG    frame_storage function took 0.957 ms
+20599 2020-06-02 00:57:50,091.091 RPi2         DEBUG    load_opencv_PIL function took 49.526 ms
+20599 2020-06-02 00:57:50,094.094 RPi2         DEBUG    VehicleTracking's status_update function took 0.084 ms
+20599 2020-06-02 00:57:50,095.095 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:50,228.228 Detection_Func DEBUG    fetch_frame function took 132.109 ms
+20599 2020-06-02 00:57:50,323.323 Detection_Func DEBUG    load_frame function took 94.421 ms
+20599 2020-06-02 00:57:50,329.329 Detection_Func DEBUG    resize_frame function took 2.067 ms
+20599 2020-06-02 00:57:50,411.411 Detection_Func DEBUG    inference function took 81.446 ms
+20599 2020-06-02 00:57:50,413.413 Detection_Func DEBUG    post_inference function took 1.112 ms
+20599 2020-06-02 00:57:50,414.414 root         INFO     Detection result: []
+20599 2020-06-02 00:57:50,417.417 RPi2         DEBUG    VehicleTracking's sort_update function took 1.836 ms
+20599 2020-06-02 00:57:50,418.418 root         INFO     Track result: []
+20599 2020-06-02 00:57:50,419.419 RPi2         DEBUG    frame_storage function took 0.956 ms
+20599 2020-06-02 00:57:50,470.470 RPi2         DEBUG    load_opencv_PIL function took 49.987 ms
+20599 2020-06-02 00:57:50,474.474 RPi2         DEBUG    VehicleTracking's status_update function took 0.084 ms
+20599 2020-06-02 00:57:50,491.491 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:50,544.544 Detection_Func DEBUG    fetch_frame function took 52.165 ms
+20599 2020-06-02 00:57:50,640.640 Detection_Func DEBUG    load_frame function took 94.706 ms
+20599 2020-06-02 00:57:50,646.646 Detection_Func DEBUG    resize_frame function took 2.676 ms
+20599 2020-06-02 00:57:50,729.729 Detection_Func DEBUG    inference function took 81.491 ms
+20599 2020-06-02 00:57:50,731.731 Detection_Func DEBUG    post_inference function took 1.084 ms
+20599 2020-06-02 00:57:50,731.731 root         INFO     Detection result: []
+20599 2020-06-02 00:57:50,734.734 RPi2         DEBUG    VehicleTracking's sort_update function took 1.791 ms
+20599 2020-06-02 00:57:50,735.735 root         INFO     Track result: []
+20599 2020-06-02 00:57:50,737.737 RPi2         DEBUG    frame_storage function took 0.970 ms
+20599 2020-06-02 00:57:50,788.788 RPi2         DEBUG    load_opencv_PIL function took 50.412 ms
+20599 2020-06-02 00:57:50,791.791 RPi2         DEBUG    VehicleTracking's status_update function took 0.083 ms
+20599 2020-06-02 00:57:50,792.792 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:50,846.846 Detection_Func DEBUG    fetch_frame function took 53.578 ms
+20599 2020-06-02 00:57:50,942.942 Detection_Func DEBUG    load_frame function took 94.828 ms
+20599 2020-06-02 00:57:50,948.948 Detection_Func DEBUG    resize_frame function took 2.570 ms
+20599 2020-06-02 00:57:51,031.031 Detection_Func DEBUG    inference function took 81.592 ms
+20599 2020-06-02 00:57:51,033.033 Detection_Func DEBUG    post_inference function took 1.090 ms
+20599 2020-06-02 00:57:51,034.034 root         INFO     Detection result: []
+20599 2020-06-02 00:57:51,036.036 RPi2         DEBUG    VehicleTracking's sort_update function took 1.806 ms
+20599 2020-06-02 00:57:51,037.037 root         INFO     Track result: []
+20599 2020-06-02 00:57:51,039.039 RPi2         DEBUG    frame_storage function took 1.024 ms
+20599 2020-06-02 00:57:51,090.090 RPi2         DEBUG    load_opencv_PIL function took 50.066 ms
+20599 2020-06-02 00:57:51,093.093 RPi2         DEBUG    VehicleTracking's status_update function took 0.083 ms
+20599 2020-06-02 00:57:51,094.094 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:51,162.162 Detection_Func DEBUG    fetch_frame function took 67.159 ms
+20599 2020-06-02 00:57:51,258.258 Detection_Func DEBUG    load_frame function took 94.943 ms
+20599 2020-06-02 00:57:51,264.264 Detection_Func DEBUG    resize_frame function took 2.559 ms
+20599 2020-06-02 00:57:51,346.346 Detection_Func DEBUG    inference function took 81.504 ms
+20599 2020-06-02 00:57:51,349.349 Detection_Func DEBUG    post_inference function took 1.156 ms
+20599 2020-06-02 00:57:51,349.349 root         INFO     Detection result: []
+20599 2020-06-02 00:57:51,352.352 RPi2         DEBUG    VehicleTracking's sort_update function took 1.782 ms
+20599 2020-06-02 00:57:51,353.353 root         INFO     Track result: []
+20599 2020-06-02 00:57:51,355.355 RPi2         DEBUG    frame_storage function took 1.128 ms
+20599 2020-06-02 00:57:51,408.408 RPi2         DEBUG    load_opencv_PIL function took 52.306 ms
+20599 2020-06-02 00:57:51,411.411 RPi2         DEBUG    VehicleTracking's status_update function took 0.086 ms
+20599 2020-06-02 00:57:51,412.412 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:51,468.468 Detection_Func DEBUG    fetch_frame function took 55.179 ms
+20599 2020-06-02 00:57:51,564.564 Detection_Func DEBUG    load_frame function took 95.113 ms
+20599 2020-06-02 00:57:51,570.570 Detection_Func DEBUG    resize_frame function took 2.550 ms
+20599 2020-06-02 00:57:51,653.653 Detection_Func DEBUG    inference function took 81.928 ms
+20599 2020-06-02 00:57:51,655.655 Detection_Func DEBUG    post_inference function took 1.307 ms
+20599 2020-06-02 00:57:51,656.656 root         INFO     Detection result: []
+20599 2020-06-02 00:57:51,659.659 RPi2         DEBUG    VehicleTracking's sort_update function took 1.760 ms
+20599 2020-06-02 00:57:51,659.659 root         INFO     Track result: []
+20599 2020-06-02 00:57:51,661.661 RPi2         DEBUG    frame_storage function took 0.961 ms
+20599 2020-06-02 00:57:51,712.712 RPi2         DEBUG    load_opencv_PIL function took 49.789 ms
+20599 2020-06-02 00:57:51,715.715 RPi2         DEBUG    VehicleTracking's status_update function took 0.093 ms
+20599 2020-06-02 00:57:51,716.716 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:51,772.772 Detection_Func DEBUG    fetch_frame function took 55.362 ms
+20599 2020-06-02 00:57:51,868.868 Detection_Func DEBUG    load_frame function took 95.201 ms
+20599 2020-06-02 00:57:51,874.874 Detection_Func DEBUG    resize_frame function took 2.054 ms
+20599 2020-06-02 00:57:51,957.957 Detection_Func DEBUG    inference function took 82.040 ms
+20599 2020-06-02 00:57:51,960.960 Detection_Func DEBUG    post_inference function took 1.302 ms
+20599 2020-06-02 00:57:51,960.960 root         INFO     Detection result: []
+20599 2020-06-02 00:57:51,963.963 RPi2         DEBUG    VehicleTracking's sort_update function took 1.790 ms
+20599 2020-06-02 00:57:51,964.964 root         INFO     Track result: []
+20599 2020-06-02 00:57:51,966.966 RPi2         DEBUG    frame_storage function took 0.983 ms
+20599 2020-06-02 00:57:52,017.017 RPi2         DEBUG    load_opencv_PIL function took 50.645 ms
+20599 2020-06-02 00:57:52,020.020 RPi2         DEBUG    VehicleTracking's status_update function took 0.083 ms
+20599 2020-06-02 00:57:52,021.021 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:52,073.073 Detection_Func DEBUG    fetch_frame function took 51.206 ms
+20599 2020-06-02 00:57:52,169.169 Detection_Func DEBUG    load_frame function took 95.287 ms
+20599 2020-06-02 00:57:52,176.176 Detection_Func DEBUG    resize_frame function took 2.648 ms
+20599 2020-06-02 00:57:52,258.258 Detection_Func DEBUG    inference function took 81.490 ms
+20599 2020-06-02 00:57:52,260.260 Detection_Func DEBUG    post_inference function took 1.194 ms
+20599 2020-06-02 00:57:52,261.261 root         INFO     Detection result: []
+20599 2020-06-02 00:57:52,263.263 RPi2         DEBUG    VehicleTracking's sort_update function took 1.794 ms
+20599 2020-06-02 00:57:52,264.264 root         INFO     Track result: []
+20599 2020-06-02 00:57:52,266.266 RPi2         DEBUG    frame_storage function took 1.003 ms
+20599 2020-06-02 00:57:52,317.317 RPi2         DEBUG    load_opencv_PIL function took 50.363 ms
+20599 2020-06-02 00:57:52,321.321 RPi2         DEBUG    VehicleTracking's status_update function took 0.086 ms
+20599 2020-06-02 00:57:52,321.321 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:52,396.396 Detection_Func DEBUG    fetch_frame function took 74.240 ms
+20599 2020-06-02 00:57:52,492.492 Detection_Func DEBUG    load_frame function took 95.026 ms
+20599 2020-06-02 00:57:52,499.499 Detection_Func DEBUG    resize_frame function took 2.573 ms
+20599 2020-06-02 00:57:52,581.581 Detection_Func DEBUG    inference function took 81.393 ms
+20599 2020-06-02 00:57:52,583.583 Detection_Func DEBUG    post_inference function took 1.129 ms
+20599 2020-06-02 00:57:52,584.584 root         INFO     Detection result: []
+20599 2020-06-02 00:57:52,587.587 RPi2         DEBUG    VehicleTracking's sort_update function took 1.804 ms
+20599 2020-06-02 00:57:52,587.587 root         INFO     Track result: []
+20599 2020-06-02 00:57:52,589.589 RPi2         DEBUG    frame_storage function took 1.000 ms
+20599 2020-06-02 00:57:52,641.641 RPi2         DEBUG    load_opencv_PIL function took 50.302 ms
+20599 2020-06-02 00:57:52,644.644 RPi2         DEBUG    VehicleTracking's status_update function took 0.087 ms
+20599 2020-06-02 00:57:52,644.644 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:52,702.702 Detection_Func DEBUG    fetch_frame function took 56.788 ms
+20599 2020-06-02 00:57:52,798.798 Detection_Func DEBUG    load_frame function took 94.970 ms
+20599 2020-06-02 00:57:52,804.804 Detection_Func DEBUG    resize_frame function took 2.570 ms
+20599 2020-06-02 00:57:52,888.888 Detection_Func DEBUG    inference function took 82.389 ms
+20599 2020-06-02 00:57:52,890.890 Detection_Func DEBUG    post_inference function took 1.314 ms
+20599 2020-06-02 00:57:52,891.891 root         INFO     Detection result: []
+20599 2020-06-02 00:57:52,893.893 RPi2         DEBUG    VehicleTracking's sort_update function took 1.774 ms
+20599 2020-06-02 00:57:52,894.894 root         INFO     Track result: []
+20599 2020-06-02 00:57:52,896.896 RPi2         DEBUG    frame_storage function took 0.969 ms
+20599 2020-06-02 00:57:52,947.947 RPi2         DEBUG    load_opencv_PIL function took 50.095 ms
+20599 2020-06-02 00:57:52,950.950 RPi2         DEBUG    VehicleTracking's status_update function took 0.089 ms
+20599 2020-06-02 00:57:52,951.951 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:53,008.008 Detection_Func DEBUG    fetch_frame function took 56.954 ms
+20599 2020-06-02 00:57:53,104.104 Detection_Func DEBUG    load_frame function took 95.075 ms
+20599 2020-06-02 00:57:53,111.111 Detection_Func DEBUG    resize_frame function took 2.512 ms
+20599 2020-06-02 00:57:53,193.193 Detection_Func DEBUG    inference function took 81.419 ms
+20599 2020-06-02 00:57:53,195.195 Detection_Func DEBUG    post_inference function took 1.291 ms
+20599 2020-06-02 00:57:53,196.196 root         INFO     Detection result: []
+20599 2020-06-02 00:57:53,199.199 RPi2         DEBUG    VehicleTracking's sort_update function took 1.793 ms
+20599 2020-06-02 00:57:53,199.199 root         INFO     Track result: []
+20599 2020-06-02 00:57:53,201.201 RPi2         DEBUG    frame_storage function took 0.952 ms
+20599 2020-06-02 00:57:53,252.252 RPi2         DEBUG    load_opencv_PIL function took 49.741 ms
+20599 2020-06-02 00:57:53,255.255 RPi2         DEBUG    VehicleTracking's status_update function took 0.089 ms
+20599 2020-06-02 00:57:53,256.256 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:53,311.311 Detection_Func DEBUG    fetch_frame function took 54.393 ms
+20599 2020-06-02 00:57:53,407.407 Detection_Func DEBUG    load_frame function took 95.163 ms
+20599 2020-06-02 00:57:53,413.413 Detection_Func DEBUG    resize_frame function took 2.510 ms
+20599 2020-06-02 00:57:53,497.497 Detection_Func DEBUG    inference function took 82.723 ms
+20599 2020-06-02 00:57:53,499.499 Detection_Func DEBUG    post_inference function took 1.347 ms
+20599 2020-06-02 00:57:53,500.500 root         INFO     Detection result: []
+20599 2020-06-02 00:57:53,502.502 RPi2         DEBUG    VehicleTracking's sort_update function took 1.788 ms
+20599 2020-06-02 00:57:53,503.503 root         INFO     Track result: []
+20599 2020-06-02 00:57:53,505.505 RPi2         DEBUG    frame_storage function took 1.235 ms
+20599 2020-06-02 00:57:53,556.556 RPi2         DEBUG    load_opencv_PIL function took 49.251 ms
+20599 2020-06-02 00:57:53,559.559 RPi2         DEBUG    VehicleTracking's status_update function took 0.086 ms
+20599 2020-06-02 00:57:53,559.559 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:53,635.635 Detection_Func DEBUG    fetch_frame function took 75.345 ms
+20599 2020-06-02 00:57:53,731.731 Detection_Func DEBUG    load_frame function took 94.992 ms
+20599 2020-06-02 00:57:53,738.738 Detection_Func DEBUG    resize_frame function took 2.561 ms
+20599 2020-06-02 00:57:53,823.823 Detection_Func DEBUG    inference function took 84.421 ms
+20599 2020-06-02 00:57:53,826.826 Detection_Func DEBUG    post_inference function took 1.419 ms
+20599 2020-06-02 00:57:53,826.826 root         INFO     Detection result: []
+20599 2020-06-02 00:57:53,829.829 RPi2         DEBUG    VehicleTracking's sort_update function took 1.803 ms
+20599 2020-06-02 00:57:53,830.830 root         INFO     Track result: []
+20599 2020-06-02 00:57:53,831.831 RPi2         DEBUG    frame_storage function took 0.981 ms
+20599 2020-06-02 00:57:53,882.882 RPi2         DEBUG    load_opencv_PIL function took 49.481 ms
+20599 2020-06-02 00:57:53,885.885 RPi2         DEBUG    VehicleTracking's status_update function took 0.090 ms
+20599 2020-06-02 00:57:53,886.886 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:53,941.941 Detection_Func DEBUG    fetch_frame function took 54.484 ms
+20599 2020-06-02 00:57:54,037.037 Detection_Func DEBUG    load_frame function took 95.316 ms
+20599 2020-06-02 00:57:54,043.043 Detection_Func DEBUG    resize_frame function took 2.540 ms
+20599 2020-06-02 00:57:54,127.127 Detection_Func DEBUG    inference function took 82.343 ms
+20599 2020-06-02 00:57:54,129.129 Detection_Func DEBUG    post_inference function took 1.348 ms
+20599 2020-06-02 00:57:54,130.130 root         INFO     Detection result: []
+20599 2020-06-02 00:57:54,132.132 RPi2         DEBUG    VehicleTracking's sort_update function took 1.784 ms
+20599 2020-06-02 00:57:54,133.133 root         INFO     Track result: []
+20599 2020-06-02 00:57:54,135.135 RPi2         DEBUG    frame_storage function took 1.052 ms
+20599 2020-06-02 00:57:54,185.185 RPi2         DEBUG    load_opencv_PIL function took 48.464 ms
+20599 2020-06-02 00:57:54,188.188 RPi2         DEBUG    VehicleTracking's status_update function took 0.087 ms
+20599 2020-06-02 00:57:54,189.189 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:54,241.241 Detection_Func DEBUG    fetch_frame function took 51.332 ms
+20599 2020-06-02 00:57:54,337.337 Detection_Func DEBUG    load_frame function took 95.057 ms
+20599 2020-06-02 00:57:54,343.343 Detection_Func DEBUG    resize_frame function took 2.587 ms
+20599 2020-06-02 00:57:54,427.427 Detection_Func DEBUG    inference function took 82.862 ms
+20599 2020-06-02 00:57:54,429.429 Detection_Func DEBUG    post_inference function took 1.708 ms
+20599 2020-06-02 00:57:54,430.430 root         INFO     Detection result: [[372.9087829589844, 169.14244651794434, 402.1710205078125, 186.76889419555664, 0.2109375]]
+20599 2020-06-02 00:57:54,434.434 RPi2         DEBUG    VehicleTracking's sort_update function took 3.325 ms
+20599 2020-06-02 00:57:54,435.435 root         INFO     Track result: []
+20599 2020-06-02 00:57:54,437.437 RPi2         DEBUG    frame_storage function took 0.993 ms
+20599 2020-06-02 00:57:54,486.486 RPi2         DEBUG    load_opencv_PIL function took 48.319 ms
+20599 2020-06-02 00:57:54,489.489 RPi2         DEBUG    VehicleTracking's status_update function took 0.087 ms
+20599 2020-06-02 00:57:54,490.490 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:54,548.548 Detection_Func DEBUG    fetch_frame function took 56.922 ms
+20599 2020-06-02 00:57:54,644.644 Detection_Func DEBUG    load_frame function took 94.889 ms
+20599 2020-06-02 00:57:54,649.649 Detection_Func DEBUG    resize_frame function took 2.085 ms
+20599 2020-06-02 00:57:54,732.732 Detection_Func DEBUG    inference function took 81.444 ms
+20599 2020-06-02 00:57:54,734.734 Detection_Func DEBUG    post_inference function took 1.192 ms
+20599 2020-06-02 00:57:54,735.735 root         INFO     Detection result: []
+20599 2020-06-02 00:57:54,739.739 RPi2         DEBUG    VehicleTracking's sort_update function took 3.690 ms
+20599 2020-06-02 00:57:54,740.740 root         INFO     Track result: []
+20599 2020-06-02 00:57:54,742.742 RPi2         DEBUG    frame_storage function took 0.983 ms
+20599 2020-06-02 00:57:54,791.791 RPi2         DEBUG    load_opencv_PIL function took 48.564 ms
+20599 2020-06-02 00:57:54,795.795 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:54,795.795 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:54,866.866 Detection_Func DEBUG    fetch_frame function took 70.301 ms
+20599 2020-06-02 00:57:54,962.962 Detection_Func DEBUG    load_frame function took 94.921 ms
+20599 2020-06-02 00:57:54,969.969 Detection_Func DEBUG    resize_frame function took 2.552 ms
+20599 2020-06-02 00:57:55,051.051 Detection_Func DEBUG    inference function took 81.386 ms
+20599 2020-06-02 00:57:55,053.053 Detection_Func DEBUG    post_inference function took 1.229 ms
+20599 2020-06-02 00:57:55,054.054 root         INFO     Detection result: []
+20599 2020-06-02 00:57:55,058.058 RPi2         DEBUG    VehicleTracking's sort_update function took 3.726 ms
+20599 2020-06-02 00:57:55,059.059 root         INFO     Track result: []
+20599 2020-06-02 00:57:55,061.061 RPi2         DEBUG    frame_storage function took 0.946 ms
+20599 2020-06-02 00:57:55,112.112 RPi2         DEBUG    load_opencv_PIL function took 49.983 ms
+20599 2020-06-02 00:57:55,115.115 RPi2         DEBUG    VehicleTracking's status_update function took 0.091 ms
+20599 2020-06-02 00:57:55,116.116 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:55,170.170 Detection_Func DEBUG    fetch_frame function took 53.273 ms
+20599 2020-06-02 00:57:55,266.266 Detection_Func DEBUG    load_frame function took 95.124 ms
+20599 2020-06-02 00:57:55,272.272 Detection_Func DEBUG    resize_frame function took 2.568 ms
+20599 2020-06-02 00:57:55,355.355 Detection_Func DEBUG    inference function took 82.171 ms
+20599 2020-06-02 00:57:55,358.358 Detection_Func DEBUG    post_inference function took 1.875 ms
+20599 2020-06-02 00:57:55,359.359 root         INFO     Detection result: [[94.17964935302734, 198.30459594726562, 144.7991180419922, 241.4479923248291, 0.41796875], [155.9896183013916, 188.6418914794922, 176.6704559326172, 211.40524864196777, 0.2109375]]
+20599 2020-06-02 00:57:55,367.367 RPi2         DEBUG    VehicleTracking's sort_update function took 7.194 ms
+20599 2020-06-02 00:57:55,368.368 root         INFO     Track result: []
+20599 2020-06-02 00:57:55,370.370 RPi2         DEBUG    frame_storage function took 1.005 ms
+20599 2020-06-02 00:57:55,420.420 RPi2         DEBUG    load_opencv_PIL function took 49.145 ms
+20599 2020-06-02 00:57:55,423.423 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:55,424.424 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:55,480.480 Detection_Func DEBUG    fetch_frame function took 55.156 ms
+20599 2020-06-02 00:57:55,576.576 Detection_Func DEBUG    load_frame function took 95.157 ms
+20599 2020-06-02 00:57:55,582.582 Detection_Func DEBUG    resize_frame function took 2.539 ms
+20599 2020-06-02 00:57:55,665.665 Detection_Func DEBUG    inference function took 81.585 ms
+20599 2020-06-02 00:57:55,667.667 Detection_Func DEBUG    post_inference function took 1.546 ms
+20599 2020-06-02 00:57:55,668.668 root         INFO     Detection result: [[110.97925186157227, 197.90825843811035, 146.10651016235352, 246.93692207336426, 0.2109375]]
+20599 2020-06-02 00:57:55,677.677 RPi2         DEBUG    VehicleTracking's sort_update function took 7.756 ms
+20599 2020-06-02 00:57:55,679.679 root         INFO     Track result: [[108.48580451 200.94885638 148.59814898 243.89581548   7.        ]]
+20599 2020-06-02 00:57:55,681.681 RPi2         DEBUG    frame_storage function took 0.960 ms
+20599 2020-06-02 00:57:55,731.731 RPi2         DEBUG    load_opencv_PIL function took 48.859 ms
+20599 2020-06-02 00:57:55,734.734 RPi2         DEBUG    VehicleTracking's status_update function took 0.361 ms
+20599 2020-06-02 00:57:55,735.735 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:55,785.785 Detection_Func DEBUG    fetch_frame function took 49.546 ms
+20599 2020-06-02 00:57:55,881.881 Detection_Func DEBUG    load_frame function took 94.826 ms
+20599 2020-06-02 00:57:55,887.887 Detection_Func DEBUG    resize_frame function took 2.092 ms
+20599 2020-06-02 00:57:55,971.971 Detection_Func DEBUG    inference function took 82.144 ms
+20599 2020-06-02 00:57:55,974.974 Detection_Func DEBUG    post_inference function took 1.995 ms
+20599 2020-06-02 00:57:55,975.975 root         INFO     Detection result: [[147.19470024108887, 189.02097702026367, 178.67525100708008, 214.4212245941162, 0.2109375], [134.05447006225586, 194.83469009399414, 169.1817283630371, 236.43024444580078, 0.2109375]]
+20599 2020-06-02 00:57:55,984.984 RPi2         DEBUG    VehicleTracking's sort_update function took 8.400 ms
+20599 2020-06-02 00:57:55,987.987 root         INFO     Track result: [[148.18142506 188.17301423 177.68869589 215.26910254   8.        ]]
+20599 2020-06-02 00:57:55,989.989 RPi2         DEBUG    frame_storage function took 0.952 ms
+20599 2020-06-02 00:57:56,040.040 RPi2         DEBUG    load_opencv_PIL function took 50.833 ms
+20599 2020-06-02 00:57:56,042.042 RPi2         DEBUG    VehicleTracking's status_update function took 0.230 ms
+20599 2020-06-02 00:57:56,042.042 root         DEBUG    FPS: 1.96
+20599 2020-06-02 00:57:56,111.111 Detection_Func DEBUG    fetch_frame function took 67.557 ms
+20599 2020-06-02 00:57:56,206.206 Detection_Func DEBUG    load_frame function took 94.485 ms
+20599 2020-06-02 00:57:56,212.212 Detection_Func DEBUG    resize_frame function took 2.543 ms
+20599 2020-06-02 00:57:56,295.295 Detection_Func DEBUG    inference function took 81.843 ms
+20599 2020-06-02 00:57:56,298.298 Detection_Func DEBUG    post_inference function took 1.667 ms
+20599 2020-06-02 00:57:56,299.299 root         INFO     Detection result: [[149.2445182800293, 188.2183599472046, 185.6789207458496, 211.82878017425537, 0.26953125]]
+20599 2020-06-02 00:57:56,307.307 RPi2         DEBUG    VehicleTracking's sort_update function took 7.690 ms
+20599 2020-06-02 00:57:56,310.310 root         INFO     Track result: [[149.82647957 187.13325348 183.38271724 213.61515216   8.        ]]
+20599 2020-06-02 00:57:56,312.312 RPi2         DEBUG    frame_storage function took 0.929 ms
+20599 2020-06-02 00:57:56,363.363 RPi2         DEBUG    load_opencv_PIL function took 50.278 ms
+20599 2020-06-02 00:57:56,364.364 RPi2         DEBUG    VehicleTracking's status_update function took 0.216 ms
+20599 2020-06-02 00:57:56,365.365 root         DEBUG    FPS: 2.00
+20599 2020-06-02 00:57:56,417.417 Detection_Func DEBUG    fetch_frame function took 51.727 ms
+20599 2020-06-02 00:57:56,513.513 Detection_Func DEBUG    load_frame function took 95.170 ms
+20599 2020-06-02 00:57:56,519.519 Detection_Func DEBUG    resize_frame function took 2.044 ms
+20599 2020-06-02 00:57:56,602.602 Detection_Func DEBUG    inference function took 81.835 ms
+20599 2020-06-02 00:57:56,605.605 Detection_Func DEBUG    post_inference function took 1.661 ms
+20599 2020-06-02 00:57:56,605.605 root         INFO     Detection result: [[142.98958778381348, 191.33710384368896, 196.46060943603516, 253.5080909729004, 0.2109375]]
+20599 2020-06-02 00:57:56,614.614 RPi2         DEBUG    VehicleTracking's sort_update function took 7.862 ms
+20599 2020-06-02 00:57:56,615.615 root         INFO     Track result: []
+20599 2020-06-02 00:57:56,617.617 RPi2         DEBUG    frame_storage function took 0.965 ms
+20599 2020-06-02 00:57:56,668.668 RPi2         DEBUG    load_opencv_PIL function took 50.333 ms
+20599 2020-06-02 00:57:56,669.669 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:56,670.670 root         DEBUG    FPS: 2.04
+20599 2020-06-02 00:57:56,722.722 Detection_Func DEBUG    fetch_frame function took 51.524 ms
+20599 2020-06-02 00:57:56,818.818 Detection_Func DEBUG    load_frame function took 95.332 ms
+20599 2020-06-02 00:57:56,825.825 Detection_Func DEBUG    resize_frame function took 2.876 ms
+20599 2020-06-02 00:57:56,907.907 Detection_Func DEBUG    inference function took 81.563 ms
+20599 2020-06-02 00:57:56,910.910 Detection_Func DEBUG    post_inference function took 1.455 ms
+20599 2020-06-02 00:57:56,911.911 root         INFO     Detection result: [[139.3707275390625, 192.60788440704346, 213.65970611572266, 260.7249641418457, 0.41796875]]
+20599 2020-06-02 00:57:56,920.920 RPi2         DEBUG    VehicleTracking's sort_update function took 8.919 ms
+20599 2020-06-02 00:57:56,923.923 root         INFO     Track result: [[141.29517126 190.75808744 211.733906   262.57391336  10.        ]]
+20599 2020-06-02 00:57:56,925.925 RPi2         DEBUG    frame_storage function took 1.062 ms
+20599 2020-06-02 00:57:56,976.976 RPi2         DEBUG    load_opencv_PIL function took 49.439 ms
+20599 2020-06-02 00:57:56,979.979 RPi2         DEBUG    VehicleTracking's status_update function took 0.259 ms
+20599 2020-06-02 00:57:56,986.986 root         INFO     Vehicle: 7 is leaving
+20599 2020-06-02 00:57:56,990.990 RPi2         DEBUG    feature_extraction_adaptive_histogram function took 3.959 ms
+20599 2020-06-02 00:57:57,136.136 root         INFO     Trajectory Vertex v[8360] (veh7, ferst_atlantic, 1591055876.991719) created.
+20599 2020-06-02 00:57:57,137.137 RPi2         DEBUG    vertex_storage function took 145.663 ms
+20599 2020-06-02 00:57:57,139.139 RPi2         DEBUG    messaging function took 1.620 ms
+20599 2020-06-02 00:57:57,140.140 root         INFO     Re-Id for vehicle 7: []
+20599 2020-06-02 00:57:57,141.141 RPi2         DEBUG    edge_storage function took 0.010 ms
+20599 2020-06-02 00:57:57,141.141 root         DEBUG    FPS: 2.07
+20599 2020-06-02 00:57:57,196.196 Detection_Func DEBUG    fetch_frame function took 53.517 ms
+20599 2020-06-02 00:57:57,291.291 Detection_Func DEBUG    load_frame function took 94.904 ms
+20599 2020-06-02 00:57:57,298.298 Detection_Func DEBUG    resize_frame function took 2.507 ms
+20599 2020-06-02 00:57:57,381.381 Detection_Func DEBUG    inference function took 82.873 ms
+20599 2020-06-02 00:57:57,384.384 Detection_Func DEBUG    post_inference function took 1.862 ms
+20599 2020-06-02 00:57:57,385.385 root         INFO     Detection result: [[121.3456916809082, 186.92599296569824, 243.00161361694336, 274.894495010376, 0.41796875], [170.93433380126953, 194.16053295135498, 265.13675689697266, 274.45006370544434, 0.2109375]]
+20599 2020-06-02 00:57:57,396.396 RPi2         DEBUG    VehicleTracking's sort_update function took 10.009 ms
+20599 2020-06-02 00:57:57,399.399 root         INFO     Track result: [[128.77789259 183.81968872 235.70156805 278.00015156  10.        ]]
+20599 2020-06-02 00:57:57,401.401 RPi2         DEBUG    frame_storage function took 0.931 ms
+20599 2020-06-02 00:57:57,452.452 RPi2         DEBUG    load_opencv_PIL function took 50.110 ms
+20599 2020-06-02 00:57:57,453.453 RPi2         DEBUG    VehicleTracking's status_update function took 0.209 ms
+20599 2020-06-02 00:57:57,454.454 root         DEBUG    FPS: 2.17
+20599 2020-06-02 00:57:57,525.525 Detection_Func DEBUG    fetch_frame function took 71.090 ms
+20599 2020-06-02 00:57:57,622.622 Detection_Func DEBUG    load_frame function took 95.260 ms
+20599 2020-06-02 00:57:57,628.628 Detection_Func DEBUG    resize_frame function took 2.745 ms
+20599 2020-06-02 00:57:57,711.711 Detection_Func DEBUG    inference function took 81.406 ms
+20599 2020-06-02 00:57:57,714.714 Detection_Func DEBUG    post_inference function took 2.280 ms
+20599 2020-06-02 00:57:57,715.715 root         INFO     Detection result: [[179.2211151123047, 188.6209774017334, 286.27384185791016, 286.7797565460205, 0.41796875], [140.65485000610352, 188.42286586761475, 228.2192039489746, 271.70010566711426, 0.26953125], [376.2031555175781, 170.67749977111816, 403.4033966064453, 188.62890243530273, 0.2109375]]
+20599 2020-06-02 00:57:57,727.727 RPi2         DEBUG    VehicleTracking's sort_update function took 11.729 ms
+20599 2020-06-02 00:57:57,731.731 root         INFO     Track result: [[178.26971021 189.48995001 287.2223079  285.91010574  11.        ]
+ [134.67509416 185.41269668 235.33851278 276.2673964   10.        ]]
+20599 2020-06-02 00:57:57,733.733 RPi2         DEBUG    frame_storage function took 0.932 ms
+20599 2020-06-02 00:57:57,783.783 RPi2         DEBUG    load_opencv_PIL function took 49.140 ms
+20599 2020-06-02 00:57:57,784.784 RPi2         DEBUG    VehicleTracking's status_update function took 0.296 ms
+20599 2020-06-02 00:57:57,787.787 root         INFO     Vehicle: 8 is leaving
+20599 2020-06-02 00:57:57,792.792 RPi2         DEBUG    feature_extraction_adaptive_histogram function took 3.679 ms
+20599 2020-06-02 00:57:57,938.938 root         INFO     Trajectory Vertex v[12304] (veh8, ferst_atlantic, 1591055877.792825) created.
+20599 2020-06-02 00:57:57,939.939 RPi2         DEBUG    vertex_storage function took 146.207 ms
+20599 2020-06-02 00:57:57,941.941 RPi2         DEBUG    messaging function took 1.663 ms
+20599 2020-06-02 00:57:57,942.942 root         INFO     Re-Id for vehicle 8: []
+20599 2020-06-02 00:57:57,942.942 RPi2         DEBUG    edge_storage function took 0.009 ms
+20599 2020-06-02 00:57:57,943.943 root         DEBUG    FPS: 2.20
+20599 2020-06-02 00:57:58,002.002 Detection_Func DEBUG    fetch_frame function took 58.394 ms
+20599 2020-06-02 00:57:58,098.098 Detection_Func DEBUG    load_frame function took 95.259 ms
+20599 2020-06-02 00:57:58,105.105 Detection_Func DEBUG    resize_frame function took 2.663 ms
+20599 2020-06-02 00:57:58,187.187 Detection_Func DEBUG    inference function took 81.820 ms
+20599 2020-06-02 00:57:58,190.190 Detection_Func DEBUG    post_inference function took 1.915 ms
+20599 2020-06-02 00:57:58,191.191 root         INFO     Detection result: [[172.96672821044922, 188.02820205688477, 303.84510040283203, 297.5577163696289, 0.41796875], [374.62772369384766, 172.88978576660156, 404.9788284301758, 191.50920867919922, 0.2109375]]
+20599 2020-06-02 00:57:58,201.201 RPi2         DEBUG    VehicleTracking's sort_update function took 9.387 ms
+20599 2020-06-02 00:57:58,205.205 root         INFO     Track result: [[374.88551167 172.729939   404.72104046 191.6685468   12.        ]
+ [174.92662982 187.26842592 302.94849907 298.11718417  11.        ]]
+20599 2020-06-02 00:57:58,207.207 RPi2         DEBUG    frame_storage function took 0.965 ms
+20599 2020-06-02 00:57:58,258.258 RPi2         DEBUG    load_opencv_PIL function took 49.866 ms
+20599 2020-06-02 00:57:58,259.259 RPi2         DEBUG    VehicleTracking's status_update function took 0.283 ms
+20599 2020-06-02 00:57:58,260.260 root         DEBUG    FPS: 2.25
+20599 2020-06-02 00:57:58,316.316 Detection_Func DEBUG    fetch_frame function took 55.539 ms
+20599 2020-06-02 00:57:58,412.412 Detection_Func DEBUG    load_frame function took 94.888 ms
+20599 2020-06-02 00:57:58,417.417 Detection_Func DEBUG    resize_frame function took 1.977 ms
+20599 2020-06-02 00:57:58,500.500 Detection_Func DEBUG    inference function took 81.789 ms
+20599 2020-06-02 00:57:58,502.502 Detection_Func DEBUG    post_inference function took 1.193 ms
+20599 2020-06-02 00:57:58,503.503 root         INFO     Detection result: []
+20599 2020-06-02 00:57:58,509.509 RPi2         DEBUG    VehicleTracking's sort_update function took 5.666 ms
+20599 2020-06-02 00:57:58,510.510 root         INFO     Track result: []
+20599 2020-06-02 00:57:58,512.512 RPi2         DEBUG    frame_storage function took 1.018 ms
+20599 2020-06-02 00:57:58,562.562 RPi2         DEBUG    load_opencv_PIL function took 48.525 ms
+20599 2020-06-02 00:57:58,563.563 RPi2         DEBUG    VehicleTracking's status_update function took 0.088 ms
+20599 2020-06-02 00:57:58,563.563 root         DEBUG    FPS: 2.30
+20599 2020-06-02 00:57:58,618.618 Detection_Func DEBUG    fetch_frame function took 53.586 ms
+20599 2020-06-02 00:57:58,714.714 Detection_Func DEBUG    load_frame function took 95.185 ms
+20599 2020-06-02 00:57:58,720.720 Detection_Func DEBUG    resize_frame function took 2.541 ms
+20599 2020-06-02 00:57:58,803.803 Detection_Func DEBUG    inference function took 82.065 ms
+20599 2020-06-02 00:57:58,805.805 Detection_Func DEBUG    post_inference function took 1.215 ms
+20599 2020-06-02 00:57:58,806.806 root         INFO     Detection result: []
+20599 2020-06-02 00:57:58,812.812 RPi2         DEBUG    VehicleTracking's sort_update function took 5.723 ms
+20599 2020-06-02 00:57:58,813.813 root         INFO     Track result: []
+20599 2020-06-02 00:57:58,815.815 RPi2         DEBUG    frame_storage function took 1.134 ms
+20599 2020-06-02 00:57:58,865.865 RPi2         DEBUG    load_opencv_PIL function took 48.510 ms
+20599 2020-06-02 00:57:58,868.868 RPi2         DEBUG    VehicleTracking's status_update function took 0.094 ms
+20599 2020-06-02 00:57:58,869.869 root         DEBUG    FPS: 2.37
+20599 2020-06-02 00:57:58,935.935 Detection_Func DEBUG    fetch_frame function took 65.165 ms
+20599 2020-06-02 00:57:59,031.031 Detection_Func DEBUG    load_frame function took 95.112 ms
+20599 2020-06-02 00:57:59,037.037 Detection_Func DEBUG    resize_frame function took 2.591 ms
+20599 2020-06-02 00:57:59,119.119 Detection_Func DEBUG    inference function took 81.659 ms
+20599 2020-06-02 00:57:59,122.122 Detection_Func DEBUG    post_inference function took 1.521 ms
+20599 2020-06-02 00:57:59,123.123 root         INFO     Detection result: [[220.03124237060547, 189.146089553833, 476.88671112060547, 368.3983325958252, 0.58203125]]
+20599 2020-06-02 00:57:59,131.131 RPi2         DEBUG    VehicleTracking's sort_update function took 7.723 ms
+20599 2020-06-02 00:57:59,134.134 root         INFO     Track result: [[227.45597148 184.96303638 463.35103188 371.02094733  11.        ]]
+20599 2020-06-02 00:57:59,136.136 RPi2         DEBUG    frame_storage function took 0.932 ms
+20599 2020-06-02 00:57:59,185.185 RPi2         DEBUG    load_opencv_PIL function took 48.670 ms
+20599 2020-06-02 00:57:59,188.188 RPi2         DEBUG    VehicleTracking's status_update function took 0.243 ms
+20599 2020-06-02 00:57:59,193.193 root         INFO     Vehicle: 10 is leaving
+20599 2020-06-02 00:57:59,201.201 RPi2         DEBUG    feature_extraction_adaptive_histogram function took 6.755 ms
+20599 2020-06-02 00:57:59,220.220 root         INFO     Trajectory Vertex v[16416] (veh10, ferst_atlantic, 1591055879.202105) created.
+20599 2020-06-02 00:57:59,221.221 RPi2         DEBUG    vertex_storage function took 19.484 ms
+20599 2020-06-02 00:57:59,224.224 RPi2         DEBUG    messaging function took 1.819 ms
+20599 2020-06-02 00:57:59,225.225 root         INFO     Re-Id for vehicle 10: []
+20599 2020-06-02 00:57:59,225.225 RPi2         DEBUG    edge_storage function took 0.010 ms
+20599 2020-06-02 00:57:59,226.226 root         DEBUG    FPS: 2.42
+20599 2020-06-02 00:57:59,283.283 Detection_Func DEBUG    fetch_frame function took 56.105 ms
+20599 2020-06-02 00:57:59,379.379 Detection_Func DEBUG    load_frame function took 94.949 ms
+20599 2020-06-02 00:57:59,385.385 Detection_Func DEBUG    resize_frame function took 2.649 ms

@@ -1,0 +1,65 @@
+{
+    "ferst_hemphill" : {
+        "location" : [33.778406, -84.401304],
+        "rotation" : 180,
+        "liveStream": {
+            "ip" : "130.207.122.57",
+            "port" : 4390
+        },
+        "cameraId" :  "0a14312e3030313838353136663739652e63616d30301a108b2fec19f3f449c48c97424072dd8a1f22104fa250e337cd40fa8af92b04b5258568380a"
+    },
+    "ferst_state" : {
+        "location" : [33.778279, -84.399226],
+        "rotation" : 0,
+        "liveStream": {
+            "ip" : "130.207.122.57",
+            "port" : 4391
+        },
+        "cameraId" : "0a14312e3030313838353136663737382e63616d30301a10de9ea6a6f0874b189b1b6524817a625122104fa250e337cd40fa8af92b04b5258568380a"
+    },
+    "ferst_atlantic" : {
+        "location" : [33.778254, -84.397794],
+        "rotation" : 180,
+        "liveStream": {
+            "ip" : "130.207.122.57",
+            "port" : 4392
+        },
+        "cameraId" : "0a14312e3030313838353136663736302e63616d30301a105cc05032411f4163a2222f2de109ef4622104fa250e337cd40fa8af92b04b5258568380a" 
+    },
+    "ferst_crc" : {
+        "location" : [33.775426, -84.402559],
+        "rotation" : 90,
+        "liveStream": {
+            "ip" : "130.207.122.57",
+            "port" : 4393
+        },
+        "cameraId" : "0a14312e3030313838353065376164362e63616d30301a10adf10a101be546978ad65d3108d90b3022104fa250e337cd40fa8af92b04b5258568380a"
+    },
+    "ferst_regents" : {
+        "location" : [33.774908, -84.402607],
+        "rotation" : 180,
+        "liveStream": {
+            "ip" : "130.207.122.57",
+            "port" : 4394
+        },
+        "cameraId" : "0a14312e3030313838353136646165612e63616d30301a10de9ea6a6f0874b189b1b6524817a625122104fa250e337cd40fa8af92b04b5258568380a"
+    },
+    "ferst_sc" : {
+        "location" : [33.773241, -84.398310],
+        "rotation" : -90,
+        "liveStream": {
+            "ip" : "130.207.122.57",
+            "port" : 4395
+        },
+        "cameraId" : "0a14312e3030313838353132316236662e63616d30301a10eaed3bbf9dbd4340b76c7ffef63f7e5722104fa250e337cd40fa8af92b04b5258568380a"
+    },
+    "ferst_cherry": {
+        "location" : [33.772363, -84.395505],
+        "rotation" : 180,
+        "liveStream": {
+            "ip" : "130.207.122.57",
+            "port" : 4396
+        },
+        "cameraId" : "0a14312e3030303437643332346165612e63616d30301a1024e0587b0ed346e3aeefaa910b2a5a1422104fa250e337cd40fa8af92b04b5258568380a"
+    }
+}
