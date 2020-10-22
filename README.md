@@ -14,4 +14,5 @@ Raspberry Pi ([Raspbian-lite](https://www.raspberrypi.org/downloads/raspberry-pi
 - VideoStorage: video_storage/run_video_storage_server.py
 - Main camera processing: version1/run.py, version2/rpi1_run.py, version2/rpi2_run.py
 
-
+#### Portable components
+- camera_topology/ contains the core of the camera topology management code which can be reused by other application that requires geographical information of cameras.
