@@ -1,7 +1,7 @@
 # Extract adaptive histogram for feature description.
 # See http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf for detail.
 
-#from skimage.feature import hog
+from skimage.feature import hog
 import numpy as np
 import math
 import cv2
@@ -51,17 +51,19 @@ def adaptive_hist(image):
     cv2.normalize(lab_hist, lab_hist)
 
     # Hog
-    #image_gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    #image_gray = cv2.resize(image_gray, (200,200))
-    #hog_hist = hog(image_gray, orientations=8, block_norm = 'L2-Hys', pixels_per_cell=(50,50), cells_per_block=(1,1), visualize=False).reshape(1, -1)
-    #cv2.normalize(hog_hist, hog_hist)
+    image_gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    image_gray = cv2.resize(image_gray, (200,200))
+    hog_hist = hog(image_gray, orientations=8, block_norm = 'L2-Hys', pixels_per_cell=(50,50), cells_per_block=(1,1), visualize=False).reshape(1, -1)
+    cv2.normalize(hog_hist, hog_hist)
 
     # type?
     #type_hist = np.zeros(8).reshape(1,8) + 0.5
     #type_hist[0, int(image_path[-5])] = 1
     #cv2.normalize(type_hist, type_hist)
 
-    thist = np.transpose(np.concatenate((3 * rgb_hist, hsv_hist, YCrCb_hist, lab_hist), axis=1))
+    #thist = np.transpose(np.concatenate((3 * rgb_hist, hsv_hist, YCrCb_hist, lab_hist, hog_hist), axis=1))
+    #thist = np.transpose(np.concatenate((3 * rgb_hist), axis=1))
+    thist = np.transpose(rgb_hist)
     thist = thist / sum(thist)
 
     return np.transpose(thist)[0]
